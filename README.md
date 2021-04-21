@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Edivaldo Junior</h1>
-<h3 align="center">Engatinahndo no C# / Aprendendo HTML + CSS + JavaScript / Monitoramento com Zabbix / Viciado em um video-game</h3>
+<h3 align="center">Engatinhando no C# / Aprendendo HTML + CSS + JavaScript / Monitoramento com Zabbix / Viciado em um video-game</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edijunior88&label=Profile%20views&color=0e75b6&style=flat" alt="edijunior88" /> </p>
 
