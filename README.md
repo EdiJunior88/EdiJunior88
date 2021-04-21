@@ -4,13 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edijunior88&label=Profile%20views&color=0e75b6&style=flat" alt="edijunior88" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edijunior88&show_icons=true&locale=en&layout=compact" alt="edijunior88" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=edijunior88" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edijunior88&show_icons=true&locale=en" alt="edijunior88" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edijunior88&" alt="edijunior88" /></p>
 
 <h3 align="left">Meus perfis:</h3>
 <p align="left">
 <a href="https://codepen.io/edijunior88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/edijunior88" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/edivaldo-junior/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/edivaldo-junior/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/edivaldo-junior/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/edivaldo-junior/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
