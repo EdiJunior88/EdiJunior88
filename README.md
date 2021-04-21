@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edijunior88&label=Profile%20views&color=0e75b6&style=flat" alt="edijunior88" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edijunior88&show_icons=true&locale=en&layout=compact" alt="edijunior88" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=edijunior88" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edijunior88&show_icons=true&locale=en" alt="edijunior88" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edijunior88&show_icons=true&locale=en&layout=compact&theme=dark" alt="edijunior88" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edijunior88&show_icons=true&locale=en&theme=synthwave" alt="edijunior88" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edijunior88&" alt="edijunior88" /></p>
 
 <h3 align="left">Meus perfis:</h3>
