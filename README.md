@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Edivaldo Junior</h1>
 <h3 align="center">Engatinhando no C# / Aprendendo HTML + CSS + JavaScript / Monitoramento com Zabbix / Viciado em um video-game</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edijunior88&label=Profile%20views&color=0e75b6&style=flat" alt="edijunior88" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=edijunior88&label=Profile%20views&color=0e75b6&style=flat" alt="edijunior88" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edijunior88&show_icons=true&locale=en&layout=compact&theme=dark" alt="edijunior88" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edijunior88&show_icons=true&locale=en&theme=synthwave" alt="edijunior88" /></p>
