@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://codepen.io/edijunior88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/edijunior88" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/edivaldo-junior/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/edivaldo-junior/" height="30" width="40" /></a>
+<a href="https://www.freecodecamp.org/portuguese/edijunior88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/freecodecamp.svg" alt="https://www.freecodecamp.org/portuguese/edijunior88" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
