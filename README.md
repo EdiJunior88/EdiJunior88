@@ -12,10 +12,23 @@
 </p>
 
 <h3 align="left">Meus perfis:</h3>
+
 <p align="left">
-<a href="https://codepen.io/edijunior88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/edijunior88" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/edivaldo-junior/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/edivaldo-junior/" height="30" width="40" /></a>
-<a href="https://www.freecodecamp.org/portuguese/edijunior88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/freecodecamp.svg" alt="https://www.freecodecamp.org/portuguese/edijunior88" height="40" width="50" /></a>
+  <a href="https://codepen.io/edijunior88" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/edijunior88" height="30" width="40" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/edivaldo-junior/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/edivaldo-junior/" height="30" width="40" />
+  </a>
+  
+  <a href="https://www.freecodecamp.org/portuguese/edijunior88" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/freecodecamp.svg" alt="https://www.freecodecamp.org/portuguese/edijunior88" height="40" width="50" />
+  </a>
+  
+  <a href="https://cursos.alura.com.br/user/er-moura88" target="blank">
+    <img align="center" src="https://pbs.twimg.com/profile_images/1465517409058570248/EBGK2oya_400x400.jpg" alt="https://cursos.alura.com.br/user/er-moura88" height="40" width="50" />
+  </a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
