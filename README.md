@@ -27,7 +27,7 @@
   </a>
   
   <a href="https://cursos.alura.com.br/user/er-moura88" target="blank">
-    <img align="center" src="https://pbs.twimg.com/profile_images/1465517409058570248/EBGK2oya_400x400.jpg" alt="https://cursos.alura.com.br/user/er-moura88" height="40" width="50" />
+    <img align="center" src="https://pbs.twimg.com/profile_images/1465517409058570248/EBGK2oya_400x400.jpg" alt="https://cursos.alura.com.br/user/er-moura88" height="30" width="30" />
   </a>
 </p>
 
