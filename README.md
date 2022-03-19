@@ -12,6 +12,9 @@
 </p>
 
 <!-- waka-box start -->
+#### <a href="https://gist.github.com/EdiJunior88/e652a726886011d571eee5a93e46ab8f" target="_blank">📊 Codando durante a semana</a>
+```text
+JAVASCRIPT 🕓 0h0m ▊░░░░░░░░░░░░░░░░░░░░ 0.0%
  <!-- waka-box end -->
 
 <h3 align="left">Meus perfis:</h3>
