@@ -1,44 +1,38 @@
 <div align="center">
-  <p>
-    <h1>Edivaldo Junior</h1>
-    <a href="https://github.com/Daniel-Vinicius">
-      <img alt="Desenvolvedor-Junior" src="https://img.shields.io/badge/DESENVOLVEDOR-Junior-brightgreen">
-    </a>
-  <p>
+  <h3>Olá, meu nome é Edivaldo Junior</h3>
+  <a href="https://github.com/Daniel-Vinicius">
+    <img alt="Desenvolvedor-Junior" src="https://img.shields.io/badge/DESENVOLVEDOR-Junior-brightgreen">
+  </a>
+  
+  <hr>
+  
+  <p><i>Atualmente estou mudando de área (sou especialista em suporte técnico) e estou pronto <br>
+  para novas aventuras nesse novo caminho que me espera no front-end</i></p>
     
+  <hr>
 
-  <h2>Atualmente estudando as seguintes tecnologias</h2>
+  <h3>📚 Estudando as seguintes tecnologias</h3>
   
   | <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> |  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">  |  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">  |  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">  |
   | :-------------------: | :-------------------: | :-------------------: | :-------------------: |
   | HTML5                 | CSS                   | JAVASCRIPT            | REACT                 |
-
-
-  <p>
-  </p>  
-</div>
-
-
-
-<h1 align="center">Olá 👋, eu sou Edivaldo Junior</h1>
-<h3 align="center">Engatinhando no C# / Aprendendo HTML + CSS + JavaScript / Monitoramento com Zabbix / Viciado em um video-game</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edijunior88&label=Profile%20views&color=0e75b6&style=flat" alt="edijunior88" /> </p>
-
-<p align=center>
+  
+  <h3>⏲️ Uso da linguagem por semana<h3>
+    <figure>
+      <a href="https://wakatime.com"><img src="https://wakatime.com/share/@EdiJunior/e485af35-e3f2-437b-935b-adc79b954f9e.png" width="400px" height="auto" /></a>
+    </figure>
+   
+   <h3>Meu Status no GithHub</h3>
+ 
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edijunior88&show_icons=true&locale=en&layout=compact&theme=dark" alt="edijunior88"/>
   
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=edijunior88&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="edijunior88"/>
 
   <img height=195 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edijunior88&" alt="edijunior88"/>
 </p>
-
-<!-- waka-box start -->
-#### <a href="https://gist.github.com/EdiJunior88/e652a726886011d571eee5a93e46ab8f" target="_blank">📊 Codando durante a semana</a>
-```text
-JAVASCRIPT 🕓 0h0m ▊░░░░░░░░░░░░░░░░░░░░ 0.0%
-```
- <!-- waka-box end -->
+    
+</div>
+   
 
 <h3 align="left">Meus perfis:</h3>
 
@@ -94,6 +88,7 @@ JAVASCRIPT 🕓 0h0m ▊░░░░░░░░░░░░░░░░░░�
 </p>
 
 - 📫 Se quiser entrar em contato comigo **er.moura88@yahoo.com.br**
+  [![Image of https://github.com/EdiJunior88/view_profile](https://github.com/EdiJunior88/view_profile/blob/master/svg/profile/badge.svg)](https://github.com/EdiJunior88/view_profile)
 
 
 
