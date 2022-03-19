@@ -11,6 +11,9 @@
   <img height=195 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edijunior88&" alt="edijunior88"/>
 </p>
 
+<!-- waka-box start -->
+ <!-- waka-box end -->
+
 <h3 align="left">Meus perfis:</h3>
 
 <p align="left">
