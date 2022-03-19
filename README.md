@@ -1,3 +1,25 @@
+<div align="center">
+  <p>
+    <h1>Edivaldo Junior</h1>
+    <a href="https://github.com/Daniel-Vinicius">
+      <img alt="Desenvolvedor-Junior" src="https://img.shields.io/badge/DESENVOLVEDOR-Junior-brightgreen">
+    </a>
+  <p>
+    
+
+  <h2>Atualmente estudando as seguintes tecnologias</h2>
+  
+  | <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> |  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">  |  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">  |  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">  |
+  | :-------------------: | :-------------------: | :-------------------: | :-------------------: |
+  | HTML5                 | CSS                   | JAVASCRIPT            | REACT                 |
+
+
+  <p>
+  </p>  
+</div>
+
+
+
 <h1 align="center">Olá 👋, eu sou Edivaldo Junior</h1>
 <h3 align="center">Engatinhando no C# / Aprendendo HTML + CSS + JavaScript / Monitoramento com Zabbix / Viciado em um video-game</h3>
 
