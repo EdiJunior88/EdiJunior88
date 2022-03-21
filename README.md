@@ -2,6 +2,10 @@
   <h3>Olá, meu nome é Edivaldo Junior</h3>
   <a href="https://github.com/Daniel-Vinicius">
     <img alt="Desenvolvedor-Junior" src="https://img.shields.io/badge/DESENVOLVEDOR-Junior-brightgreen">
+    <img alt="Reinando-C#" src="https://img.shields.io/badge/Reinando-C%23-blue">
+    <img alt="Viciado-VideoGame" src="https://img.shields.io/badge/Sou%20Muito%20Viciado-Video--Game-red">
+    <img alt="Ler-Estudar" src="https://img.shields.io/badge/Adoro%20ler%20e%20estudar-Ci%C3%AAncias-yellowgreen">
+    <img alt="Não-vivo" src="https://img.shields.io/badge/N%C3%A3o%20vivo%20sem-Tecnologia-green">
   </a>
   
   <hr>
