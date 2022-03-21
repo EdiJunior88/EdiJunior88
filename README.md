@@ -26,18 +26,36 @@
       <a href="https://wakatime.com"><img src="https://wakatime.com/share/@EdiJunior/e485af35-e3f2-437b-935b-adc79b954f9e.png" width="400px" height="auto" /></a>
     </figure>
    
-   <h3>Meu Status no GithHub</h3>
- 
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edijunior88&show_icons=true&locale=en&layout=compact&theme=dark" alt="edijunior88"/>
-  
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=edijunior88&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="edijunior88"/>
+  <h3>Meu Status no GithHub</h3>
+    <figure>
+      <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edijunior88&show_icons=true&locale=en&layout=compact&theme=dark" alt="edijunior88"/>
 
-  <img height=195 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edijunior88&" alt="edijunior88"/>
-</p>
+      <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=edijunior88&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="edijunior88"/>
+
+      <img height=195 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edijunior88&" alt="edijunior88"/>
+    </figure>
+
+  <h3>Meus Perfis Sociais</h3>
+    <p>
+    <a href="https://codepen.io/edijunior88" target="blank">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/edijunior88" height="30" width="40" />
+    </a>
+
+    <a href="https://www.linkedin.com/in/edivaldo-junior/" target="blank">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/edivaldo-junior/" height="30" width="40" />
+    </a>
+
+    <a href="https://www.freecodecamp.org/portuguese/edijunior88" target="blank">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/freecodecamp.svg" alt="https://www.freecodecamp.org/portuguese/edijunior88" height="40" width="50" />
+    </a>
+
+    <a href="https://cursos.alura.com.br/user/er-moura88" target="blank">
+      <img align="center" src="https://pbs.twimg.com/profile_images/1465517409058570248/EBGK2oya_400x400.jpg" alt="https://cursos.alura.com.br/user/er-moura88" height="30" width="30" />
+    </a>
+      </p>
     
 </div>
    
-
 <h3 align="left">Meus perfis:</h3>
 
 <p align="left">
