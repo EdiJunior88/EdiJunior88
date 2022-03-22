@@ -1,6 +1,6 @@
 <div align="center">
   
-<!-- <img src="https://p0.piqsels.com/preview/920/519/697/abstract-php-c-analytics.jpg" width="40%"> -->
+<img src="https://p0.piqsels.com/preview/920/519/697/abstract-php-c-analytics.jpg" width="50%">
 
 <h2>Olá, meu nome é Edivaldo Junior <img src="https://i.imgur.com/uzszOEy.gif" width="7%"></h2> 
   
@@ -17,11 +17,10 @@
 - Atualmente estou mudando de área (sou especialista em suporte técnico)
 + Estou tendo novos conhecimentos nesse novo caminho que me espera no front-end
 ! Cada dia aprendo mais a lógica de como as linguagens se comportam
+@@ Já pensei em desistir porque o caminho é difícil, mas quando olha-se para trás a satisfação é bem maior @@  
 ```
 
-
-<hr>
-  
+<hr> 
   
 <h3>📚 Estudando as seguintes tecnologias</h3>
 
@@ -43,7 +42,7 @@
 [![Image of https://github.com/EdiJunior88/view_profile](https://github.com/EdiJunior88/view_profile/blob/master/svg/profile/badge.svg)](https://github.com/EdiJunior88/view_profile)
 
 <table>
-<tr  border="none">
+<tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=edijunior88&show_icons=true&locale=pt-br&layout=default&theme=yeblu&">
 </td>
@@ -52,73 +51,91 @@
 </td>
 </tr>
  
-<tr>
-<td colspan="2" align="center">
+<tr align="center">
+<td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edijunior88&show_icons=true&locale=pt-br&layout=default&theme=jolly">
+</td>
+<td>
+<img src="https://github-profile-trophy.vercel.app/?username=edijunior88&theme=dracula&column=3&margin-w=15&margin-h=15">
 </td>
 </tr>
 </table>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=edijunior88&show_icons=true&locale=pt-br&layout=default&theme=yeblu&" width="40%">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=edijunior88&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" width="40%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edijunior88&show_icons=true&locale=pt-br&layout=default&theme=jolly" width="30%">
-
+<hr>
   
-
 <h3>Meus Perfis Sociais</h3>
 <p>
 <a href="https://codepen.io/edijunior88" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/edijunior88" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="codepen" width="4.5%">
 </a>
 
 <a href="https://www.linkedin.com/in/edivaldo-junior/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/edivaldo-junior/" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" width="4.5%">
 </a>
 
 <a href="https://www.freecodecamp.org/portuguese/edijunior88" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/freecodecamp.svg" alt="https://www.freecodecamp.org/portuguese/edijunior88" height="40" width="50" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/freecodecamp.svg" alt="freecodecamp"width="6.5%">
 </a>
 
 <a href="https://cursos.alura.com.br/user/er-moura88" target="blank">
-<img align="center" src="https://pbs.twimg.com/profile_images/1465517409058570248/EBGK2oya_400x400.jpg" alt="https://cursos.alura.com.br/user/er-moura88" height="30" width="30" />
+<img align="center" src="https://pbs.twimg.com/profile_images/1465517409058570248/EBGK2oya_400x400.jpg" alt="alura" width="4.5%" />
 </a>
 </p>
 
+<hr>
+  
+<h3>Frameworks / Softwares</h3>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-
-<p align="left"> 
-<a href="https://www.w3schools.com/css/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a> 
-
-<a href="https://www.w3.org/html/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-
+<p> 
 <a href="https://getbootstrap.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="5%"> 
 </a>  
-
-<a href="https://www.linux.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  
+<a href="https://sass-lang.com/" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="Sass" width="5.5%"> 
 </a> 
 
 <a href="https://grafana.com" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="5%"> 
 </a>  
 
 <a href="https://www.zabbix.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="zabbix" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="zabbix" width="5%"> 
 </a>
-
+  
+<a href="https://www.fortinet.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4e2df6a35f61ab59c681ce872afd6a2c2fd8ed53/icons/fortinet.svg" alt="fortinet" width="5%"> 
+</a>  
+  
+<a href="https://www.oracle.com/br/index.html" target="_blank"> 
+<img src="https://raw.githubusercontent.com/fizzed/font-mfizz/ccff3ec9555918c0a67ed6b5f360af5841045e3e/src/svg/oracle-alt.svg" alt="oracle" width="5%"> 
+</a>  
+  
+<a href="https://www.nagios.org/" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/nagios/nagios-icon.svg" alt="nagios" width="5%"> 
+</a>
+  
+<a href="https://www.wireshark.org/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/maxogden/hexbin/90a6aae0ebb12d4ac9810f870b67100d913a18f4/vector/wireshark.svg" alt="wireshark" width="5%"> 
+</a>
+  
+<a href="https://www.linux.org/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="5%"> 
+</a> 
+  
+<a href="https://www.microsoft.com/pt-br/windows/?r=1" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/windows8/windows8-original.svg" alt="Windows" width="5%"> 
+</a> 
+  
+<a href="https://code.visualstudio.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" alt="VSCode" width="5%"> 
+</a> 
+  
+<a href="https://www.jetbrains.com/pt-br/webstorm/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/webstorm-icon.svg" alt="Webstorm" width="5%"> 
+</a> 
+  
 </p>
-
-- 📫 Se quiser entrar em contato comigo **er.moura88@yahoo.com.br**
  
 
 <div>
