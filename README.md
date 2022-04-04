@@ -32,7 +32,7 @@
  
 <h3>⏲️ Uso da linguagem por semana<h3>
 <figure>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@EdiJunior/e485af35-e3f2-437b-935b-adc79b954f9e.png" width="400px" height="auto" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@EdiJunior/d39b8024-59c9-4b8d-8c43-551f5e2565d6.png" width="400px" height="auto" /></a>
 </figure>
 
 <hr>
