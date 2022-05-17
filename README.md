@@ -90,10 +90,6 @@
 <a href="https://getbootstrap.com/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="5%"> 
 </a>  
-  
-<a href="https://sass-lang.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="Sass" width="5.5%"> 
-</a> 
 
 <a href="https://grafana.com" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="5%"> 
