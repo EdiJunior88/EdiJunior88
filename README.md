@@ -2,7 +2,10 @@
   
 <img src="https://p0.piqsels.com/preview/920/519/697/abstract-php-c-analytics.jpg" width="50%">
 
-<h2>Olá, meu nome é Edivaldo Junior <img src="https://i.imgur.com/uzszOEy.gif" width="7%"></h2> 
+<p align="center">
+  <h2>Olá, meu nome é Edivaldo Junior</h2> 
+  <img src="https://i.imgur.com/uzszOEy.gif" width="11.5%"> 
+</p>
   
 <img alt="Desenvolvedor-Junior" src="https://img.shields.io/badge/DESENVOLVEDOR-Junior-brightgreen">
 <img alt="Reinando-C#" src="https://img.shields.io/badge/Reinando-C%23-blue">
@@ -24,9 +27,9 @@
   
 <h3>📚 Estudando as seguintes tecnologias</h3>
 
-| <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> |  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">  |  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">  |  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">  |
-| :-------------------: | :-------------------: | :-------------------: | :-------------------: |
-| HTML5                 | CSS                   | JAVASCRIPT            | REACT                 |
+| <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> |  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">  |  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">  |  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">  | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">  |
+| :-------------------: | :-------------------: | :-------------------: | :-------------------: |  :-------------------: |
+| HTML5                 | CSS                   | JAVASCRIPT            | REACT                 |  MySQL                 |
 
 <hr>
  
