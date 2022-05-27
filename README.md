@@ -59,7 +59,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edijunior88&show_icons=true&locale=pt-br&layout=default&theme=jolly">
 </td>
 <td>
-<img src="https://github-profile-trophy.vercel.app/?username=edijunior88&theme=dracula&column=3&margin-w=15&margin-h=15">
+<img src="https://github-trophies.vercel.app/?username=EdiJunior88&theme=juicyfresh&column=3&margin-w=15&margin-h=15">
 </td>
 </tr>
 </table>
