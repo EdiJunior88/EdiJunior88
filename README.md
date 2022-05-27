@@ -81,7 +81,7 @@
 </a>
 
 <a href="https://cursos.alura.com.br/user/er-moura88" target="blank">
-<img align="center" src="https://pbs.twimg.com/profile_images/1465517409058570248/EBGK2oya_400x400.jpg" alt="alura" width="4.5%" />
+<img align="center" src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4" alt="alura" width="4.5%" />
 </a>
 </p>
 
