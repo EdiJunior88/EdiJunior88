@@ -27,9 +27,9 @@
   
 <h3>📚 Estudando as seguintes tecnologias</h3>
 
-| <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> |  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">  |  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">  |  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">  | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">  | <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">  |
-| :-------------------: | :-------------------: | :-------------------: | :-------------------: |  :-------------------: |  :-------------------: |
-| HTML5                 | CSS                   | JAVASCRIPT            | REACT                 |  MySQL                 |  ANGULAR               |
+| <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> |  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">  |  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">  |  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">  | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">  | <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">  | <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">  |
+| :-------------------: | :-------------------: | :-------------------: | :-------------------: |  :-------------------: |  :-------------------: |  :-------------------: |
+| HTML5                 | CSS                   | JAVASCRIPT            | REACT                 |  MySQL                 |  ANGULAR               |  TYPESCRIPT               |
 
 <hr>
  
