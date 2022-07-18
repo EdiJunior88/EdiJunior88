@@ -4,7 +4,7 @@
 
 <p align="center">
   <h2>Olá, meu nome é Edivaldo Junior</h2> 
-  <img src="https://i.imgur.com/uzszOEy.gif" width="5%"> 
+  <img src="https://i.imgur.com/uzszOEy.gif" width="60px"> 
 </p>
   
 <img alt="Desenvolvedor-Junior" src="https://img.shields.io/badge/DESENVOLVEDOR-Junior-brightgreen">
