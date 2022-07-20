@@ -79,10 +79,6 @@
 <a href="https://www.freecodecamp.org/portuguese/edijunior88" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/freecodecamp.svg" alt="freecodecamp"width="6.5%">
 </a>
-
-<a href="https://cursos.alura.com.br/user/er-moura88" target="blank">
-<img align="center" src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4" alt="alura" width="4.5%" />
-</a>
 </p>
 
 <hr>
