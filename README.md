@@ -32,6 +32,17 @@
 | HTML5                 | CSS                   | JAVASCRIPT            | REACT                 |  MySQL                 |  ANGULAR               |  TYPESCRIPT               |
 
 <hr>
+
+<h3>🗃️ Projetos</h3>
+
+<details>
+  <summary>React</summary>
+  <strong>Ninja List</strong> - https://hackathon-ninjalist.netlify.app/
+  <strong>hashtag finder</strong> - https://projeto-hashtagfinder.netlify.app/
+  <strong>App Envio de Dinheiro</strong> - https://edijunior88.github.io/NewTab_Academy_Projeto_Individual_React/
+</details>
+
+<hr>
  
 <h3>⏲️ Uso da linguagem por semana<h3>
 <figure>
