@@ -42,6 +42,20 @@
   <strong>App Envio de Dinheiro</strong> - https://edijunior88.github.io/NewTab_Academy_Projeto_Individual_React/ <br>
 </details>
 
+<details>
+  <summary>Angular</summary> <br>
+  <strong>Todo List (Lista de Tarefas)</strong> - https://edijunior88.github.io/Balta.io_Comecando_com_Angular/ <br>
+</details>
+
+<details>
+  <summary>JavaScrit</summary> <br>
+  <strong>Controle Financeiro</strong> - https://edijunior88.github.io/NewTab_Academy_Projeto_Individual_JavaScript/ <br>
+  <strong>Lista de Cadastro</strong> - https://edijunior88.github.io/NewTab_Academy_Projeto_Guiado_JavaScript/ <br>
+  <strong>MusicDot</strong> - https://edijunior88.github.io/Caelum_HTML_CSS_JavaScript/ <br>
+  <strong>Consumo de kW/h</strong> - https://edijunior88.github.io/Projeto_Verificar_KWh/ <br>
+  <strong>Portfólio</strong> - https://edijunior88.github.io/Portifolio/ <br>
+</details>
+
 <hr>
  
 <h3>⏲️ Uso da linguagem por semana<h3>
