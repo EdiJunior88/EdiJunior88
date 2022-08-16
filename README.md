@@ -27,9 +27,61 @@
   
 <h3>📚 Estudando as seguintes tecnologias</h3>
 
-| <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> |  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">  |  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">  |  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">  | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">  | <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">  | <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">  |
-| :-------------------: | :-------------------: | :-------------------: | :-------------------: |  :-------------------: |  :-------------------: |  :-------------------: |
-| HTML5                 | CSS                   | JAVASCRIPT            | REACT                 |  MySQL                 |  ANGULAR               |  TYPESCRIPT               |
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
+    </td>
+     <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
+    </td>
+     <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
+    </td>
+     <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+    </td>
+     <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      HTML5
+    </td>
+    <td align="center">
+      CSS
+    </td>
+    <td align="center">
+      JAVASCRIPT
+    </td>
+    <td align="center">
+      REACT
+    </td>
+     <td align="center">
+      MYSQL
+    </td>
+     <td align="center">
+      ANGULAR
+    </td>
+     <td align="center">
+      TYPESCRIPT
+    </td>
+     <td align="center">
+      PHP
+    </td>
+  </tr>
+</table>
 
 <hr>
 
