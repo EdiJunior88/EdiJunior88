@@ -172,6 +172,14 @@
 <a href="https://getbootstrap.com/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="5%"> 
 </a>  
+  
+<a href="https://angular.io" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="5%"> 
+</a>  
+
+<a href="https://swiperjs.com" target="_blank"> 
+<img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/803d8b3eae44c0f5738a94b383ac512a759d4c65/src/drivers/webextension/images/icons/swiper.svg" alt="swiper" width="5%"> 
+</a>
 
 <a href="https://grafana.com" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="5%"> 
@@ -211,6 +219,10 @@
   
 <a href="https://www.jetbrains.com/pt-br/webstorm/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/webstorm-icon.svg" alt="Webstorm" width="5%"> 
+</a> 
+  
+<a href="https://www.jetbrains.com/pt-br/" target="_blank"> 
+<img src="https://vectorwiki.com/images/ZgSyR__intellij-idea.svg" alt="Intellij IDEA" width="5%"> 
 </a> 
   
 </p>
