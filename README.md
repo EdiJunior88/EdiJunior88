@@ -139,7 +139,7 @@
  
 <tr align="center">
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edijunior88&show_icons=true&locale=pt-br&layout=default&theme=jolly">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edijunior88&show_icons=true&locale=pt-br&layout=default&theme=jolly&langs_count=8">
 </td>
 <td>
 <img src="https://github-trophies.vercel.app/?username=EdiJunior88&theme=juicyfresh&column=3&margin-w=15&margin-h=15">
