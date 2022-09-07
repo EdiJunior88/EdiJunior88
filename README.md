@@ -170,59 +170,75 @@
 
 <p> 
 <a href="https://getbootstrap.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="5%"> 
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" title="Bootstrap" width="5%"> 
 </a>  
   
 <a href="https://angular.io" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="5%"> 
+<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" title="angular" width="5%"> 
 </a>  
 
 <a href="https://swiperjs.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/803d8b3eae44c0f5738a94b383ac512a759d4c65/src/drivers/webextension/images/icons/swiper.svg" alt="swiper" width="5%"> 
+<img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/803d8b3eae44c0f5738a94b383ac512a759d4c65/src/drivers/webextension/images/icons/swiper.svg" title="swiper" width="5%"> 
+</a>
+  
+<a href="https://github.com/css-modules/css-modules" target="_blank"> 
+<img src="https://raw.githubusercontent.com/css-modules/logos/master/css-modules-logo.png" title="css modules" width="5.5%"> 
+</a>
+  
+<a href="https://react-bootstrap.github.io/" target="_blank"> 
+<img src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4" title="Bootstrap React" width="5%"> 
 </a>
 
 <a href="https://grafana.com" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="5%"> 
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" title="grafana" width="5%"> 
 </a>  
 
 <a href="https://www.zabbix.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="zabbix" width="5%"> 
+<img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" title="zabbix" width="5%"> 
 </a>
   
 <a href="https://www.fortinet.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4e2df6a35f61ab59c681ce872afd6a2c2fd8ed53/icons/fortinet.svg" alt="fortinet" width="5%"> 
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4e2df6a35f61ab59c681ce872afd6a2c2fd8ed53/icons/fortinet.svg" title="fortinet" width="5%"> 
 </a>  
   
 <a href="https://www.oracle.com/br/index.html" target="_blank"> 
-<img src="https://raw.githubusercontent.com/fizzed/font-mfizz/ccff3ec9555918c0a67ed6b5f360af5841045e3e/src/svg/oracle-alt.svg" alt="oracle" width="5%"> 
+<img src="https://raw.githubusercontent.com/fizzed/font-mfizz/ccff3ec9555918c0a67ed6b5f360af5841045e3e/src/svg/oracle-alt.svg" title="oracle" width="5%"> 
 </a>  
   
 <a href="https://www.nagios.org/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/nagios/nagios-icon.svg" alt="nagios" width="5%"> 
+<img src="https://www.vectorlogo.zone/logos/nagios/nagios-icon.svg" title="nagios" width="5%"> 
 </a>
   
 <a href="https://www.wireshark.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/maxogden/hexbin/90a6aae0ebb12d4ac9810f870b67100d913a18f4/vector/wireshark.svg" alt="wireshark" width="5%"> 
+<img src="https://raw.githubusercontent.com/maxogden/hexbin/90a6aae0ebb12d4ac9810f870b67100d913a18f4/vector/wireshark.svg" title="wireshark" width="4.5%"> 
 </a>
   
-<a href="https://www.linux.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="5%"> 
+<a href="https://www.deepin.org/index/en" target="_blank"> 
+<img src="https://vectorwiki.com/images/oQZzM__deepin-logo.svg" title="Deepin" width="5.5%"> 
 </a> 
   
+<a href="https://ubuntu.com/download" target="_blank"> 
+<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/ubuntu.svg" title="Ubuntu" width="5%"> 
+</a> 
+  
+<a href="https://linuxmint.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/linux-mint.svg" title="Mint" width="5%"> 
+</a>
+  
+<a href="https://www.debian.org/index.pt.html" target="_blank"> 
+<img src="https://raw.githubusercontent.com/materialos/icons/23e72cd191c715d7ec914f13d4953840a79e4aa1/Files/Debian.svg" title="Debian" width="5%"> 
+</a>
+  
 <a href="https://www.microsoft.com/pt-br/windows/?r=1" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/windows8/windows8-original.svg" alt="Windows" width="5%"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/windows8/windows8-original.svg" title="Windows" width="5%"> 
 </a> 
   
 <a href="https://code.visualstudio.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" alt="VSCode" width="5%"> 
-</a> 
-  
-<a href="https://www.jetbrains.com/pt-br/webstorm/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/webstorm-icon.svg" alt="Webstorm" width="5%"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" title="VSCode" width="5%"> 
 </a> 
   
 <a href="https://www.jetbrains.com/pt-br/" target="_blank"> 
-<img src="https://vectorwiki.com/images/ZgSyR__intellij-idea.svg" alt="Intellij IDEA" width="5%"> 
+<img src="https://vectorwiki.com/images/ZgSyR__intellij-idea.svg" title="Intellij IDEA" width="5%"> 
 </a> 
   
 </p>
