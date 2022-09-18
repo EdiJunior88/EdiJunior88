@@ -189,6 +189,10 @@
 <img src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4" title="Bootstrap React" width="5%"> 
 </a>
 
+<a href="https://www.figma.com/" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="figma" width="5%"> 
+</a>
+
 <a href="https://grafana.com" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" title="grafana" width="5%"> 
 </a>  
@@ -204,10 +208,6 @@
 <a href="https://www.oracle.com/br/index.html" target="_blank"> 
 <img src="https://raw.githubusercontent.com/fizzed/font-mfizz/ccff3ec9555918c0a67ed6b5f360af5841045e3e/src/svg/oracle-alt.svg" title="oracle" width="5%"> 
 </a>  
-  
-<a href="https://www.nagios.org/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/nagios/nagios-icon.svg" title="nagios" width="5%"> 
-</a>
   
 <a href="https://www.wireshark.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/maxogden/hexbin/90a6aae0ebb12d4ac9810f870b67100d913a18f4/vector/wireshark.svg" title="wireshark" width="4.5%"> 
