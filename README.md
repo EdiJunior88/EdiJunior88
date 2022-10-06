@@ -7,8 +7,8 @@
   <img src="https://i.imgur.com/uzszOEy.gif" width="60px"> 
 </p>
   
-<img alt="Desenvolvedor-Junior" src="https://img.shields.io/badge/DESENVOLVEDOR-Junior-brightgreen">
-<img alt="Reinando-C#" src="https://img.shields.io/badge/Reinando-C%23-blue">
+<img alt="Front-End-Junior" src="https://img.shields.io/badge/FRONT--END-Junior-brightgreen">
+<img alt="Reinando-React" src="https://img.shields.io/badge/REINANDO-React-blue">
 <img alt="Viciado-VideoGame" src="https://img.shields.io/badge/Sou%20Muito%20Viciado-Video--Game-red">
 <img alt="Ler-Estudar" src="https://img.shields.io/badge/Adoro%20ler%20e%20estudar-Ci%C3%AAncias-yellowgreen">
 <img alt="Não-vivo" src="https://img.shields.io/badge/N%C3%A3o%20vivo%20sem-Tecnologia-green">
