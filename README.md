@@ -186,7 +186,7 @@
 </a>
 
 <a href="https://styled-components.com/" target="_blank"> 
-<img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" title="styled components" width="5.5%"> 
+<img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" title="styled components" width="5%"> 
 </a>
   
 <a href="https://react-bootstrap.github.io/" target="_blank"> 
