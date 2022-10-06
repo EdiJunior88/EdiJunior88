@@ -184,6 +184,10 @@
 <a href="https://github.com/css-modules/css-modules" target="_blank"> 
 <img src="https://raw.githubusercontent.com/css-modules/logos/master/css-modules-logo.png" title="css modules" width="5.5%"> 
 </a>
+
+<a href="https://styled-components.com/" target="_blank"> 
+<img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" title="styled components" width="5.5%"> 
+</a>
   
 <a href="https://react-bootstrap.github.io/" target="_blank"> 
 <img src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4" title="Bootstrap React" width="5%"> 
@@ -213,21 +217,9 @@
 <img src="https://raw.githubusercontent.com/maxogden/hexbin/90a6aae0ebb12d4ac9810f870b67100d913a18f4/vector/wireshark.svg" title="wireshark" width="4.5%"> 
 </a>
   
-<a href="https://www.deepin.org/index/en" target="_blank"> 
-<img src="https://vectorwiki.com/images/oQZzM__deepin-logo.svg" title="Deepin" width="5.5%"> 
+<a href="https://www.linux.org/pages/download/" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" width="5%"> 
 </a> 
-  
-<a href="https://ubuntu.com/download" target="_blank"> 
-<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/ubuntu.svg" title="Ubuntu" width="5%"> 
-</a> 
-  
-<a href="https://linuxmint.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/linux-mint.svg" title="Mint" width="5%"> 
-</a>
-  
-<a href="https://www.debian.org/index.pt.html" target="_blank"> 
-<img src="https://raw.githubusercontent.com/materialos/icons/23e72cd191c715d7ec914f13d4953840a79e4aa1/Files/Debian.svg" title="Debian" width="5%"> 
-</a>
   
 <a href="https://www.microsoft.com/pt-br/windows/?r=1" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/windows8/windows8-original.svg" title="Windows" width="5%"> 
