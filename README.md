@@ -100,7 +100,7 @@
 </details>
 
 <details>
-  <summary>JavaScrit</summary> <br>
+  <summary>JavaScript</summary> <br>
   <strong>Portfólio</strong> - https://edijunior88.github.io/Portifolio/ <br>
   <strong>Controle Financeiro</strong> - https://edijunior88.github.io/NewTab_Academy_Projeto_Individual_JavaScript/ <br>
   <strong>Lista de Cadastro</strong> - https://edijunior88.github.io/NewTab_Academy_Projeto_Guiado_JavaScript/ <br>
