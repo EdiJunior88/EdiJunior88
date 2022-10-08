@@ -101,11 +101,12 @@
 
 <details>
   <summary>JavaScrit</summary> <br>
+  <strong>Portfólio</strong> - https://edijunior88.github.io/Portifolio/ <br>
   <strong>Controle Financeiro</strong> - https://edijunior88.github.io/NewTab_Academy_Projeto_Individual_JavaScript/ <br>
   <strong>Lista de Cadastro</strong> - https://edijunior88.github.io/NewTab_Academy_Projeto_Guiado_JavaScript/ <br>
   <strong>MusicDot</strong> - https://edijunior88.github.io/Caelum_HTML_CSS_JavaScript/ <br>
   <strong>Consumo de kW/h</strong> - https://edijunior88.github.io/Projeto_Verificar_KWh/ <br>
-  <strong>Portfólio</strong> - https://edijunior88.github.io/Portifolio/ <br>
+  <strong>Imersão DEV ALURA</strong> - https://edijunior88.github.io/Imersao_Dev_Alura/ <br>
 </details>
 
 <hr>
