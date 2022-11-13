@@ -92,6 +92,7 @@
   <strong>Ninja List</strong> - https://hackathon-ninjalist.netlify.app/ <br>
   <strong>hashtag finder</strong> - https://projeto-hashtagfinder.netlify.app/ <br>
   <strong>App Envio de Dinheiro</strong> - https://edijunior88.github.io/NewTab_Academy_Projeto_Individual_React/ <br>
+  <strong>AluraTube</strong> - https://aluratube-imersao-dev.vercel.app/ <br>
 </details>
 
 <details>
