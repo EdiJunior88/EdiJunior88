@@ -110,6 +110,11 @@
   <strong>Imersão DEV ALURA</strong> - https://edijunior88.github.io/Imersao_Dev_Alura/ <br>
 </details>
 
+<details>
+  <summary>HTML E CSS</summary> <br>
+  <strong>Web Design Responsivo</strong> - https://edijunior88.github.io/FreeCodeCamp_Projetos_do_Design_Responsivo/ <br>
+</details>
+
 <hr>
 <h3>📅 Codando desde 08 de Novembro de 2017 (WakaTime)<h3>
 <h6>Mas cá entre nós, estou codando pra valer mesmo a partir do início de 2020</h6>
