@@ -60,16 +60,7 @@
       REACT
     </td>
      <td align="center">
-      MYSQL
-    </td>
-     <td align="center">
-      ANGULAR
-    </td>
-     <td align="center">
       TYPESCRIPT
-    </td>
-     <td align="center">
-      PHP
     </td>
   </tr>
 </table>
