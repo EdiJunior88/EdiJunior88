@@ -42,16 +42,7 @@
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
     </td>
      <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
-    </td>
-     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
-    </td>
-     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
-    </td>
-     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg">
     </td>
   </tr>
 
