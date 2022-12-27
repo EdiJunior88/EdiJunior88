@@ -95,7 +95,7 @@
 
 <details>
   <summary>HTML E CSS</summary> <br>
-  <strong>Web Design Responsivo</strong> - <a hrf="https://edijunior88.github.io/FreeCodeCamp_Projetos_do_Design_Responsivo/" target="_blank">https://edijunior88.github.io/FreeCodeCamp_Projetos_do_Design_Responsivo/</a> <br>
+  <strong>Web Design Responsivo</strong> - <a href="https://edijunior88.github.io/FreeCodeCamp_Projetos_do_Design_Responsivo/" target="_blank">https://edijunior88.github.io/FreeCodeCamp_Projetos_do_Design_Responsivo/</a> <br>
 </details>
 
 <hr>
