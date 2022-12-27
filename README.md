@@ -71,30 +71,31 @@
 
 <details>
   <summary>React</summary> <br>
-  <strong>Ninja List</strong> - https://hackathon-ninjalist.netlify.app/ <br>
-  <strong>hashtag finder</strong> - https://projeto-hashtagfinder.netlify.app/ <br>
-  <strong>App Envio de Dinheiro</strong> - https://edijunior88.github.io/NewTab_Academy_Projeto_Individual_React/ <br>
-  <strong>AluraTube</strong> - https://aluratube-imersao-dev.vercel.app/ <br>
+  <strong>Gerenciador de Receitas</strong> - <a href="https://microsoft-learn-react.netlify.app/" target="_blank">https://microsoft-learn-react.netlify.app/</a> <br>
+  <strong>Ninja List</strong> - <a href="https://hackathon-ninjalist.netlify.app/" target="_blank">https://hackathon-ninjalist.netlify.app/</a> <br>
+  <strong>hashtag finder</strong> - <a href="https://projeto-hashtagfinder.netlify.app/" target="_blank">https://projeto-hashtagfinder.netlify.app/</a> <br>
+  <strong>App Envio de Dinheiro</strong> - <a href="https://edijunior88.github.io/NewTab_Academy_Projeto_Individual_React/" target="_blank">https://edijunior88.github.io/NewTab_Academy_Projeto_Individual_React/</a> <br>
+  <strong>AluraTube</strong> - <a href="https://aluratube-imersao-dev.vercel.app/" target="_blank">https://aluratube-imersao-dev.vercel.app/</a> <br>
 </details>
 
 <details>
   <summary>Angular</summary> <br>
-  <strong>Todo List (Lista de Tarefas)</strong> - https://edijunior88.github.io/Balta.io_Comecando_com_Angular/ <br>
+  <strong>Todo List (Lista de Tarefas)</strong> - <a href="https://edijunior88.github.io/Balta.io_Comecando_com_Angular/" target="_blank">https://edijunior88.github.io/Balta.io_Comecando_com_Angular/</a> <br>
 </details>
 
 <details>
   <summary>JavaScript</summary> <br>
-  <strong>Portfólio</strong> - https://edijunior88.github.io/Portifolio/ <br>
-  <strong>Controle Financeiro</strong> - https://edijunior88.github.io/NewTab_Academy_Projeto_Individual_JavaScript/ <br>
-  <strong>Lista de Cadastro</strong> - https://edijunior88.github.io/NewTab_Academy_Projeto_Guiado_JavaScript/ <br>
-  <strong>MusicDot</strong> - https://edijunior88.github.io/Caelum_HTML_CSS_JavaScript/ <br>
-  <strong>Consumo de kW/h</strong> - https://edijunior88.github.io/Projeto_Verificar_KWh/ <br>
-  <strong>Imersão DEV ALURA</strong> - https://edijunior88.github.io/Imersao_Dev_Alura/ <br>
+  <strong>Portfólio</strong> - <a href="https://edijunior88.github.io/Portifolio/" target="_blank">https://edijunior88.github.io/Portifolio/</a> <br>
+  <strong>Controle Financeiro</strong> - <a href="https://edijunior88.github.io/NewTab_Academy_Projeto_Individual_JavaScript/" target="_blank">https://edijunior88.github.io/NewTab_Academy_Projeto_Individual_JavaScript/</a> <br>
+  <strong>Lista de Cadastro</strong> - <a href="https://edijunior88.github.io/NewTab_Academy_Projeto_Guiado_JavaScript/" target="_blank">https://edijunior88.github.io/NewTab_Academy_Projeto_Guiado_JavaScript/</a> <br>
+  <strong>MusicDot</strong> - <a href="https://edijunior88.github.io/Caelum_HTML_CSS_JavaScript/" target="_blank">https://edijunior88.github.io/Caelum_HTML_CSS_JavaScript/</a> <br>
+  <strong>Consumo de kW/h</strong> - <a href="https://edijunior88.github.io/Projeto_Verificar_KWh/" target="_blank">https://edijunior88.github.io/Projeto_Verificar_KWh/</a> <br>
+  <strong>Imersão DEV ALURA</strong> - <a href="https://edijunior88.github.io/Imersao_Dev_Alura/" target="_blank">https://edijunior88.github.io/Imersao_Dev_Alura/</a> <br>
 </details>
 
 <details>
   <summary>HTML E CSS</summary> <br>
-  <strong>Web Design Responsivo</strong> - https://edijunior88.github.io/FreeCodeCamp_Projetos_do_Design_Responsivo/ <br>
+  <strong>Web Design Responsivo</strong> - <a hrf="https://edijunior88.github.io/FreeCodeCamp_Projetos_do_Design_Responsivo/" target="_blank">https://edijunior88.github.io/FreeCodeCamp_Projetos_do_Design_Responsivo/</a> <br>
 </details>
 
 <hr>
