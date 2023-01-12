@@ -120,16 +120,16 @@
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=edijunior88&show_icons=true&locale=pt-br&layout=default&theme=yeblu&">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=edijunior88&show_icons=true&theme=nightowl&locale=pt-br">
 </td>
 <td>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=edijunior88&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=edijunior88&theme=radical&hide_border=true&locale=pt_BR">
 </td>
 </tr>
  
 <tr align="center">
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edijunior88&show_icons=true&locale=pt-br&layout=default&theme=jolly&langs_count=8">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=edijunior88&show_icons=true&locale=pt-br&layout=default&theme=jolly&langs_count=8">
 </td>
 <td>
 <img src="https://github-trophies.vercel.app/?username=EdiJunior88&theme=juicyfresh&column=3&margin-w=15&margin-h=15">
