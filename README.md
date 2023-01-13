@@ -71,6 +71,7 @@
 
 <details>
   <summary>React</summary> <br>
+   <strong>Consulta Quadrinhos<strong> - <a href="https://consulta-quadrinhos.netlify.app/" target="_blank">https://consulta-quadrinhos.netlify.app/</a> <br>
   <strong>Gerenciador de Receitas</strong> - <a href="https://microsoft-learn-react.netlify.app/" target="_blank">https://microsoft-learn-react.netlify.app/</a> <br>
   <strong>Ninja List</strong> - <a href="https://hackathon-ninjalist.netlify.app/" target="_blank">https://hackathon-ninjalist.netlify.app/</a> <br>
   <strong>hashtag finder</strong> - <a href="https://projeto-hashtagfinder.netlify.app/" target="_blank">https://projeto-hashtagfinder.netlify.app/</a> <br>
