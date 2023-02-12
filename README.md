@@ -75,7 +75,7 @@
   <strong>Gerenciador de Receitas</strong> - <a href="https://microsoft-learn-react.netlify.app/" target="_blank">https://microsoft-learn-react.netlify.app/</a> <br>
   <strong>Ninja List</strong> - <a href="https://hackathon-ninjalist.netlify.app/" target="_blank">https://hackathon-ninjalist.netlify.app/</a> <br>
   <strong>hashtag finder</strong> - <a href="https://projeto-hashtagfinder.netlify.app/" target="_blank">https://projeto-hashtagfinder.netlify.app/</a> <br>
-  <strong>App Envio de Dinheiro</strong> - <a href="https://edijunior88.github.io/NewTab_Academy_Projeto_Individual_React/" target="_blank">https://edijunior88.github.io/NewTab_Academy_Projeto_Individual_React/</a> <br>
+  <strong>App Envio de Dinheiro</strong> - <a href="https://newtab-academy-react.netlify.app/" target="_blank">https://newtab-academy-react.netlify.app/</a> <br>
   <strong>AluraTube</strong> - <a href="https://aluratube-imersao-dev.vercel.app/" target="_blank">https://aluratube-imersao-dev.vercel.app/</a> <br>
 </details>
 
