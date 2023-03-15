@@ -44,6 +44,9 @@
      <td align="center">
       <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
     </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+    </td>
   </tr>
 
   <tr>
@@ -61,6 +64,9 @@
     </td>
      <td align="center">
       TYPESCRIPT
+    </td>
+    <td align="center">
+      JEST
     </td>
   </tr>
 </table>
