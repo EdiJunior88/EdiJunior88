@@ -48,7 +48,7 @@
       <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
     </td>
     <td align="center">
-      <img src=https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
     </td>
   </tr>
 
