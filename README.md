@@ -72,7 +72,7 @@
       JEST
     </td>
     <td align="center">
-      Tailwind CSS V2.0
+      Tailwind CSS
     </td>
   </tr>
 </table>
