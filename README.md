@@ -47,6 +47,9 @@
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
     </td>
+    <td align="center">
+      <img src=https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+    </td>
   </tr>
 
   <tr>
@@ -67,6 +70,9 @@
     </td>
     <td align="center">
       JEST
+    </td>
+    <td align="center">
+      Tailwind CSS V2.0
     </td>
   </tr>
 </table>
