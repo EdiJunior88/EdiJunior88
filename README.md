@@ -98,7 +98,7 @@
 
 <details>
   <summary>JavaScript</summary> <br>
-  <strong>Portfólio</strong> - <a href="https://edijunior88.github.io/Portifolio/" target="_blank">https://edijunior88.github.io/Portifolio/</a> <br>
+  <strong>Portfólio</strong> - <a href="https://edijunior88.github.io/Portfolio/" target="_blank">https://edijunior88.github.io/Portifolio/</a> <br>
   <strong>Controle Financeiro</strong> - <a href="https://edijunior88.github.io/NewTab_Academy_Projeto_Individual_JavaScript/" target="_blank">https://edijunior88.github.io/NewTab_Academy_Projeto_Individual_JavaScript/</a> <br>
   <strong>Lista de Cadastro</strong> - <a href="https://edijunior88.github.io/NewTab_Academy_Projeto_Guiado_JavaScript/" target="_blank">https://edijunior88.github.io/NewTab_Academy_Projeto_Guiado_JavaScript/</a> <br>
   <strong>MusicDot</strong> - <a href="https://edijunior88.github.io/Caelum_HTML_CSS_JavaScript/" target="_blank">https://edijunior88.github.io/Caelum_HTML_CSS_JavaScript/</a> <br>
