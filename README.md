@@ -180,16 +180,20 @@
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" title="Bootstrap" width="5%"> 
 </a>  
   
-<a href="https://angular.io" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" title="angular" width="5%"> 
-</a>  
+<a href="https://vitejs.dev/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/detain/svg-logos/aecbca0b533703a389211cddb0ca159a5d50553e/svg/vitejs.svg" title="ViteJS" width="5%"> 
+</a> 
+  
+<a href="https://tailwindcss.com/" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" width="6%"> 
+</a> 
 
 <a href="https://swiperjs.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/803d8b3eae44c0f5738a94b383ac512a759d4c65/src/drivers/webextension/images/icons/swiper.svg" title="swiper" width="5%"> 
 </a>
   
 <a href="https://github.com/css-modules/css-modules" target="_blank"> 
-<img src="https://raw.githubusercontent.com/css-modules/logos/master/css-modules-logo.png" title="css modules" width="5.5%"> 
+<img src="https://raw.githubusercontent.com/css-modules/logos/master/css-modules-logo.png" title="css modules" width="5.8%"> 
 </a>
 
 <a href="https://styled-components.com/" target="_blank"> 
@@ -216,14 +220,6 @@
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4e2df6a35f61ab59c681ce872afd6a2c2fd8ed53/icons/fortinet.svg" title="fortinet" width="5%"> 
 </a>  
   
-<a href="https://www.oracle.com/br/index.html" target="_blank"> 
-<img src="https://raw.githubusercontent.com/fizzed/font-mfizz/ccff3ec9555918c0a67ed6b5f360af5841045e3e/src/svg/oracle-alt.svg" title="oracle" width="5%"> 
-</a>  
-  
-<a href="https://www.wireshark.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/maxogden/hexbin/90a6aae0ebb12d4ac9810f870b67100d913a18f4/vector/wireshark.svg" title="wireshark" width="4.5%"> 
-</a>
-  
 <a href="https://www.linux.org/pages/download/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" width="5%"> 
 </a> 
@@ -234,10 +230,6 @@
   
 <a href="https://code.visualstudio.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" title="VSCode" width="5%"> 
-</a> 
-  
-<a href="https://www.jetbrains.com/pt-br/" target="_blank"> 
-<img src="https://vectorwiki.com/images/ZgSyR__intellij-idea.svg" title="Intellij IDEA" width="5%"> 
 </a> 
   
 </p>
