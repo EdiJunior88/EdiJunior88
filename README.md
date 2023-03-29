@@ -47,9 +47,9 @@
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
     </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
-    </td>
+     <td align="center">
+       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/7735c9f92092e98f5afc8d2c29e7a0f0571da1a1/icons/remix.svg">
+     </td>
   </tr>
 
   <tr>
@@ -72,7 +72,7 @@
       JEST
     </td>
     <td align="center">
-      Tailwind CSS
+      REMIX
     </td>
   </tr>
 </table>
