@@ -108,6 +108,7 @@
 
 <details>
   <summary>HTML E CSS</summary> <br>
+  <strong>Tailwind CSS (v2.0)</strong> - <a href="https://edijunior88.github.io/TailwindCSS_2_para_Iniciantes/" target="_blank">https://edijunior88.github.io/TailwindCSS_2_para_Iniciantes/</a> <br>
   <strong>Web Design Responsivo</strong> - <a href="https://edijunior88.github.io/FreeCodeCamp_Projetos_do_Design_Responsivo/" target="_blank">https://edijunior88.github.io/FreeCodeCamp_Projetos_do_Design_Responsivo/</a> <br>
 </details>
 
