@@ -47,6 +47,9 @@
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
     </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/f2c2676e7e96c1a796109ff18534bd116eef009f/public/logos/vitest.svg">
+    </td>
      <td align="center">
        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/7735c9f92092e98f5afc8d2c29e7a0f0571da1a1/icons/remix.svg">
      </td>
@@ -70,6 +73,9 @@
     </td>
     <td align="center">
       JEST
+    </td>
+    <td align="center">
+      VITEST
     </td>
     <td align="center">
       REMIX
