@@ -89,12 +89,23 @@
 
 <details>
   <summary>React</summary> <br>
-   <strong>Consulta Quadrinhos<strong> - <a href="https://consulta-quadrinhos.netlify.app/" target="_blank">https://consulta-quadrinhos.netlify.app/</a> <br>
-  <strong>Gerenciador de Receitas</strong> - <a href="https://microsoft-learn-react.netlify.app/" target="_blank">https://microsoft-learn-react.netlify.app/</a> <br>
+  <strong>Consulta Quadrinhos<strong> - <a href="https://consulta-quadrinhos.netlify.app/" target="_blank">https://consulta-quadrinhos.netlify.app/</a> <br>
+  <span>Repositório<span> - <a href="https://github.com/EdiJunior88/Consulta_Quadrinhos" target="_blank">https://github.com/EdiJunior88/Consulta_Quadrinhos</a> <br>
+  <span>****************************************************************************************************************************<span> <br>
+  <strong>Gerenciador de Receitas</strong> - <a href="https://github.com/EdiJunior88/Consulta_Quadrinhos" target="_blank">https://github.com/EdiJunior88/Consulta_Quadrinhos</a> <br>
+  <span>Repositório<span> - <a href="https://github.com/EdiJunior88/Microsoft_Learn_Crie-seus_primeiros_aplicativos_Web_com_React" target="_blank">https://github.com/EdiJunior88/Microsoft_Learn_Crie-seus_primeiros_aplicativos_Web_com_React</a> <br>
+  <span>****************************************************************************************************************************<span> <br>
   <strong>Ninja List</strong> - <a href="https://hackathon-ninjalist.netlify.app/" target="_blank">https://hackathon-ninjalist.netlify.app/</a> <br>
+  <span>Repositório<span> - <a href="https://github.com/EdiJunior88/hackathon-listaProdutos" target="_blank">https://github.com/EdiJunior88/hackathon-listaProdutos</a> <br>
+  <span>****************************************************************************************************************************<span> <br>
   <strong>hashtag finder</strong> - <a href="https://projeto-hashtagfinder.netlify.app/" target="_blank">https://projeto-hashtagfinder.netlify.app/</a> <br>
+  <span>Repositório<span> - <a href="https://github.com/EdiJunior88/Projeto-hashtagFinder" target="_blank">https://github.com/EdiJunior88/Projeto-hashtagFinder</a> <br>
+  <span>****************************************************************************************************************************<span> <br>
   <strong>App Envio de Dinheiro</strong> - <a href="https://newtab-academy-react.netlify.app/" target="_blank">https://newtab-academy-react.netlify.app/</a> <br>
+  <span>Repositório<span> - <a href="https://github.com/EdiJunior88/NewTab_Academy_Projeto_Individual_React" target="_blank">https://github.com/EdiJunior88/NewTab_Academy_Projeto_Individual_React</a> <br>
+  <span>****************************************************************************************************************************<span> <br>
   <strong>AluraTube</strong> - <a href="https://aluratube-imersao-dev.vercel.app/" target="_blank">https://aluratube-imersao-dev.vercel.app/</a> <br>
+  <span>Repositório<span> - <a href="https://github.com/EdiJunior88/Imersao_React_Alura" target="_blank">https://github.com/EdiJunior88/Imersao_React_Alura</a> <br>
 </details>
 
 <details>
