@@ -89,6 +89,7 @@
 
 <details>
   <summary>React</summary> <br>
+  <strong>GitHub Finder<strong> - <a href="https://githubfinder-edijunior88.netlify.app/" target="_blank">https://githubfinder-edijunior88.netlify.app/</a> <br>
   <strong>My Todo List<strong> - <a href="https://baltaio-mytodolist.netlify.app/" target="_blank">https://baltaio-mytodolist.netlify.app/</a> <br>
   <strong>Consulta Quadrinhos<strong> - <a href="https://consulta-quadrinhos.netlify.app/" target="_blank">https://consulta-quadrinhos.netlify.app/</a> <br>
   <strong>Gerenciador de Receitas</strong> - <a href="https://github.com/EdiJunior88/Consulta_Quadrinhos" target="_blank">https://github.com/EdiJunior88/Consulta_Quadrinhos</a> <br>
