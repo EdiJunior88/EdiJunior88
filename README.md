@@ -47,9 +47,6 @@
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/f2c2676e7e96c1a796109ff18534bd116eef009f/public/logos/vitest.svg">
-    </td>
      <td align="center">
        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/7735c9f92092e98f5afc8d2c29e7a0f0571da1a1/icons/remix.svg">
      </td>
@@ -60,7 +57,7 @@
       HTML5
     </td>
     <td align="center">
-      CSS
+      CSS3
     </td>
     <td align="center">
       JAVASCRIPT
@@ -75,9 +72,6 @@
       JEST
     </td>
     <td align="center">
-      VITEST
-    </td>
-    <td align="center">
       REMIX
     </td>
   </tr>
@@ -89,6 +83,7 @@
 
 <details>
   <summary>React</summary> <br>
+  <strong>AluraTube v2<strong> - <a href="https://aluratube-v2.netlify.app/" target="_blank">https://aluratube-v2.netlify.app/</a> <br>
   <strong>GitHub Finder<strong> - <a href="https://githubfinder-edijunior88.netlify.app/" target="_blank">https://githubfinder-edijunior88.netlify.app/</a> <br>
   <strong>My Todo List<strong> - <a href="https://baltaio-mytodolist.netlify.app/" target="_blank">https://baltaio-mytodolist.netlify.app/</a> <br>
   <strong>Consulta Quadrinhos<strong> - <a href="https://consulta-quadrinhos.netlify.app/" target="_blank">https://consulta-quadrinhos.netlify.app/</a> <br>
