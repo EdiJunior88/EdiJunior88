@@ -30,25 +30,28 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="70%">
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
+      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="80%">
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40%">
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="70%">
     </td>
      <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40%">
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+      <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="80%">
     </td>
      <td align="center">
-       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/7735c9f92092e98f5afc8d2c29e7a0f0571da1a1/icons/remix.svg">
+       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/7735c9f92092e98f5afc8d2c29e7a0f0571da1a1/icons/remix.svg" width="20%">
+     </td>
+    <td align="center">
+       <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/material-ui.svg" width="25%">
      </td>
   </tr>
 
@@ -73,6 +76,9 @@
     </td>
     <td align="center">
       REMIX
+    </td>
+    <td align="center">
+      MATERIAL UI
     </td>
   </tr>
 </table>
