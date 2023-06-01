@@ -169,11 +169,11 @@
 </a>  
   
 <a href="https://learn.microsoft.com/pt-br/users/edijunior-5626/" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoft.svg" alt="microsoft learn" title="microsoft learn" width="4.5%">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoft.svg" alt="microsoft learn" title="Microsoft Learn" width="4.5%">
 </a>  
   
 <a href="https://codepen.io/edijunior88" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="codepen" width="4.5%">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="codepen" title="Codepen" width="4.5%">
 </a>
 
 <a href="https://www.linkedin.com/in/edivaldo-junior/" target="_blank">
