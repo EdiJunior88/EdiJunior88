@@ -164,8 +164,12 @@
   
 <h3>📩 Meus Perfis Sociais</h3>
 <p>
+<a href="https://wakatime.com/@EdiJunior" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/wakatime.svg" alt="WakaTime" title="WakaTime" width="4.5%">
+</a>  
+  
 <a href="https://learn.microsoft.com/pt-br/users/edijunior-5626/" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoft.svg" alt="microsoft learn" width="4.5%">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoft.svg" alt="microsoft learn" title="microsoft learn" width="4.5%">
 </a>  
   
 <a href="https://codepen.io/edijunior88" target="_blank">
@@ -173,11 +177,11 @@
 </a>
 
 <a href="https://www.linkedin.com/in/edivaldo-junior/" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" width="4.5%">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" title="linkedin" width="4.5%">
 </a>
 
 <a href="https://www.freecodecamp.org/portuguese/edijunior88" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/freecodecamp.svg" alt="freecodecamp"width="6.5%">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/freecodecamp.svg" alt="freecodecamp" title="freecodecamp" width="6.5%">
 </a>
 </p>
 
