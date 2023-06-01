@@ -129,9 +129,9 @@
 
 <hr>
  
-<h3>⏲️ Uso da linguagem por semana<h3>
+<h3>⏲️ Uso da linguagem por ano<h3>
 <figure>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@EdiJunior/d39b8024-59c9-4b8d-8c43-551f5e2565d6.png" width="400px" height="auto" /></a>
+  <embed src="https://wakatime.com/share/@EdiJunior/aae8b2b7-9c62-4709-a541-679c2ebe2f9b.svg"></embed>
 </figure>
 
 <hr>
