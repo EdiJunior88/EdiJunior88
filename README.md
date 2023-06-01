@@ -129,10 +129,10 @@
 
 <hr>
  
-<h3>⏲️ Uso da linguagem por ano<h3>
+<h3>⏲️ Uso de linguagens por ano<h3>
 <figure>
-  <embed src="https://wakatime.com/share/@EdiJunior/aae8b2b7-9c62-4709-a541-679c2ebe2f9b.svg"></embed>
-</figure>
+  <img src="https://wakatime.com/share/@EdiJunior/0a0a7cfa-f017-4489-886e-344a1a768cc4.svg" width="50%">
+  </figure>
 
 <hr>
   
