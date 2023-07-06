@@ -129,9 +129,9 @@
 
 <hr>
  
-<h3>⏲️ Uso de linguagens por ano<h3>
+<h3>⏲️ Uso de linguagens por semana<h3>
 <figure>
-  <img src="https://wakatime.com/share/@EdiJunior/0a0a7cfa-f017-4489-886e-344a1a768cc4.svg" width="50%">
+  <img src="https://wakatime.com/share/@EdiJunior/2ec0b3e6-ec2e-4185-aed7-aa65a3b6e4db.png" width="50%">
   </figure>
 
 <hr>
