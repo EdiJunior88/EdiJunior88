@@ -89,6 +89,7 @@
 
 <details>
   <summary>React</summary> <br>
+  <strong>Consulta Quadrinhos v2<strong> - <a href="https://consultaquadrinhosv2.netlify.app/" target="_blank">https://consultaquadrinhosv2.netlify.app/</a> <br>
   <strong>AluraTube v2<strong> - <a href="https://aluratube-v2.netlify.app/" target="_blank">https://aluratube-v2.netlify.app/</a> <br>
   <strong>GitHub Finder<strong> - <a href="https://githubfinder-edijunior88.netlify.app/" target="_blank">https://githubfinder-edijunior88.netlify.app/</a> <br>
   <strong>My Todo List<strong> - <a href="https://baltaio-mytodolist.netlify.app/" target="_blank">https://baltaio-mytodolist.netlify.app/</a> <br>
