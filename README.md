@@ -184,6 +184,10 @@
 <a href="https://www.freecodecamp.org/portuguese/edijunior88" target="_blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/freecodecamp.svg" alt="freecodecamp" title="freecodecamp" width="6.5%">
 </a>
+
+<a href="https://www.instagram.com/edijunior88/" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" title="instagram" width="4.5%">
+</a>
 </p>
 
 <hr>
