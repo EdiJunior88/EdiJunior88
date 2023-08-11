@@ -44,14 +44,8 @@
      <td align="center">
       <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40%">
     </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="80%">
-    </td>
      <td align="center">
        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/7735c9f92092e98f5afc8d2c29e7a0f0571da1a1/icons/remix.svg" width="20%">
-     </td>
-    <td align="center">
-       <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/material-ui.svg" width="25%">
      </td>
   </tr>
 
@@ -72,13 +66,7 @@
       TYPESCRIPT
     </td>
     <td align="center">
-      JEST
-    </td>
-    <td align="center">
       REMIX
-    </td>
-    <td align="center">
-      MATERIAL UI
     </td>
   </tr>
 </table>
@@ -221,6 +209,10 @@
   
 <a href="https://react-bootstrap.github.io/" target="_blank"> 
 <img src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4" title="Bootstrap React" width="5%"> 
+</a>
+
+<a href="https://mui.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/material-ui.svg" title="Material UI" width="6%"> 
 </a>
 
 <a href="https://www.figma.com/" target="_blank"> 
