@@ -30,10 +30,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="70%">
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="65%">
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="80%">
+      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="65%">
     </td>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40%">
@@ -45,7 +45,7 @@
       <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40%">
     </td>
      <td align="center">
-       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/7735c9f92092e98f5afc8d2c29e7a0f0571da1a1/icons/remix.svg" width="20%">
+       <img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/58d1dac114a5fcedfde8e1a23446f09b636f34c5/src/drivers/webextension/images/icons/Remix.svg" width="24%">
      </td>
   </tr>
 
@@ -66,7 +66,7 @@
       TYPESCRIPT
     </td>
     <td align="center">
-      REMIX
+      REMIX RUN
     </td>
   </tr>
 </table>
