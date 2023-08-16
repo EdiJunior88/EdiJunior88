@@ -77,16 +77,17 @@
 
 <details>
   <summary>React</summary> <br>
-  <strong>Consulta Quadrinhos v2<strong> - <a href="https://consultaquadrinhosv2.netlify.app/" target="_blank">https://consultaquadrinhosv2.netlify.app/</a> <br>
-  <strong>AluraTube v2<strong> - <a href="https://aluratube-v2.netlify.app/" target="_blank">https://aluratube-v2.netlify.app/</a> <br>
-  <strong>GitHub Finder<strong> - <a href="https://githubfinder-edijunior88.netlify.app/" target="_blank">https://githubfinder-edijunior88.netlify.app/</a> <br>
-  <strong>My Todo List<strong> - <a href="https://baltaio-mytodolist.netlify.app/" target="_blank">https://baltaio-mytodolist.netlify.app/</a> <br>
-  <strong>Consulta Quadrinhos<strong> - <a href="https://consulta-quadrinhos.netlify.app/" target="_blank">https://consulta-quadrinhos.netlify.app/</a> <br>
+  <strong>Dogs</strong> - <a href="https://dogsorigamid-edijunior88.netlify.app/" target="_blank">https://dogsorigamid-edijunior88.netlify.app/</a> <br>
+  <strong>Consulta Quadrinhos v2</strong> - <a href="https://consultaquadrinhosv2.netlify.app/" target="_blank">https://consultaquadrinhosv2.netlify.app/</a> <br>
+  <strong>AluraTube v2</strong> - <a href="https://aluratube-v2.netlify.app/" target="_blank">https://aluratube-v2.netlify.app/</a> <br>
+  <strong>GitHub Finder</strong> - <a href="https://githubfinder-edijunior88.netlify.app/" target="_blank">https://githubfinder-edijunior88.netlify.app/</a> <br>
+  <strong>My Todo List</strong> - <a href="https://baltaio-mytodolist.netlify.app/" target="_blank">https://baltaio-mytodolist.netlify.app/</a> <br>
+  <strong>Consulta Quadrinhos</strong> - <a href="https://consulta-quadrinhos.netlify.app/" target="_blank">https://consulta-quadrinhos.netlify.app/</a> <br>
   <strong>Gerenciador de Receitas</strong> - <a href="https://github.com/EdiJunior88/Consulta_Quadrinhos" target="_blank">https://github.com/EdiJunior88/Consulta_Quadrinhos</a> <br>
   <strong>Ninja List</strong> - <a href="https://hackathon-ninjalist.netlify.app/" target="_blank">https://hackathon-ninjalist.netlify.app/</a> <br>
   <strong>hashtag finder</strong> - <a href="https://projeto-hashtagfinder.netlify.app/" target="_blank">https://projeto-hashtagfinder.netlify.app/</a> <br>
   <strong>App Envio de Dinheiro</strong> - <a href="https://newtab-academy-react.netlify.app/" target="_blank">https://newtab-academy-react.netlify.app/</a> <br>
-  <strong>AluraTube</strong> - <a href="https://aluratube-imersao-dev.vercel.app/" target="_blank">https://aluratube-imersao-dev.vercel.app/</a> <br>
+  <strong>AluraTube</strong> - <a href="https://aluratube-imersao-dev.vercel.app/" target="_blank">https://aluratube-imersao-dev.vercel.app/</a>
 </details>
 
 <details>
@@ -106,8 +107,10 @@
 
 <details>
   <summary>HTML E CSS</summary> <br>
+  <strong>Origamid - Portfólio</strong> - <a href="https://origamid-html-css-portfolio.netlify.app/" target="_blank">https://origamid-html-css-portfolio.netlify.app/</a> <br>
+  <strong>Bickraft</strong> - <a href="https://bikcraft-edijunior88.netlify.app/" target="_blank">https://bikcraft-edijunior88.netlify.app/</a> <br>
   <strong>Tailwind CSS (v2.0)</strong> - <a href="https://edijunior88.github.io/TailwindCSS_2_para_Iniciantes/" target="_blank">https://edijunior88.github.io/TailwindCSS_2_para_Iniciantes/</a> <br>
-  <strong>Web Design Responsivo</strong> - <a href="https://edijunior88.github.io/FreeCodeCamp_Projetos_do_Design_Responsivo/" target="_blank">https://edijunior88.github.io/FreeCodeCamp_Projetos_do_Design_Responsivo/</a> <br>
+  <strong>Web Design Responsivo</strong> - <a href="https://edijunior88.github.io/FreeCodeCamp_Projetos_do_Design_Responsivo/" target="_blank">https://edijunior88.github.io/FreeCodeCamp_Projetos_do_Design_Responsivo/</a>
 </details>
 
 <hr>
