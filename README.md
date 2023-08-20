@@ -20,7 +20,6 @@
 - Atualmente estou mudando de área (sou especialista em suporte técnico, infraestrutura e monitoramento)
 + Estou tendo novos conhecimentos nesse novo caminho que me espera no front-end
 ! Cada dia aprendo mais a lógica de como as linguagens se comportam
-@@ Já pensei em desistir porque o caminho é difícil, mas quando olha-se para trás a satisfação é bem maior @@  
 ```
 
 <hr> 
