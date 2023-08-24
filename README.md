@@ -29,23 +29,23 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="65%">
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="65%">
+      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40%">
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="70%">
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
     </td>
-     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40%">
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
     </td>
-     <td align="center">
-       <img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/58d1dac114a5fcedfde8e1a23446f09b636f34c5/src/drivers/webextension/images/icons/Remix.svg" width="24%">
-     </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nextjs-icon.svg">
+    </td>
   </tr>
 
   <tr>
@@ -65,7 +65,7 @@
       TYPESCRIPT
     </td>
     <td align="center">
-      REMIX RUN
+      NEXT.JS
     </td>
   </tr>
 </table>
