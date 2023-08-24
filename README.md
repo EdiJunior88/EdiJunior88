@@ -198,7 +198,7 @@
 </a> 
 
 <a href="https://swiperjs.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/803d8b3eae44c0f5738a94b383ac512a759d4c65/src/drivers/webextension/images/icons/swiper.svg" title="swiper" width="5%"> 
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/11d0a684be715f00f1d32c0769252ba5d29e4612/icons/swiper.svg" title="swiper" width="5%"> 
 </a>
   
 <a href="https://github.com/css-modules/css-modules" target="_blank"> 
