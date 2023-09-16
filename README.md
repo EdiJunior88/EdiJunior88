@@ -46,6 +46,9 @@
     <td align="center">
       <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nextjs-icon.svg">
     </td>
+     <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg">
+    </td>
   </tr>
 
   <tr>
@@ -66,6 +69,9 @@
     </td>
     <td align="center">
       NEXT.JS
+    </td>
+     <td align="center">
+      VUE.JS
     </td>
   </tr>
 </table>
