@@ -122,7 +122,6 @@
 <hr>
 <h3>📅 Codando desde 08 de Novembro de 2017 (WakaTime)<h3>
 <h6>Mas cá entre nós, estou codando pra valer mesmo a partir do início de 2020</h6>
-
 <img src="https://wakatime.com/badge/user/e7b8ca2e-291c-4eca-846b-95eced7beff1.svg" />
 
 <hr>
