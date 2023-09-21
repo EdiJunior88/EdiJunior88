@@ -3,8 +3,8 @@
 <img src="https://p0.piqsels.com/preview/920/519/697/abstract-php-c-analytics.jpg" width="50%">
 
 <p align="center">
-  <h2>Olá, meu nome é Edivaldo Junior</h2> 
-  <img src="https://i.imgur.com/uzszOEy.gif" width="60px"> 
+<h2>Olá, meu nome é Edivaldo Junior</h2> 
+<img src="https://i.imgur.com/uzszOEy.gif" width="60px"> 
 </p>
   
 <img alt="Front-End-Junior" src="https://img.shields.io/badge/FRONT--END-Junior-brightgreen">
@@ -27,53 +27,53 @@
 <h3>📚 Estudando as seguintes tecnologias</h3>
 
 <table>
-  <tr>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nextjs-icon.svg">
-    </td>
-     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg">
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+</td>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
+</td>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
+</td>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
+</td>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nextjs-icon.svg">
+</td>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg">
+</td>
+</tr>
 
-  <tr>
-    <td align="center">
-      HTML5
-    </td>
-    <td align="center">
-      CSS3
-    </td>
-    <td align="center">
-      JAVASCRIPT
-    </td>
-    <td align="center">
-      REACT
-    </td>
-     <td align="center">
-      TYPESCRIPT
-    </td>
-    <td align="center">
-      NEXT.JS
-    </td>
-     <td align="center">
-      VUE.JS
-    </td>
-  </tr>
+<tr>
+<td align="center">
+HTML5
+</td>
+<td align="center">
+CSS3
+</td>
+<td align="center">
+JAVASCRIPT
+</td>
+<td align="center">
+REACT
+</td>
+<td align="center">
+TYPESCRIPT
+</td>
+<td align="center">
+NEXT.JS
+</td>
+<td align="center">
+VUE.JS
+</td>
+</tr>
 </table>
 
 <hr>
@@ -81,55 +81,56 @@
 <h3>🗃️ Projetos</h3>
 
 <details>
-  <summary>React</summary> <br>
-  <strong>Faavoritar Repositórios</strong> - <a href="https://projeto-favoritar-repositorios.vercel.app/" target="_blank">https://projeto-favoritar-repositorios.vercel.app/</a> <br>
-  <strong>Dogs</strong> - <a href="https://dogsorigamid-edijunior88.netlify.app/" target="_blank">https://dogsorigamid-edijunior88.netlify.app/</a> <br>
-  <strong>Consulta Quadrinhos v2</strong> - <a href="https://consultaquadrinhosv2.netlify.app/" target="_blank">https://consultaquadrinhosv2.netlify.app/</a> <br>
-  <strong>AluraTube v2</strong> - <a href="https://aluratube-v2.netlify.app/" target="_blank">https://aluratube-v2.netlify.app/</a> <br>
-  <strong>GitHub Finder</strong> - <a href="https://githubfinder-edijunior88.netlify.app/" target="_blank">https://githubfinder-edijunior88.netlify.app/</a> <br>
-  <strong>My Todo List</strong> - <a href="https://baltaio-mytodolist.netlify.app/" target="_blank">https://baltaio-mytodolist.netlify.app/</a> <br>
-  <strong>Consulta Quadrinhos</strong> - <a href="https://consulta-quadrinhos.netlify.app/" target="_blank">https://consulta-quadrinhos.netlify.app/</a> <br>
-  <strong>Gerenciador de Receitas</strong> - <a href="https://github.com/EdiJunior88/Consulta_Quadrinhos" target="_blank">https://github.com/EdiJunior88/Consulta_Quadrinhos</a> <br>
-  <strong>Ninja List</strong> - <a href="https://hackathon-ninjalist.netlify.app/" target="_blank">https://hackathon-ninjalist.netlify.app/</a> <br>
-  <strong>hashtag finder</strong> - <a href="https://projeto-hashtagfinder.netlify.app/" target="_blank">https://projeto-hashtagfinder.netlify.app/</a> <br>
-  <strong>App Envio de Dinheiro</strong> - <a href="https://newtab-academy-react.netlify.app/" target="_blank">https://newtab-academy-react.netlify.app/</a> <br>
-  <strong>AluraTube</strong> - <a href="https://aluratube-imersao-dev.vercel.app/" target="_blank">https://aluratube-imersao-dev.vercel.app/</a>
+<summary>React</summary> <br>
+<strong>Faavoritar Repositórios</strong> - <a href="https://projeto-favoritar-repositorios.vercel.app/" target="_blank">https://projeto-favoritar-repositorios.vercel.app/</a> <br>
+<strong>Dogs</strong> - <a href="https://dogsorigamid-edijunior88.netlify.app/" target="_blank">https://dogsorigamid-edijunior88.netlify.app/</a> <br>
+<strong>Consulta Quadrinhos v2</strong> - <a href="https://consultaquadrinhosv2.netlify.app/" target="_blank">https://consultaquadrinhosv2.netlify.app/</a> <br>
+<strong>AluraTube v2</strong> - <a href="https://aluratube-v2.netlify.app/" target="_blank">https://aluratube-v2.netlify.app/</a> <br>
+<strong>GitHub Finder</strong> - <a href="https://githubfinder-edijunior88.netlify.app/" target="_blank">https://githubfinder-edijunior88.netlify.app/</a> <br>
+<strong>My Todo List</strong> - <a href="https://baltaio-mytodolist.netlify.app/" target="_blank">https://baltaio-mytodolist.netlify.app/</a> <br>
+<strong>Consulta Quadrinhos</strong> - <a href="https://consulta-quadrinhos.netlify.app/" target="_blank">https://consulta-quadrinhos.netlify.app/</a> <br>
+<strong>Gerenciador de Receitas</strong> - <a href="https://github.com/EdiJunior88/Consulta_Quadrinhos" target="_blank">https://github.com/EdiJunior88/Consulta_Quadrinhos</a> <br>
+<strong>Ninja List</strong> - <a href="https://hackathon-ninjalist.netlify.app/" target="_blank">https://hackathon-ninjalist.netlify.app/</a> <br>
+<strong>hashtag finder</strong> - <a href="https://projeto-hashtagfinder.netlify.app/" target="_blank">https://projeto-hashtagfinder.netlify.app/</a> <br>
+<strong>App Envio de Dinheiro</strong> - <a href="https://newtab-academy-react.netlify.app/" target="_blank">https://newtab-academy-react.netlify.app/</a> <br>
+<strong>AluraTube</strong> - <a href="https://aluratube-imersao-dev.vercel.app/" target="_blank">https://aluratube-imersao-dev.vercel.app/</a>
 </details>
 
 <details>
-  <summary>Angular</summary> <br>
-  <strong>Todo List (Lista de Tarefas)</strong> - <a href="https://edijunior88.github.io/Balta.io_Comecando_com_Angular/" target="_blank">https://edijunior88.github.io/Balta.io_Comecando_com_Angular/</a> <br>
+<summary>Angular</summary> <br>
+<strong>Todo List (Lista de Tarefas)</strong> - <a href="https://edijunior88.github.io/Balta.io_Comecando_com_Angular/" target="_blank">https://edijunior88.github.io/Balta.io_Comecando_com_Angular/</a> <br>
 </details>
 
 <details>
-  <summary>JavaScript</summary> <br>
-  <strong>Portfólio</strong> - <a href="https://edijunior88.github.io/Portfolio/" target="_blank">https://edijunior88.github.io/Portifolio/</a> <br>
-  <strong>Controle Financeiro</strong> - <a href="https://edijunior88.github.io/NewTab_Academy_Projeto_Individual_JavaScript/" target="_blank">https://edijunior88.github.io/NewTab_Academy_Projeto_Individual_JavaScript/</a> <br>
-  <strong>Lista de Cadastro</strong> - <a href="https://edijunior88.github.io/NewTab_Academy_Projeto_Guiado_JavaScript/" target="_blank">https://edijunior88.github.io/NewTab_Academy_Projeto_Guiado_JavaScript/</a> <br>
-  <strong>MusicDot</strong> - <a href="https://edijunior88.github.io/Caelum_HTML_CSS_JavaScript/" target="_blank">https://edijunior88.github.io/Caelum_HTML_CSS_JavaScript/</a> <br>
-  <strong>Consumo de kW/h</strong> - <a href="https://edijunior88.github.io/Projeto_Verificar_KWh/" target="_blank">https://edijunior88.github.io/Projeto_Verificar_KWh/</a> <br>
-  <strong>Imersão DEV ALURA</strong> - <a href="https://edijunior88.github.io/Imersao_Dev_Alura/" target="_blank">https://edijunior88.github.io/Imersao_Dev_Alura/</a> <br>
+<summary>JavaScript</summary> <br>
+<strong>Portfólio</strong> - <a href="https://edijunior88.github.io/Portfolio/" target="_blank">https://edijunior88.github.io/Portifolio/</a> <br>
+<strong>Controle Financeiro</strong> - <a href="https://edijunior88.github.io/NewTab_Academy_Projeto_Individual_JavaScript/" target="_blank">https://edijunior88.github.io/NewTab_Academy_Projeto_Individual_JavaScript/</a> <br>
+<strong>Lista de Cadastro</strong> - <a href="https://edijunior88.github.io/NewTab_Academy_Projeto_Guiado_JavaScript/" target="_blank">https://edijunior88.github.io/NewTab_Academy_Projeto_Guiado_JavaScript/</a> <br>
+<strong>MusicDot</strong> - <a href="https://edijunior88.github.io/Caelum_HTML_CSS_JavaScript/" target="_blank">https://edijunior88.github.io/Caelum_HTML_CSS_JavaScript/</a> <br>
+<strong>Consumo de kW/h</strong> - <a href="https://edijunior88.github.io/Projeto_Verificar_KWh/" target="_blank">https://edijunior88.github.io/Projeto_Verificar_KWh/</a> <br>
+<strong>Imersão DEV ALURA</strong> - <a href="https://edijunior88.github.io/Imersao_Dev_Alura/" target="_blank">https://edijunior88.github.io/Imersao_Dev_Alura/</a> <br>
 </details>
 
 <details>
-  <summary>HTML E CSS</summary> <br>
-  <strong>Origamid - Portfólio</strong> - <a href="https://origamid-html-css-portfolio.netlify.app/" target="_blank">https://origamid-html-css-portfolio.netlify.app/</a> <br>
-  <strong>Bickraft</strong> - <a href="https://bikcraft-edijunior88.netlify.app/" target="_blank">https://bikcraft-edijunior88.netlify.app/</a> <br>
-  <strong>Tailwind CSS (v2.0)</strong> - <a href="https://edijunior88.github.io/TailwindCSS_2_para_Iniciantes/" target="_blank">https://edijunior88.github.io/TailwindCSS_2_para_Iniciantes/</a> <br>
-  <strong>Web Design Responsivo</strong> - <a href="https://edijunior88.github.io/FreeCodeCamp_Projetos_do_Design_Responsivo/" target="_blank">https://edijunior88.github.io/FreeCodeCamp_Projetos_do_Design_Responsivo/</a>
+<summary>HTML E CSS</summary> <br>
+<strong>Origamid - Portfólio</strong> - <a href="https://origamid-html-css-portfolio.netlify.app/" target="_blank">https://origamid-html-css-portfolio.netlify.app/</a> <br>
+<strong>Bickraft</strong> - <a href="https://bikcraft-edijunior88.netlify.app/" target="_blank">https://bikcraft-edijunior88.netlify.app/</a> <br>
+<strong>Tailwind CSS (v2.0)</strong> - <a href="https://edijunior88.github.io/TailwindCSS_2_para_Iniciantes/" target="_blank">https://edijunior88.github.io/TailwindCSS_2_para_Iniciantes/</a> <br>
+<strong>Web Design Responsivo</strong> - <a href="https://edijunior88.github.io/FreeCodeCamp_Projetos_do_Design_Responsivo/" target="_blank">https://edijunior88.github.io/FreeCodeCamp_Projetos_do_Design_Responsivo/</a>
 </details>
 
 <hr>
-<h3>📅 Codando desde 08 de Novembro de 2017 (WakaTime)<h3>
-<h6>Mas cá entre nós, estou codando pra valer mesmo a partir do início de 2020</h6>
-<img src="https://wakatime.com/badge/user/e7b8ca2e-291c-4eca-846b-95eced7beff1.svg" />
+
+<h3>📅 Codando desde 08 de Novembro de 2017 (WakaTime)</h3>
+<h6>(Mas cá entre nós, estou codando pra valer mesmo a partir do início de 2020)</h6>
+<img src="https://wakatime.com/badge/user/e7b8ca2e-291c-4eca-846b-95eced7beff1.svg" />  
 
 <hr>
  
-<h3>⏲️ Uso de linguagens por semana<h3>
+<h3>⏲️ Uso de linguagens por semana</h3>
 <figure>
-  <img src="https://wakatime.com/share/@EdiJunior/2ec0b3e6-ec2e-4185-aed7-aa65a3b6e4db.png" width="50%">
-  </figure>
+<img src="https://wakatime.com/share/@EdiJunior/2ec0b3e6-ec2e-4185-aed7-aa65a3b6e4db.png" width="60%">
+</figure>
 
 <hr>
   
