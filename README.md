@@ -141,7 +141,8 @@ VUE.JS
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=edijunior88&show_icons=true&theme=chartreuse-dark&bg_color=30,08003C,343300&locale=pt-br&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" >
+<img src="https://github-readme-stats.vercel.app/api?username=edijunior88&show_icons=true&theme=chartreuse-dark&bg_color=30,08003C,343300&locale=pt-br&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" >
+  
 </td>
 <td>
 <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=edijunior88&theme=radical&hide_border=true&locale=pt_BR"> -->
