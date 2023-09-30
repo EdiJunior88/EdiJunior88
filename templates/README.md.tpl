@@ -166,7 +166,7 @@ VUE.JS
 
 <hr>
 
-<div align="center">
+<div style="display: flex;margin-left:auto;margin-right:auto;" align="center">
 <h3>👯 Recentes Seguidores</h3>
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
