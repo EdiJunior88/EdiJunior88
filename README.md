@@ -1,63 +1,177 @@
-### Hi there 👋
+<div align="center">
+  
+<img src="https://p0.piqsels.com/preview/920/519/697/abstract-php-c-analytics.jpg" width="50%">
 
-#### 👷 Check out what I'm currently working on
+<p align="center">
+<h2>Olá, meu nome é Edivaldo Junior</h2> 
+<img src="https://i.imgur.com/uzszOEy.gif" width="60px"> 
+</p>
+  
+<img alt="Front-End-Junior" src="https://img.shields.io/badge/FRONT--END-Junior-brightgreen">
+<img alt="Reinando-React" src="https://img.shields.io/badge/REINANDO-React-blue">
+<img alt="Viciado-VideoGame" src="https://img.shields.io/badge/Sou%20Muito%20Viciado-Video--Game-red">
+<img alt="Ler-Estudar" src="https://img.shields.io/badge/Adoro%20ler%20e%20estudar-Ci%C3%AAncias-yellowgreen">
+<img alt="Não-vivo" src="https://img.shields.io/badge/N%C3%A3o%20vivo%20sem-Tecnologia-green">
+
+<br>  
+ 
+  ```diff
+- Atualmente estou mudando de área (sou especialista em suporte técnico, infraestrutura e monitoramento)
++ Estou tendo novos conhecimentos nesse novo caminho que me espera no front-end
+! Cada dia aprendo mais a lógica de como as linguagens se comportam
+```
+
+<hr> 
+  
+<h3>📚 Estudando as seguintes tecnologias</h3>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+</td>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
+</td>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
+</td>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
+</td>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nextjs-icon.svg">
+</td>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg">
+</td>
+</tr>
+
+<tr>
+<td align="center">
+HTML5
+</td>
+<td align="center">
+CSS3
+</td>
+<td align="center">
+JAVASCRIPT
+</td>
+<td align="center">
+REACT
+</td>
+<td align="center">
+TYPESCRIPT
+</td>
+<td align="center">
+NEXT.JS
+</td>
+<td align="center">
+VUE.JS
+</td>
+</tr>
+</table>
+
+<hr>
+
+<h3>👷 Trabalhando nos seguintes projetos:</h3>
 
 - [EdiJunior88/Certificados](https://github.com/EdiJunior88/Certificados) - 👨🏼‍🎓 Minhas certificações na área de Tecnologia para registro pessoal e para consultas públicas. (1 day ago)
 - [EdiJunior88/VueJS_Documentacao](https://github.com/EdiJunior88/VueJS_Documentacao) - A Vue é uma abstração e ecossistema que cobre a maioria das funcionalidades comuns necessárias no desenvolvimento de frontend (2 days ago)
 - [EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado](https://github.com/EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado) - Neste curso irá descobrir o jeito mais moderno de desenvolver aplicações web e sistemas web, você vai aprender a criar aplicações completas do extremo zero e entendendo na prática a usar todo poder e recurso do ReactJS e NextJS. (4 days ago)
 - [EdiJunior88/Imersao_React_Alura](https://github.com/EdiJunior88/Imersao_React_Alura) - Serão 5 aulas gratuitas de programação de nível intermediário para você desenvolver o Aluratube, um projeto em React para adicionar ao seu portfólio. (5 days ago)
 - [EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes](https://github.com/EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes) - Front End, HTML, Tags, Acessibilidade, CSS, Grid Layout, Flexbox, Media Queries, Responsivo, VS Code e mais. (5 days ago)
-- [EdiJunior88/Projeto-hashtagFinder](https://github.com/EdiJunior88/Projeto-hashtagFinder) - A aplicação HashtagFinder tem por objetivo realizar buscas de posts e imagens a partir da integração com a API do Twitter. Os resultados da busca são exibidos em uma lista organizada com as 10 postagens mais recentes. (5 days ago)
-- [EdiJunior88/GitHub_Finder](https://github.com/EdiJunior88/GitHub_Finder) - Um projeto que utiliza a API do GitHub para buscar um usuário e mostrar os 5 melhores repositórios com mais estrelas (5 days ago)
-- [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (5 days ago)
-- [EdiJunior88/Balta.io_Criando_um_App_com_React](https://github.com/EdiJunior88/Balta.io_Criando_um_App_com_React) - Neste curso vamos criar um App completo utilizando React e TypeScript, passando pelos conceitos de gestão de estado com React Context, utilizando React Hooks e React Forms, tudo na prática, direto ao ponto! (5 days ago)
-- [EdiJunior88/Aluratube_v2](https://github.com/EdiJunior88/Aluratube_v2) - Um projeto que simula um app do Youtube registrando o título e url de qualquer vídeo que podem ser adicionados à página principal. (5 days ago)
 
-#### 🌱 My latest projects
+<hr>
 
-- [EdiJunior88/VueJS_Documentacao](https://github.com/EdiJunior88/VueJS_Documentacao) - A Vue é uma abstração e ecossistema que cobre a maioria das funcionalidades comuns necessárias no desenvolvimento de frontend
-- [EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado](https://github.com/EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado) - Neste curso irá descobrir o jeito mais moderno de desenvolver aplicações web e sistemas web, você vai aprender a criar aplicações completas do extremo zero e entendendo na prática a usar todo poder e recurso do ReactJS e NextJS.
-- [EdiJunior88/Hcode_Cafe_Next.js_13_Potencialize_suas_Aplicacoes](https://github.com/EdiJunior88/Hcode_Cafe_Next.js_13_Potencialize_suas_Aplicacoes) - Junte-se a nós nesta empolgante live e explore o Next.js 13, a mais recente versão da poderosa estrutura de desenvolvimento web.
-- [EdiJunior88/Origamid_TypeScript_Para_Iniciantes](https://github.com/EdiJunior88/Origamid_TypeScript_Para_Iniciantes) - O foco do curso é no TypeScript puro e ao final dele você sairá sabendo muito mais como o JavaScript funciona.
-- [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0)
-- [EdiJunior88/Aluratube_v2](https://github.com/EdiJunior88/Aluratube_v2) - Um projeto que simula um app do Youtube registrando o título e url de qualquer vídeo que podem ser adicionados à página principal.
-- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão atualizada (v2.0) em React/TypeScript do meu portfólio (em construção)
-- [EdiJunior88/GitHub_Finder](https://github.com/EdiJunior88/GitHub_Finder) - Um projeto que utiliza a API do GitHub para buscar um usuário e mostrar os 5 melhores repositórios com mais estrelas
-- [EdiJunior88/Balta.io_Criando_um_App_com_React](https://github.com/EdiJunior88/Balta.io_Criando_um_App_com_React) - Neste curso vamos criar um App completo utilizando React e TypeScript, passando pelos conceitos de gestão de estado com React Context, utilizando React Hooks e React Forms, tudo na prática, direto ao ponto!
-- [EdiJunior88/Testes_React_com_Vitest_e_Testing_Library](https://github.com/EdiJunior88/Testes_React_com_Vitest_e_Testing_Library) - 
+<h3>🗃️ Lista de Todos os Projetos</h3>
 
-#### 🔭 Latest releases I've contributed to
+<details>
+<summary>React</summary> <br>
+<strong>Favoritar Repositórios</strong> - <a href="https://projeto-favoritar-repositorios.vercel.app/" target="_blank">https://projeto-favoritar-repositorios.vercel.app/</a> <br>
+<strong>Dogs</strong> - <a href="https://dogsorigamid-edijunior88.netlify.app/" target="_blank">https://dogsorigamid-edijunior88.netlify.app/</a> <br>
+<strong>Consulta Quadrinhos v2</strong> - <a href="https://consultaquadrinhosv2.netlify.app/" target="_blank">https://consultaquadrinhosv2.netlify.app/</a> <br>
+<strong>AluraTube v2</strong> - <a href="https://aluratube-v2.netlify.app/" target="_blank">https://aluratube-v2.netlify.app/</a> <br>
+<strong>GitHub Finder</strong> - <a href="https://githubfinder-edijunior88.netlify.app/" target="_blank">https://githubfinder-edijunior88.netlify.app/</a> <br>
+<strong>My Todo List</strong> - <a href="https://baltaio-mytodolist.netlify.app/" target="_blank">https://baltaio-mytodolist.netlify.app/</a> <br>
+<strong>Consulta Quadrinhos</strong> - <a href="https://consulta-quadrinhos.netlify.app/" target="_blank">https://consulta-quadrinhos.netlify.app/</a> <br>
+<strong>Gerenciador de Receitas</strong> - <a href="https://github.com/EdiJunior88/Consulta_Quadrinhos" target="_blank">https://github.com/EdiJunior88/Consulta_Quadrinhos</a> <br>
+<strong>Ninja List</strong> - <a href="https://hackathon-ninjalist.netlify.app/" target="_blank">https://hackathon-ninjalist.netlify.app/</a> <br>
+<strong>hashtag finder</strong> - <a href="https://projeto-hashtagfinder.netlify.app/" target="_blank">https://projeto-hashtagfinder.netlify.app/</a> <br>
+<strong>App Envio de Dinheiro</strong> - <a href="https://newtab-academy-react.netlify.app/" target="_blank">https://newtab-academy-react.netlify.app/</a> <br>
+<strong>AluraTube</strong> - <a href="https://aluratube-imersao-dev.vercel.app/" target="_blank">https://aluratube-imersao-dev.vercel.app/</a>
+</details>
 
+<details>
+<summary>Angular</summary> <br>
+<strong>Todo List (Lista de Tarefas)</strong> - <a href="https://edijunior88.github.io/Balta.io_Comecando_com_Angular/" target="_blank">https://edijunior88.github.io/Balta.io_Comecando_com_Angular/</a> <br>
+</details>
 
-#### 🔨 My recent Pull Requests
+<details>
+<summary>JavaScript</summary> <br>
+<strong>Portfólio</strong> - <a href="https://edijunior88.github.io/Portfolio/" target="_blank">https://edijunior88.github.io/Portifolio/</a> <br>
+<strong>Controle Financeiro</strong> - <a href="https://edijunior88.github.io/NewTab_Academy_Projeto_Individual_JavaScript/" target="_blank">https://edijunior88.github.io/NewTab_Academy_Projeto_Individual_JavaScript/</a> <br>
+<strong>Lista de Cadastro</strong> - <a href="https://edijunior88.github.io/NewTab_Academy_Projeto_Guiado_JavaScript/" target="_blank">https://edijunior88.github.io/NewTab_Academy_Projeto_Guiado_JavaScript/</a> <br>
+<strong>MusicDot</strong> - <a href="https://edijunior88.github.io/Caelum_HTML_CSS_JavaScript/" target="_blank">https://edijunior88.github.io/Caelum_HTML_CSS_JavaScript/</a> <br>
+<strong>Consumo de kW/h</strong> - <a href="https://edijunior88.github.io/Projeto_Verificar_KWh/" target="_blank">https://edijunior88.github.io/Projeto_Verificar_KWh/</a> <br>
+<strong>Imersão DEV ALURA</strong> - <a href="https://edijunior88.github.io/Imersao_Dev_Alura/" target="_blank">https://edijunior88.github.io/Imersao_Dev_Alura/</a> <br>
+</details>
 
-- [TESTE HTML](https://github.com/EdiJunior88-teste/REACT/pull/1) on [EdiJunior88-teste/REACT](https://github.com/EdiJunior88-teste/REACT) (1 year ago)
-- [Delete](https://github.com/EdiJunior88/Projeto-hashtagFinder/pull/2) on [EdiJunior88/Projeto-hashtagFinder](https://github.com/EdiJunior88/Projeto-hashtagFinder) (1 year ago)
-- [Delete](https://github.com/EdiJunior88/Projeto-hashtagFinder/pull/1) on [EdiJunior88/Projeto-hashtagFinder](https://github.com/EdiJunior88/Projeto-hashtagFinder) (1 year ago)
-- [Atualização](https://github.com/macintosh64/CalculadoraColorida-javascript/pull/1) on [macintosh64/CalculadoraColorida-javascript](https://github.com/macintosh64/CalculadoraColorida-javascript) (2 years ago)
-- [README.md](https://github.com/EdiJunior88/startbootstrap/pull/1) on [EdiJunior88/startbootstrap](https://github.com/EdiJunior88/startbootstrap) (2 years ago)
-- [Create LICENSE](https://github.com/EdiJunior88/Curso_em_Video_JavaScript/pull/1) on [EdiJunior88/Curso_em_Video_JavaScript](https://github.com/EdiJunior88/Curso_em_Video_JavaScript) (2 years ago)
-- [Alterações do Desafio](https://github.com/jcbombardelli/gama-no-pullrequest/pull/77) on [jcbombardelli/gama-no-pullrequest](https://github.com/jcbombardelli/gama-no-pullrequest) (3 years ago)
+<details>
+<summary>HTML E CSS</summary> <br>
+<strong>Origamid - Portfólio</strong> - <a href="https://origamid-html-css-portfolio.netlify.app/" target="_blank">https://origamid-html-css-portfolio.netlify.app/</a> <br>
+<strong>Bikcraft</strong> - <a href="https://bikcraft-edijunior88.netlify.app/" target="_blank">https://bikcraft-edijunior88.netlify.app/</a> <br>
+<strong>Tailwind CSS (v2.0)</strong> - <a href="https://edijunior88.github.io/TailwindCSS_2_para_Iniciantes/" target="_blank">https://edijunior88.github.io/TailwindCSS_2_para_Iniciantes/</a> <br>
+<strong>Web Design Responsivo</strong> - <a href="https://edijunior88.github.io/FreeCodeCamp_Projetos_do_Design_Responsivo/" target="_blank">https://edijunior88.github.io/FreeCodeCamp_Projetos_do_Design_Responsivo/</a>
+</details>
 
-#### 📓 Gists I wrote
+<hr>
 
-- [Guide to aligning images in github readme.md files. https://davidwells.io/snippets/how-to-align-images-in-markdown](https://gist.github.com/81f5815edd102c855b4b1dd86151c832) (2 years ago)
-- [Lista completa de marcação de emojis no Github](https://gist.github.com/721eea6a1c271ef463cd92a5e926fb87) (2 years ago)
+<h3>📅 Programando desde 08 de Novembro de 2017 (WakaTime)</h3>
+<h6>(Mas cá entre nós, estou programando pra valer mesmo a partir do início de 2020)</h6>
+<img src="https://wakatime.com/badge/user/e7b8ca2e-291c-4eca-846b-95eced7beff1.svg" />  
 
-#### ⭐ Recent Stars
+<hr>
+ 
+<h3>⏲️ Uso de linguagens por semana</h3>
+<figure>
+<img src="https://wakatime.com/share/@EdiJunior/2ec0b3e6-ec2e-4185-aed7-aa65a3b6e4db.png" width="60%">
+</figure>
 
-- [Moscarde/Slide2PDF](https://github.com/Moscarde/Slide2PDF) - A node.js app that converts presentation files into a formatted and organized PDF ready for printing. (4 days ago)
-- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs (5 days ago)
-- [Lyn10BR/revealtext](https://github.com/Lyn10BR/revealtext) -  (6 days ago)
-- [Gabrielfgomss/dictionary_app](https://github.com/Gabrielfgomss/dictionary_app) - Aplicação de dicionário (6 days ago)
-- [Gabrielfgomss/gabrielfgomss](https://github.com/Gabrielfgomss/gabrielfgomss) - Sobre mim (6 days ago)
-- [Gabrielfgomss/landing-page](https://github.com/Gabrielfgomss/landing-page) - Projeto de feito com React, Material UI e Formik (6 days ago)
-- [Gabrielfgomss/multi-step-form](https://github.com/Gabrielfgomss/multi-step-form) - Aplicação para compra de produtos e validação (6 days ago)
-- [gabifrancamr/cardDetailsForm](https://github.com/gabifrancamr/cardDetailsForm) -  (1 week ago)
-- [tainamiranda2/franquia_moto](https://github.com/tainamiranda2/franquia_moto) -  (1 week ago)
-- [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README (1 week ago)
+<hr>
+  
+<h3>✒️ Meu Status no GitHub</h3>
+ 
+[![Image of https://github.com/EdiJunior88/view_profile](https://github.com/EdiJunior88/view_profile/blob/master/svg/profile/badge.svg)](https://github.com/EdiJunior88/view_profile)
 
-#### 👯 Check out some of my recent followers
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=edijunior88&show_icons=true&theme=chartreuse-dark&bg_color=30,08003C,343300&locale=pt-br&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" >
+  
+</td>
+<td>
+
+<img src="https://github-readme-streak-stats-edijunior88.vercel.app/?user=EdiJunior88&theme=chartreuse-dark&locale=pt_BR&background=45%2C000B4D%2C504F04">
+</td>
+</tr>
+ 
+<tr align="center">
+<td>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=edijunior88&show_icons=true&langs_count=8&locale=pt-br&hide=dockerfile,php,shell,Classic%20ASP,c%23">
+</td>
+<td>
+<img src="https://github-trophies.vercel.app/?username=EdiJunior88&theme=juicyfresh&column=3&margin-w=15&margin-h=15">
+</td>
+</tr>
+</table>
+
+<hr>
+
+<h3>👯 Recentes Seguidores</h3>
 
 - [bpradiip](https://github.com/bpradiip)
 - [KevinTrinh1227](https://github.com/KevinTrinh1227)
@@ -65,15 +179,102 @@
 - [techtronixnepal](https://github.com/techtronixnepal)
 - [pranavhunagund1993](https://github.com/pranavhunagund1993)
 
-#### 💬 Feedback
+<hr>
+  
+<h3>📩 Meus Perfis Sociais</h3>
+<p>
+<a href="https://wakatime.com/@EdiJunior" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/wakatime.svg" alt="WakaTime" title="WakaTime" width="4.5%">
+</a>  
+  
+<a href="https://learn.microsoft.com/pt-br/users/edijunior-5626/" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoft.svg" alt="microsoft learn" title="Microsoft Learn" width="4.5%">
+</a>  
+  
+<a href="https://codepen.io/edijunior88" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="codepen" title="Codepen" width="4.5%">
+</a>
 
-Say Hello, I don't bite!
+<a href="https://www.linkedin.com/in/edivaldo-junior/" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" title="linkedin" width="4.5%">
+</a>
 
-#### 📫 How to reach me
+<a href="https://www.freecodecamp.org/portuguese/edijunior88" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/freecodecamp.svg" alt="freecodecamp" title="freecodecamp" width="6.5%">
+</a>
 
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
+<a href="https://www.instagram.com/edijunior88/" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" title="instagram" width="4.5%">
+</a>
+</p>
 
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
+<hr>
+  
+<h3>💾 Frameworks / Softwares</h3>
+
+<p> 
+<a href="https://getbootstrap.com/" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" title="Bootstrap" width="5%"> 
+</a>  
+  
+<a href="https://vitejs.dev/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/detain/svg-logos/aecbca0b533703a389211cddb0ca159a5d50553e/svg/vitejs.svg" title="ViteJS" width="5%"> 
+</a> 
+  
+<a href="https://tailwindcss.com/" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" width="6%"> 
+</a> 
+
+<a href="https://swiperjs.com" target="_blank"> 
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/11d0a684be715f00f1d32c0769252ba5d29e4612/icons/swiper.svg" title="swiper" width="5%"> 
+</a>
+  
+<a href="https://github.com/css-modules/css-modules" target="_blank"> 
+<img src="https://raw.githubusercontent.com/css-modules/logos/master/css-modules-logo.png" title="css modules" width="5.8%"> 
+</a>
+
+<a href="https://styled-components.com/" target="_blank"> 
+<img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" title="styled components" width="5%"> 
+</a>
+  
+<a href="https://react-bootstrap.github.io/" target="_blank"> 
+<img src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4" title="Bootstrap React" width="5%"> 
+</a>
+
+<a href="https://mui.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/material-ui.svg" title="Material UI" width="6%"> 
+</a>
+
+<a href="https://www.figma.com/" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="figma" width="5%"> 
+</a>
+
+<a href="https://grafana.com" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" title="grafana" width="5%"> 
+</a>  
+
+<a href="https://www.zabbix.com/" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" title="zabbix" width="5%"> 
+</a>
+  
+<a href="https://www.fortinet.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4e2df6a35f61ab59c681ce872afd6a2c2fd8ed53/icons/fortinet.svg" title="fortinet" width="5%"> 
+</a>  
+  
+<a href="https://www.linux.org/pages/download/" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" width="5%"> 
+</a> 
+  
+<a href="https://www.microsoft.com/pt-br/windows/?r=1" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/windows8/windows8-original.svg" title="Windows" width="5%"> 
+</a> 
+  
+<a href="https://code.visualstudio.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" title="VSCode" width="5%"> 
+</a> 
+  
+</p>
+<div>
+
+
 
