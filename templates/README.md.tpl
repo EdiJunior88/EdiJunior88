@@ -1,8 +1,6 @@
-### Hi there 👋
-
-#### 🌱 My latest projects
-{{range recentRepos 10}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
-
-sdsds
+{{range recentContributions 10}}
+Name: {{.Repo.Name}}
+Description: {{.Repo.Description}}
+URL: {{.Repo.URL}})
+Occurred: {{humanize .OccurredAt}}
+{{end}}
