@@ -1,6 +1,8 @@
+<div align="center">
+
 <img src="https://p0.piqsels.com/preview/920/519/697/abstract-php-c-analytics.jpg" width="50%">
 
-<p align="center">
+<p>
 <h2>Olá, meu nome é Edivaldo Junior</h2> 
 <img src="https://i.imgur.com/uzszOEy.gif" width="60px"> 
 </p>
@@ -10,14 +12,6 @@
 <img alt="Viciado-VideoGame" src="https://img.shields.io/badge/Sou%20Muito%20Viciado-Video--Game-red">
 <img alt="Ler-Estudar" src="https://img.shields.io/badge/Adoro%20ler%20e%20estudar-Ci%C3%AAncias-yellowgreen">
 <img alt="Não-vivo" src="https://img.shields.io/badge/N%C3%A3o%20vivo%20sem-Tecnologia-green">
-
-<br>  
- 
-  ```diff
-- Atualmente estou mudando de área (sou especialista em suporte técnico, infraestrutura e monitoramento)
-+ Estou tendo novos conhecimentos nesse novo caminho que me espera no front-end
-! Cada dia aprendo mais a lógica de como as linguagens se comportam
-```
 
 <hr> 
   
@@ -72,6 +66,7 @@ VUE.JS
 </td>
 </tr>
 </table>
+</div>
 
 <hr>
 
