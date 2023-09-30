@@ -74,12 +74,8 @@ VUE.JS
 <h3>👷 Trabalhando nos seguintes projetos:</h3>
 </div>
 
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}} (⭐{{.Stargazers}})
-{{- end}}
-
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}} (⭐{{.Stargazers}})) - {{.Repo.Description}} ({{humanize .OccurredAt}}) 
 {{- end}}
 
 <hr>
