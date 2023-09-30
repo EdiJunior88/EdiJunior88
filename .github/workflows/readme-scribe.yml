@@ -1,30 +1,39 @@
-name: Update README
+name: readme-scribe
 
 on:
-  push:
+  workflow_dispatch:
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: '0 0 */1 * *'
+  push:
+    branches:
+      - 'main'
 
 jobs:
-  markscribe:
+  readme-scribe:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@master
-
-      - uses: muesli/readme-scribe@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout
+        uses: actions/checkout@v3
+      - uses: muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948
         with:
-          template: "templates/README.md.tpl"
-          writeTo: "README.md"
-
-      - uses: stefanzweifel/git-auto-commit-action@v4
+          template: templates/README.md.tpl
+          writeTo: README.md
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+      - name: replace placeholder for badge tag
+        uses: jacobtomlinson/gha-find-replace@v3
         with:
-          commit_message: Update generated README
+          find: "badges_tag"
+          replace: |
+            <!--START_SECTION:badges-->
+            <!--END_SECTION:badges-->
+          include: README.md
+      - uses: stefanzweifel/git-auto-commit-action@3ea6ae190baf489ba007f7c92608f33ce20ef04a
+        with:
+          commit_message: 'Update generated README'
           branch: main
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
