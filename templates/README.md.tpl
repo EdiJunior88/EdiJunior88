@@ -1,5 +1,3 @@
-<div align="center">
-  
 <img src="https://p0.piqsels.com/preview/920/519/697/abstract-php-c-analytics.jpg" width="50%">
 
 <p align="center">
@@ -79,7 +77,7 @@ VUE.JS
 
 <h3>👷 Trabalhando nos seguintes projetos:</h3>
 {{range recentContributions 5}}
-[{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 <hr>
@@ -170,7 +168,7 @@ VUE.JS
 
 <h3>👯 Recentes Seguidores</h3>
 {{range followers 5}}
-<p>[{{.Login}}]({{.URL}})</p>
+- [{{.Login}}]({{.URL}})
 {{- end}}
 
 <hr>
@@ -266,9 +264,8 @@ VUE.JS
 <a href="https://code.visualstudio.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" title="VSCode" width="5%"> 
 </a> 
-  
 </p>
-<div>
+
 
 
 
