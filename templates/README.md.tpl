@@ -170,7 +170,7 @@ VUE.JS
 
 <h3>👯 Recentes Seguidores</h3>
 {{range followers 5}}
-[{{.Login}}]({{.URL}})
+<p>[{{.Login}}]({{.URL}})</p>
 {{- end}}
 
 <hr>
