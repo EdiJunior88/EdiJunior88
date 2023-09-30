@@ -80,6 +80,7 @@ VUE.JS
 
 <hr>
 
+<div align="center">
 <h3>🗃️ Lista de Todos os Projetos</h3>
 
 <details>
@@ -161,6 +162,7 @@ VUE.JS
 </td>
 </tr>
 </table>
+</div>
 
 <hr>
 
@@ -174,6 +176,8 @@ VUE.JS
 
 <hr>
   
+<div align="center">
+
 <h3>📩 Meus Perfis Sociais</h3>
 <p>
 <a href="https://wakatime.com/@EdiJunior" target="_blank">
@@ -266,7 +270,7 @@ VUE.JS
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" title="VSCode" width="5%"> 
 </a> 
 </p>
-
+</div>
 
 
 
