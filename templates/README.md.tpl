@@ -7,9 +7,9 @@
 <img src="https://i.imgur.com/uzszOEy.gif" width="60px"> 
 </p>
   
-<img alt="Front-End-Junior" src="https://img.shields.io/badge/FRONT--END-Junior-brightgreen">
-<img alt="Reinando-React" src="https://img.shields.io/badge/REINANDO-React-blue">
-<img alt="Viciado-VideoGame" src="https://img.shields.io/badge/Sou%20Muito%20Viciado-Video--Game-red">
+<img alt="Front-End-Junior" src="https://img.shields.io/badge/FRONT--END-Web-brightgreen">
+<img alt="Reinando-React" src="https://img.shields.io/badge/Reinando_no-React-blue">
+<img alt="Viciado-VideoGame" src="https://img.shields.io/badge/Viciado_em_um-Video--Game-red">
 <img alt="Ler-Estudar" src="https://img.shields.io/badge/Adoro%20ler%20e%20estudar-Ci%C3%AAncias-yellowgreen">
 <img alt="Não-vivo" src="https://img.shields.io/badge/N%C3%A3o%20vivo%20sem-Tecnologia-green">
 
@@ -73,7 +73,7 @@ VUE.JS
 
 <div align="left">
 {{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}}) - (⭐{{.Repo.Stargazers}})
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}} / ⭐{{.Repo.Stargazers}})
 {{- end}}
 </div>
 
@@ -163,7 +163,7 @@ VUE.JS
 
 <hr>
 
-<h3>👯 Recentes Seguidores</h3>
+<h3>👯 Seguidores Recentes</h3>
 {{range followers 5}}
 [{{.Login}}]({{.URL}})<br>
 {{- end}}
@@ -262,7 +262,7 @@ VUE.JS
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" title="VSCode" width="5%"> 
 </a> 
 </p>
-</>
+</div>
 
 
 
