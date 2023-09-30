@@ -70,7 +70,10 @@ VUE.JS
 
 <hr>
 
+<div align="center">
 <h3>👷 Trabalhando nos seguintes projetos:</h3>
+</div>
+
 
 - [EdiJunior88/Certificados](https://github.com/EdiJunior88/Certificados) - 👨🏼‍🎓 Minhas certificações na área de Tecnologia para registro pessoal e para consultas públicas. (1 day ago)
 - [EdiJunior88/VueJS_Documentacao](https://github.com/EdiJunior88/VueJS_Documentacao) - A Vue é uma abstração e ecossistema que cobre a maioria das funcionalidades comuns necessárias no desenvolvimento de frontend (2 days ago)
@@ -166,6 +169,7 @@ VUE.JS
 
 <hr>
 
+<div align="center">
 <h3>👯 Recentes Seguidores</h3>
 
 - [bpradiip](https://github.com/bpradiip)
@@ -173,6 +177,7 @@ VUE.JS
 - [DGS1337](https://github.com/DGS1337)
 - [techtronixnepal](https://github.com/techtronixnepal)
 - [pranavhunagund1993](https://github.com/pranavhunagund1993)
+</div>
 
 <hr>
   
