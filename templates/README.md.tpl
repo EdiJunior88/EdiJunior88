@@ -71,9 +71,11 @@ VUE.JS
 
 <h3>👷 Trabalhando nos seguintes projetos:</h3>
 
+<div align="left">
 {{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}} (⭐{{.Repo.Stargazers}})) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}}) - (⭐{{.Repo.Stargazers}})
 {{- end}}
+</div>
 
 <hr>
 
@@ -260,7 +262,7 @@ VUE.JS
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" title="VSCode" width="5%"> 
 </a> 
 </p>
-</div>
+</>
 
 
 
