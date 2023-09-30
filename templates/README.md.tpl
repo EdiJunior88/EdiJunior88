@@ -70,7 +70,10 @@ VUE.JS
 
 <hr>
 
+<div align="center">
 <h3>👷 Trabalhando nos seguintes projetos:</h3>
+</div>
+
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
@@ -163,10 +166,12 @@ VUE.JS
 
 <hr>
 
+<div align="center">
 <h3>👯 Recentes Seguidores</h3>
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
+</div>
 
 <hr>
   
