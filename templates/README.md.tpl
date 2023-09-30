@@ -75,7 +75,7 @@ VUE.JS
 </div>
 
 {{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}}) - (⭐{{.Stargazers}})
+- [{{.Repo.Name}}]({{.Repo.URL}} (⭐{{.Repo.Stargazers}})) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 <hr>
