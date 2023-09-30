@@ -66,13 +66,10 @@ VUE.JS
 </td>
 </tr>
 </table>
-</div>
 
 <hr>
 
-<div align="center">
 <h3>👷 Trabalhando nos seguintes projetos:</h3>
-</div>
 
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}} (⭐{{.Repo.Stargazers}})) - {{.Repo.Description}} ({{humanize .OccurredAt}})
@@ -80,7 +77,6 @@ VUE.JS
 
 <hr>
 
-<div align="center">
 <h3>🗃️ Lista de Todos os Projetos</h3>
 
 <details>
@@ -162,21 +158,16 @@ VUE.JS
 </td>
 </tr>
 </table>
-</div>
 
 <hr>
 
-<div style="display: flex;margin-left:auto;margin-right:auto;" align="center">
 <h3>👯 Recentes Seguidores</h3>
 {{range followers 5}}
 [{{.Login}}]({{.URL}})<br>
 {{- end}}
-</div>
 
 <hr>
   
-<div align="center">
-
 <h3>📩 Meus Perfis Sociais</h3>
 <p>
 <a href="https://wakatime.com/@EdiJunior" target="_blank">
@@ -242,7 +233,7 @@ VUE.JS
 </a>
 
 <a href="https://www.figma.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="figma" width="5%"> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" width="5%"> 
 </a>
 
 <a href="https://grafana.com" target="_blank"> 
@@ -254,7 +245,7 @@ VUE.JS
 </a>
   
 <a href="https://www.fortinet.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4e2df6a35f61ab59c681ce872afd6a2c2fd8ed53/icons/fortinet.svg" title="fortinet" width="5%"> 
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4e2df6a35f61ab59c681ce872afd6a2c2fd8ed53/icons/fortinet.svg" title="Fortinet" width="5%"> 
 </a>  
   
 <a href="https://www.linux.org/pages/download/" target="_blank"> 
