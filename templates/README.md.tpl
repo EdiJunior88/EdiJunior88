@@ -74,7 +74,7 @@ VUE.JS
 <h3>👷 Trabalhando nos seguintes projetos:</h3>
 </div>
 
-{{range recentContributions 5}}
+{{range recentRepos 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
@@ -169,7 +169,7 @@ VUE.JS
 <div style="display: flex;margin-left:auto;margin-right:auto;" align="center">
 <h3>👯 Recentes Seguidores</h3>
 {{range followers 5}}
-  [{{.Login}}]({{.URL}})
+[{{.Login}}]({{.URL}})<br>
 {{- end}}
 </div>
 
