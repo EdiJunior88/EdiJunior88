@@ -74,8 +74,8 @@ VUE.JS
 <h3>👷 Trabalhando nos seguintes projetos:</h3>
 </div>
 
-{{range recentRepos 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{range recentRepos 10}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 <hr>
