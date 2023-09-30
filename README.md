@@ -7,9 +7,9 @@
 <img src="https://i.imgur.com/uzszOEy.gif" width="60px"> 
 </p>
   
-<img alt="Front-End-Junior" src="https://img.shields.io/badge/FRONT--END-Junior-brightgreen">
-<img alt="Reinando-React" src="https://img.shields.io/badge/REINANDO-React-blue">
-<img alt="Viciado-VideoGame" src="https://img.shields.io/badge/Sou%20Muito%20Viciado-Video--Game-red">
+<img alt="Front-End-Junior" src="https://img.shields.io/badge/FRONT--END-Web-brightgreen">
+<img alt="Reinando-React" src="https://img.shields.io/badge/Reinando_no-React-blue">
+<img alt="Viciado-VideoGame" src="https://img.shields.io/badge/Viciado_em_um-Video--Game-red">
 <img alt="Ler-Estudar" src="https://img.shields.io/badge/Adoro%20ler%20e%20estudar-Ci%C3%AAncias-yellowgreen">
 <img alt="Não-vivo" src="https://img.shields.io/badge/N%C3%A3o%20vivo%20sem-Tecnologia-green">
 
@@ -73,11 +73,11 @@ VUE.JS
 
 <div align="left">
 
-- [EdiJunior88/Certificados](https://github.com/EdiJunior88/Certificados) - 👨🏼‍🎓 Minhas certificações na área de Tecnologia para registro pessoal e para consultas públicas. (1 day ago) - (⭐2)
-- [EdiJunior88/VueJS_Documentacao](https://github.com/EdiJunior88/VueJS_Documentacao) - A Vue é uma abstração e ecossistema que cobre a maioria das funcionalidades comuns necessárias no desenvolvimento de frontend (2 days ago) - (⭐0)
-- [EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado](https://github.com/EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado) - Neste curso irá descobrir o jeito mais moderno de desenvolver aplicações web e sistemas web, você vai aprender a criar aplicações completas do extremo zero e entendendo na prática a usar todo poder e recurso do ReactJS e NextJS. (4 days ago) - (⭐0)
-- [EdiJunior88/Imersao_React_Alura](https://github.com/EdiJunior88/Imersao_React_Alura) - Serão 5 aulas gratuitas de programação de nível intermediário para você desenvolver o Aluratube, um projeto em React para adicionar ao seu portfólio. (5 days ago) - (⭐2)
-- [EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes](https://github.com/EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes) - Front End, HTML, Tags, Acessibilidade, CSS, Grid Layout, Flexbox, Media Queries, Responsivo, VS Code e mais. (5 days ago) - (⭐7)
+- [EdiJunior88/Certificados](https://github.com/EdiJunior88/Certificados) - 👨🏼‍🎓 Minhas certificações na área de Tecnologia para registro pessoal e para consultas públicas. (1 day ago / ⭐2)
+- [EdiJunior88/VueJS_Documentacao](https://github.com/EdiJunior88/VueJS_Documentacao) - A Vue é uma abstração e ecossistema que cobre a maioria das funcionalidades comuns necessárias no desenvolvimento de frontend (2 days ago / ⭐0)
+- [EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado](https://github.com/EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado) - Neste curso irá descobrir o jeito mais moderno de desenvolver aplicações web e sistemas web, você vai aprender a criar aplicações completas do extremo zero e entendendo na prática a usar todo poder e recurso do ReactJS e NextJS. (4 days ago / ⭐0)
+- [EdiJunior88/Imersao_React_Alura](https://github.com/EdiJunior88/Imersao_React_Alura) - Serão 5 aulas gratuitas de programação de nível intermediário para você desenvolver o Aluratube, um projeto em React para adicionar ao seu portfólio. (5 days ago / ⭐2)
+- [EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes](https://github.com/EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes) - Front End, HTML, Tags, Acessibilidade, CSS, Grid Layout, Flexbox, Media Queries, Responsivo, VS Code e mais. (5 days ago / ⭐7)
 </div>
 
 <hr>
@@ -166,7 +166,7 @@ VUE.JS
 
 <hr>
 
-<h3>👯 Recentes Seguidores</h3>
+<h3>👯 Seguidores Recentes</h3>
 
 [accept96](https://github.com/accept96)<br>
 [bpradiip](https://github.com/bpradiip)<br>
@@ -268,7 +268,7 @@ VUE.JS
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" title="VSCode" width="5%"> 
 </a> 
 </p>
-&lt;/>
+</div>
 
 
 
