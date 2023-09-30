@@ -172,11 +172,11 @@ VUE.JS
 <div style="display: flex;margin-left:auto;margin-right:auto;" align="center">
 <h3>👯 Recentes Seguidores</h3>
 
-- [bpradiip](https://github.com/bpradiip)
-- [KevinTrinh1227](https://github.com/KevinTrinh1227)
-- [DGS1337](https://github.com/DGS1337)
-- [techtronixnepal](https://github.com/techtronixnepal)
-- [pranavhunagund1993](https://github.com/pranavhunagund1993)
+  [bpradiip](https://github.com/bpradiip)
+  [KevinTrinh1227](https://github.com/KevinTrinh1227)
+  [DGS1337](https://github.com/DGS1337)
+  [techtronixnepal](https://github.com/techtronixnepal)
+  [pranavhunagund1993](https://github.com/pranavhunagund1993)
 </div>
 
 <hr>
