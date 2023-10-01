@@ -168,11 +168,11 @@ VUE.JS
 
 <h3>👯 Seguidores Recentes</h3>
 
+[bpradiip](https://github.com/bpradiip)<br>
 [accept96](https://github.com/accept96)<br>
 [KevinTrinh1227](https://github.com/KevinTrinh1227)<br>
 [DGS1337](https://github.com/DGS1337)<br>
 [techtronixnepal](https://github.com/techtronixnepal)<br>
-[pranavhunagund1993](https://github.com/pranavhunagund1993)<br>
 
 <hr>
   
