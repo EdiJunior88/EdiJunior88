@@ -168,11 +168,11 @@ VUE.JS
 
 <h3>👯 Seguidores Recentes</h3>
 
+[CharlieGreenman](https://github.com/CharlieGreenman)<br>
 [voidrlm](https://github.com/voidrlm)<br>
 [rodrigoepacheco](https://github.com/rodrigoepacheco)<br>
 [accept96](https://github.com/accept96)<br>
 [DGS1337](https://github.com/DGS1337)<br>
-[pranavhunagund1993](https://github.com/pranavhunagund1993)<br>
 
 <hr>
   
