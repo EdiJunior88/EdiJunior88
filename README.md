@@ -73,11 +73,11 @@ VUE.JS
 
 <div align="left">
 
+- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão atualizada (v2.0) em React/TypeScript do meu portfólio (em construção) (today / ⭐0)
 - [EdiJunior88/VueJS_Documentacao](https://github.com/EdiJunior88/VueJS_Documentacao) - A Vue é uma abstração e ecossistema que cobre a maioria das funcionalidades comuns necessárias no desenvolvimento de frontend (1 day ago / ⭐0)
-- [EdiJunior88/Hcode_Cafe_Next.js_13_Potencialize_suas_Aplicacoes](https://github.com/EdiJunior88/Hcode_Cafe_Next.js_13_Potencialize_suas_Aplicacoes) - Junte-se a nós nesta empolgante live e explore o Next.js 13, a mais recente versão da poderosa estrutura de desenvolvimento web. (2 days ago / ⭐0)
 - [EdiJunior88/Projeto-hashtagFinder](https://github.com/EdiJunior88/Projeto-hashtagFinder) - A aplicação HashtagFinder tem por objetivo realizar buscas de posts e imagens a partir da integração com a API do Twitter. Os resultados da busca são exibidos em uma lista organizada com as 10 postagens mais recentes. (2 days ago / ⭐1)
+- [EdiJunior88/Hcode_Cafe_Next.js_13_Potencialize_suas_Aplicacoes](https://github.com/EdiJunior88/Hcode_Cafe_Next.js_13_Potencialize_suas_Aplicacoes) - Junte-se a nós nesta empolgante live e explore o Next.js 13, a mais recente versão da poderosa estrutura de desenvolvimento web. (2 days ago / ⭐0)
 - [EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado](https://github.com/EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado) - Neste curso irá descobrir o jeito mais moderno de desenvolver aplicações web e sistemas web, você vai aprender a criar aplicações completas do extremo zero e entendendo na prática a usar todo poder e recurso do ReactJS e NextJS. (4 days ago / ⭐0)
-- [EdiJunior88/Imersao_React_Alura](https://github.com/EdiJunior88/Imersao_React_Alura) - Serão 5 aulas gratuitas de programação de nível intermediário para você desenvolver o Aluratube, um projeto em React para adicionar ao seu portfólio. (4 days ago / ⭐2)
 </div>
 
 <hr>
