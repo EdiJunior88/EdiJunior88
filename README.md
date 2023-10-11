@@ -168,11 +168,11 @@ VUE.JS
 
 <h3>👯 Seguidores Recentes</h3>
 
+[DmytroKonovalov](https://github.com/DmytroKonovalov)<br>
 [devlucianoalcantara](https://github.com/devlucianoalcantara)<br>
 [appzsoft1](https://github.com/appzsoft1)<br>
 [CharlieGreenman](https://github.com/CharlieGreenman)<br>
 [rodrigoepacheco](https://github.com/rodrigoepacheco)<br>
-[accept96](https://github.com/accept96)<br>
 
 <hr>
   
