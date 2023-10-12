@@ -74,10 +74,10 @@ VUE.JS
 <div align="left">
 
 - [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão atualizada (v2.0) em React/TypeScript do meu portfólio (em construção) (1 day ago / ⭐0)
-- [EdiJunior88/Consulta_Quadrinhos](https://github.com/EdiJunior88/Consulta_Quadrinhos) - Aqui você encontra todos os quadrinhos (comics) e heróis da Marvel (2 days ago / ⭐1)
-- [EdiJunior88/Aluratube_v2](https://github.com/EdiJunior88/Aluratube_v2) - Um projeto que simula um app do Youtube registrando o título e url de qualquer vídeo que podem ser adicionados à página principal. (2 days ago / ⭐0)
-- [EdiJunior88/React_Documentacao](https://github.com/EdiJunior88/React_Documentacao) - Bem-vindo à documentação do React! Esta página fornecerá uma introdução aos 80% dos conceitos do React que você usará diariamente. (2 days ago / ⭐0)
-- [EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes](https://github.com/EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes) - Front End, HTML, Tags, Acessibilidade, CSS, Grid Layout, Flexbox, Media Queries, Responsivo, VS Code e mais. (2 days ago / ⭐7)
+- [EdiJunior88/VueJS_Documentacao](https://github.com/EdiJunior88/VueJS_Documentacao) - A Vue é uma abstração e ecossistema que cobre a maioria das funcionalidades comuns necessárias no desenvolvimento de frontend (3 days ago / ⭐0)
+- [EdiJunior88/Aluratube_v2](https://github.com/EdiJunior88/Aluratube_v2) - Um projeto que simula um app do Youtube registrando o título e url de qualquer vídeo que podem ser adicionados à página principal. (3 days ago / ⭐0)
+- [EdiJunior88/React_Documentacao](https://github.com/EdiJunior88/React_Documentacao) - Bem-vindo à documentação do React! Esta página fornecerá uma introdução aos 80% dos conceitos do React que você usará diariamente. (3 days ago / ⭐0)
+- [EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes](https://github.com/EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes) - Front End, HTML, Tags, Acessibilidade, CSS, Grid Layout, Flexbox, Media Queries, Responsivo, VS Code e mais. (3 days ago / ⭐7)
 </div>
 
 <hr>
