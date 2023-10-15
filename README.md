@@ -74,10 +74,10 @@ VUE.JS
 <div align="left">
 
 - [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão atualizada (v2.0) em React/TypeScript do meu portfólio (em construção) (1 day ago / ⭐0)
-- [EdiJunior88/teste_achievements_github](https://github.com/EdiJunior88/teste_achievements_github) -  (2 days ago / ⭐0)
-- [EdiJunior88/React_Documentacao](https://github.com/EdiJunior88/React_Documentacao) - Bem-vindo à documentação do React! Esta página fornecerá uma introdução aos 80% dos conceitos do React que você usará diariamente. (5 days ago / ⭐0)
-- [EdiJunior88/Aluratube_v2](https://github.com/EdiJunior88/Aluratube_v2) - Um projeto que simula um app do Youtube registrando o título e url de qualquer vídeo que podem ser adicionados à página principal. (5 days ago / ⭐0)
-- [EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes](https://github.com/EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes) - Front End, HTML, Tags, Acessibilidade, CSS, Grid Layout, Flexbox, Media Queries, Responsivo, VS Code e mais. (5 days ago / ⭐7)
+- [EdiJunior88/teste_achievements_github](https://github.com/EdiJunior88/teste_achievements_github) -  (3 days ago / ⭐0)
+- [EdiJunior88/Imersao_React_Alura](https://github.com/EdiJunior88/Imersao_React_Alura) - Serão 5 aulas gratuitas de programação de nível intermediário para você desenvolver o Aluratube, um projeto em React para adicionar ao seu portfólio. (6 days ago / ⭐2)
+- [EdiJunior88/Aluratube_v2](https://github.com/EdiJunior88/Aluratube_v2) - Um projeto que simula um app do Youtube registrando o título e url de qualquer vídeo que podem ser adicionados à página principal. (6 days ago / ⭐0)
+- [EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes](https://github.com/EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes) - Front End, HTML, Tags, Acessibilidade, CSS, Grid Layout, Flexbox, Media Queries, Responsivo, VS Code e mais. (6 days ago / ⭐7)
 </div>
 
 <hr>
@@ -168,11 +168,11 @@ VUE.JS
 
 <h3>👯 Seguidores Recentes</h3>
 
-[bpradiip](https://github.com/bpradiip)<br>
 [samirtimalsina](https://github.com/samirtimalsina)<br>
 [DmytroKonovalov](https://github.com/DmytroKonovalov)<br>
 [devlucianoalcantara](https://github.com/devlucianoalcantara)<br>
 [appzsoft1](https://github.com/appzsoft1)<br>
+[CharlieGreenman](https://github.com/CharlieGreenman)<br>
 
 <hr>
   
