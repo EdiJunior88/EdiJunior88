@@ -169,7 +169,7 @@ VUE.JS
 <h3>👯 Seguidores Recentes</h3>
 
 [danovd](https://github.com/danovd)<br>
-[samirtimalsina](https://github.com/samirtimalsina)<br>
+[techtroniix](https://github.com/techtroniix)<br>
 [DmytroKonovalov](https://github.com/DmytroKonovalov)<br>
 [devlucianoalcantara](https://github.com/devlucianoalcantara)<br>
 [appzsoft1](https://github.com/appzsoft1)<br>
