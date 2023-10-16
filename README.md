@@ -20,25 +20,25 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="64" height="64">
 </td>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="64" height="64">
 </td>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="64" height="64">
 </td>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="64" height="64">
 </td>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="64" height="64">
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nextjs-icon.svg">
+<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nextjs-icon.svg" width="64" height="64">
 </td>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg">
+<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="64" height="64">
 </td>
 <td align="center">
 <img src="https://pinia-docs-pt.netlify.app/logo.svg" width="64" height="64">
