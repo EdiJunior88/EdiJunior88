@@ -41,7 +41,7 @@
 <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg">
 </td>
 <td align="center">
-<img src="https://pinia-docs-pt.netlify.app/logo.svg">
+<img src="https://pinia-docs-pt.netlify.app/logo.svg" width="64" height="64">
 </td>
 </tr>
 
