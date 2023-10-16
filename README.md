@@ -73,11 +73,11 @@ VUE.JS
 
 <div align="left">
 
-- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão atualizada (v2.0) em React/TypeScript do meu portfólio (em construção) (today / ⭐0)
-- [EdiJunior88/view_profile](https://github.com/EdiJunior88/view_profile) - 🎲 Contador de Views de repositórios e perfil do GitHub (1 day ago / ⭐2)
-- [EdiJunior88/teste_achievements_github](https://github.com/EdiJunior88/teste_achievements_github) -  (3 days ago / ⭐0)
-- [EdiJunior88/React_Documentacao](https://github.com/EdiJunior88/React_Documentacao) - Bem-vindo à documentação do React! Esta página fornecerá uma introdução aos 80% dos conceitos do React que você usará diariamente. (6 days ago / ⭐0)
-- [EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes](https://github.com/EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes) - Front End, HTML, Tags, Acessibilidade, CSS, Grid Layout, Flexbox, Media Queries, Responsivo, VS Code e mais. (6 days ago / ⭐7)
+- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão atualizada (v2.0) em React/TypeScript do meu portfólio (em construção) (1 day ago / ⭐0)
+- [EdiJunior88/view_profile](https://github.com/EdiJunior88/view_profile) - 🎲 Contador de Views de repositórios e perfil do GitHub (2 days ago / ⭐2)
+- [EdiJunior88/teste_achievements_github](https://github.com/EdiJunior88/teste_achievements_github) -  (4 days ago / ⭐0)
+- [EdiJunior88/React_Documentacao](https://github.com/EdiJunior88/React_Documentacao) - Bem-vindo à documentação do React! Esta página fornecerá uma introdução aos 80% dos conceitos do React que você usará diariamente. (1 week ago / ⭐0)
+- [EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes](https://github.com/EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes) - Front End, HTML, Tags, Acessibilidade, CSS, Grid Layout, Flexbox, Media Queries, Responsivo, VS Code e mais. (1 week ago / ⭐7)
 </div>
 
 <hr>
