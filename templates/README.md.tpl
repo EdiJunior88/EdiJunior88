@@ -40,6 +40,9 @@
 <td align="center">
 <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg">
 </td>
+<td align="center">
+<img src="https://pinia-docs-pt.netlify.app/logo.svg">
+</td>
 </tr>
 
 <tr>
@@ -63,6 +66,9 @@ NEXT.JS
 </td>
 <td align="center">
 VUE.JS
+</td>
+<td align="center">
+PINIA
 </td>
 </tr>
 </table>
