@@ -79,8 +79,8 @@ PINIA
 
 <div align="left">
 
-- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão atualizada (v2.0) em React/TypeScript do meu portfólio (em construção) (1 day ago / ⭐0)
-- [EdiJunior88/Origamid_React_Completo](https://github.com/EdiJunior88/Origamid_React_Completo) - O foco do curso é no entendimento completo do React, com isso praticamente tudo será criado do zero, sem a dependência de pacotes externos. (1 day ago / ⭐4)
+- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão atualizada (v2.0) em React/TypeScript do meu portfólio (em construção) (today / ⭐0)
+- [EdiJunior88/Balta.io_Criando_um_App_com_React](https://github.com/EdiJunior88/Balta.io_Criando_um_App_com_React) - Neste curso vamos criar um App completo utilizando React e TypeScript, passando pelos conceitos de gestão de estado com React Context, utilizando React Hooks e React Forms, tudo na prática, direto ao ponto! (1 day ago / ⭐0)
 - [EdiJunior88/Aluratube_v2](https://github.com/EdiJunior88/Aluratube_v2) - Um projeto que simula um app do Youtube registrando o título e url de qualquer vídeo que podem ser adicionados à página principal. (1 day ago / ⭐0)
 - [EdiJunior88/TailwindCSS_2_para_Iniciantes](https://github.com/EdiJunior88/TailwindCSS_2_para_Iniciantes) - Tailwind CSS é basicamente um utility-first CSS framework que prioriza a construção ultra-rápida de interfaces customizadas. (1 day ago / ⭐0)
 - [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (1 day ago / ⭐0)
