@@ -88,6 +88,11 @@ PINIA
 <h3>🗃️ Lista de Todos os Projetos</h3>
 
 <details>
+<summary>Vuejs 3</summary> <br>
+<strong>Portfólio v2</strong> - <a href="https://portfolio-v2-edijunior88.vercel.app/" target="_blank">https://portfolio-v2-edijunior88.vercel.app/</a> <br>
+</details>
+
+<details>
 <summary>React</summary> <br>
 <strong>Favoritar Repositórios</strong> - <a href="https://projeto-favoritar-repositorios.vercel.app/" target="_blank">https://projeto-favoritar-repositorios.vercel.app/</a> <br>
 <strong>Dogs</strong> - <a href="https://dogsorigamid-edijunior88.netlify.app/" target="_blank">https://dogsorigamid-edijunior88.netlify.app/</a> <br>
