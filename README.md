@@ -79,11 +79,11 @@ PINIA
 
 <div align="left">
 
-- [EdiJunior88/NewTab_Academy_Projeto_Individual_PHP](https://github.com/EdiJunior88/NewTab_Academy_Projeto_Individual_PHP) - O projeto consiste em implementar uma aplicação web a partir de uma modelagem de dados inicial desnormalizada, que deve ser normalizada para a implementação da solução. (today / ⭐1)
-- [EdiJunior88/Balta.io_Comecando_com_Angular](https://github.com/EdiJunior88/Balta.io_Comecando_com_Angular) - O curso aborda todos os conceitos fundamentais do Angular e, aprendendo os conceitos fundamentais, você poderá utilizá-los em todas as versões mais recentes do Framework. (today / ⭐0)
-- [EdiJunior88/NewTab_Academy_Angular](https://github.com/EdiJunior88/NewTab_Academy_Angular) - Esse módulo nos fornece uma visão do framework Angular através de conceitos e fundamentos que irão nos ajudar no desenvolvimento de aplicações front-end. (today / ⭐1)
-- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão atualizada (v2.0) em React/TypeScript do meu portfólio contendo todas as minhas informações (1 day ago / ⭐0)
-- [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (2 days ago / ⭐0)
+- [EdiJunior88/NewTab_Academy_Projeto_Individual_PHP](https://github.com/EdiJunior88/NewTab_Academy_Projeto_Individual_PHP) - O projeto consiste em implementar uma aplicação web a partir de uma modelagem de dados inicial desnormalizada, que deve ser normalizada para a implementação da solução. (1 day ago / ⭐1)
+- [EdiJunior88/Balta.io_Comecando_com_Angular](https://github.com/EdiJunior88/Balta.io_Comecando_com_Angular) - O curso aborda todos os conceitos fundamentais do Angular e, aprendendo os conceitos fundamentais, você poderá utilizá-los em todas as versões mais recentes do Framework. (1 day ago / ⭐0)
+- [EdiJunior88/NewTab_Academy_Angular](https://github.com/EdiJunior88/NewTab_Academy_Angular) - Esse módulo nos fornece uma visão do framework Angular através de conceitos e fundamentos que irão nos ajudar no desenvolvimento de aplicações front-end. (1 day ago / ⭐1)
+- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão atualizada (v2.0) em React/TypeScript do meu portfólio contendo todas as minhas informações (2 days ago / ⭐0)
+- [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (3 days ago / ⭐0)
 </div>
 
 <hr>
