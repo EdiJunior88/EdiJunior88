@@ -148,7 +148,7 @@ PINIA
   
 <h3>✒️ Meu Status no GitHub</h3>
  
-[![Image of https://github.com/EdiJunior88/view_profile](https://github.com/EdiJunior88/view_profile/blob/master/svg/profile/badge.svg)](https://github.com/EdiJunior88/view_profile)
+[![Image of https://github.com/EdiJunior88/contador-de-views](https://github.com/EdiJunior88/contador-de-views/blob/master/svg/profile/badge.svg)](https://github.com/EdiJunior88/contador-de-views)
 
 <table>
 <tr>
