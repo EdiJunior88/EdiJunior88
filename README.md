@@ -79,11 +79,11 @@ PINIA
 
 <div align="left">
 
-- [EdiJunior88/Casa_do_Codigo_VueJS](https://github.com/EdiJunior88/Casa_do_Codigo_VueJS) - Neste livro, você vai aprender a sintaxe do Vue.js 2.0, como funcionam seus componentes e métodos, como integrar com APIs externas e criar rotas, e muito mais! (3 days ago / ⭐0)
-- [EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado](https://github.com/EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado) - Neste curso irá descobrir o jeito mais moderno de desenvolver aplicações web e sistemas web, você vai aprender a criar aplicações completas do extremo zero e entendendo na prática a usar todo poder e recurso do ReactJS e NextJS. (4 days ago / ⭐0)
-- [EdiJunior88/contador-de-views](https://github.com/EdiJunior88/contador-de-views) - ⏰ Contador de views do perfil do GitHub &#43; Repositórios (4 days ago / ⭐0)
-- [EdiJunior88/VueJS_Documentacao](https://github.com/EdiJunior88/VueJS_Documentacao) - A Vue é uma abstração e ecossistema que cobre a maioria das funcionalidades comuns necessárias no desenvolvimento de frontend (4 days ago / ⭐0)
-- [EdiJunior88/NewTab_Academy_Projeto_Individual_PHP](https://github.com/EdiJunior88/NewTab_Academy_Projeto_Individual_PHP) - O projeto consiste em implementar uma aplicação web a partir de uma modelagem de dados inicial desnormalizada, que deve ser normalizada para a implementação da solução. (5 days ago / ⭐1)
+- [EdiJunior88/Testes_React_com_Vitest_e_Testing_Library](https://github.com/EdiJunior88/Testes_React_com_Vitest_e_Testing_Library) -  (today / ⭐0)
+- [EdiJunior88/NewTab_Academy_Projeto_Individual_React](https://github.com/EdiJunior88/NewTab_Academy_Projeto_Individual_React) - O objetivo é construir uma aplicação que simula o envio de dinheiro para uma outra pessoa, via cartão de crédito. (today / ⭐2)
+- [EdiJunior88/VueJS_Documentacao](https://github.com/EdiJunior88/VueJS_Documentacao) - A Vue é uma abstração e ecossistema que cobre a maioria das funcionalidades comuns necessárias no desenvolvimento de frontend (today / ⭐0)
+- [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (today / ⭐0)
+- [EdiJunior88/Imersao_React_Alura](https://github.com/EdiJunior88/Imersao_React_Alura) - Serão 5 aulas gratuitas de programação de nível intermediário para você desenvolver o Aluratube, um projeto em React para adicionar ao seu portfólio. (today / ⭐2)
 </div>
 
 <hr>
