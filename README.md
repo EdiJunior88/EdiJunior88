@@ -79,11 +79,11 @@ PINIA
 
 <div align="left">
 
-- [EdiJunior88/Testes_React_com_Vitest_e_Testing_Library](https://github.com/EdiJunior88/Testes_React_com_Vitest_e_Testing_Library) -  (today / ⭐0)
-- [EdiJunior88/NewTab_Academy_Projeto_Individual_React](https://github.com/EdiJunior88/NewTab_Academy_Projeto_Individual_React) - O objetivo é construir uma aplicação que simula o envio de dinheiro para uma outra pessoa, via cartão de crédito. (today / ⭐2)
-- [EdiJunior88/VueJS_Documentacao](https://github.com/EdiJunior88/VueJS_Documentacao) - A Vue é uma abstração e ecossistema que cobre a maioria das funcionalidades comuns necessárias no desenvolvimento de frontend (today / ⭐0)
-- [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (today / ⭐0)
-- [EdiJunior88/Imersao_React_Alura](https://github.com/EdiJunior88/Imersao_React_Alura) - Serão 5 aulas gratuitas de programação de nível intermediário para você desenvolver o Aluratube, um projeto em React para adicionar ao seu portfólio. (today / ⭐2)
+- [EdiJunior88/Testes_React_com_Vitest_e_Testing_Library](https://github.com/EdiJunior88/Testes_React_com_Vitest_e_Testing_Library) -  (1 day ago / ⭐0)
+- [EdiJunior88/NewTab_Academy_Projeto_Individual_React](https://github.com/EdiJunior88/NewTab_Academy_Projeto_Individual_React) - O objetivo é construir uma aplicação que simula o envio de dinheiro para uma outra pessoa, via cartão de crédito. (1 day ago / ⭐2)
+- [EdiJunior88/VueJS_Documentacao](https://github.com/EdiJunior88/VueJS_Documentacao) - A Vue é uma abstração e ecossistema que cobre a maioria das funcionalidades comuns necessárias no desenvolvimento de frontend (1 day ago / ⭐0)
+- [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (1 day ago / ⭐0)
+- [EdiJunior88/Imersao_React_Alura](https://github.com/EdiJunior88/Imersao_React_Alura) - Serão 5 aulas gratuitas de programação de nível intermediário para você desenvolver o Aluratube, um projeto em React para adicionar ao seu portfólio. (1 day ago / ⭐2)
 </div>
 
 <hr>
