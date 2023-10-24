@@ -79,11 +79,11 @@ PINIA
 
 <div align="left">
 
-- [EdiJunior88/GitHub_Finder](https://github.com/EdiJunior88/GitHub_Finder) - Um projeto que utiliza a API do GitHub para buscar um usuário e mostrar os 5 melhores repositórios com mais estrelas (today / ⭐0)
+- [EdiJunior88/Certificados](https://github.com/EdiJunior88/Certificados) - 👨🏼‍🎓 Minhas certificações na área de Tecnologia para registro pessoal e para consultas públicas. (today / ⭐2)
 - [EdiJunior88/Origamid_React_Completo](https://github.com/EdiJunior88/Origamid_React_Completo) - O foco do curso é no entendimento completo do React, com isso praticamente tudo será criado do zero, sem a dependência de pacotes externos. (today / ⭐4)
 - [EdiJunior88/Aluratube_v2](https://github.com/EdiJunior88/Aluratube_v2) - Um projeto que simula um app do Youtube registrando o título e url de qualquer vídeo que podem ser adicionados à página principal. (today / ⭐0)
-- [EdiJunior88/Microsoft_Learn_Crie-seus_primeiros_aplicativos_Web_com_React](https://github.com/EdiJunior88/Microsoft_Learn_Crie-seus_primeiros_aplicativos_Web_com_React) - React.js é a estrutura JavaScript de front-end mais popular. Por meio do JSX, uma combinação de HTML e JavaScript, os desenvolvedores podem criar exibições de forma natural.  (today / ⭐0)
 - [EdiJunior88/React_Documentacao](https://github.com/EdiJunior88/React_Documentacao) - Bem-vindo à documentação do React! Esta página fornecerá uma introdução aos 80% dos conceitos do React que você usará diariamente. (today / ⭐0)
+- [EdiJunior88/Microsoft_Learn_Crie-seus_primeiros_aplicativos_Web_com_React](https://github.com/EdiJunior88/Microsoft_Learn_Crie-seus_primeiros_aplicativos_Web_com_React) - React.js é a estrutura JavaScript de front-end mais popular. Por meio do JSX, uma combinação de HTML e JavaScript, os desenvolvedores podem criar exibições de forma natural.  (today / ⭐0)
 </div>
 
 <hr>
