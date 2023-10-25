@@ -179,11 +179,11 @@ PINIA
 
 <h3>👯 Seguidores Recentes</h3>
 
+[OmarElsakka1](https://github.com/OmarElsakka1)<br>
 [danovd](https://github.com/danovd)<br>
 [samirtimalsina](https://github.com/samirtimalsina)<br>
 [DmytroKonovalov](https://github.com/DmytroKonovalov)<br>
 [devlucianoalcantara](https://github.com/devlucianoalcantara)<br>
-[appzsoft1](https://github.com/appzsoft1)<br>
 
 <hr>
   
