@@ -79,11 +79,11 @@ PINIA
 
 <div align="left">
 
-- [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects (today / ⭐38623)
+- [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects (today / ⭐38624)
 - [EdiJunior88/contador-de-views](https://github.com/EdiJunior88/contador-de-views) - ⏰ Contador de views do perfil do GitHub &#43; Repositórios (today / ⭐0)
+- [EdiJunior88/Portfolio](https://github.com/EdiJunior88/Portfolio) - Meu portfólio reflete minha jornada de aprendizado e minha evolução nessa emocionante área de Desenvolvimento Front-End (Web) (today / ⭐5)
 - [EdiJunior88/hackathon-listaProdutos](https://github.com/EdiJunior88/hackathon-listaProdutos) - O melhor App para lista de compras (1 day ago / ⭐1)
-- [EdiJunior88/Certificados](https://github.com/EdiJunior88/Certificados) - 👨🏼‍🎓 Minhas certificações na área de Tecnologia para registro pessoal e para consultas públicas. (2 days ago / ⭐2)
-- [EdiJunior88/Microsoft_Learn_Crie-seus_primeiros_aplicativos_Web_com_React](https://github.com/EdiJunior88/Microsoft_Learn_Crie-seus_primeiros_aplicativos_Web_com_React) - React.js é a estrutura JavaScript de front-end mais popular. Por meio do JSX, uma combinação de HTML e JavaScript, os desenvolvedores podem criar exibições de forma natural.  (2 days ago / ⭐0)
+- [EdiJunior88/Origamid_React_Completo](https://github.com/EdiJunior88/Origamid_React_Completo) - O foco do curso é no entendimento completo do React, com isso praticamente tudo será criado do zero, sem a dependência de pacotes externos. (2 days ago / ⭐4)
 </div>
 
 <hr>
@@ -179,11 +179,11 @@ PINIA
 
 <h3>👯 Seguidores Recentes</h3>
 
+[mohamadSaleh82](https://github.com/mohamadSaleh82)<br>
 [OmarElsakka1](https://github.com/OmarElsakka1)<br>
 [danovd](https://github.com/danovd)<br>
 [samirtimalsina](https://github.com/samirtimalsina)<br>
 [DmytroKonovalov](https://github.com/DmytroKonovalov)<br>
-[devlucianoalcantara](https://github.com/devlucianoalcantara)<br>
 
 <hr>
   
