@@ -80,7 +80,7 @@ PINIA
 <div align="left">
 
 - [EdiJunior88/contador-de-views](https://github.com/EdiJunior88/contador-de-views) - ⏰ Contador de views do perfil do GitHub &#43; Repositórios (1 day ago / ⭐0)
-- [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects (1 day ago / ⭐38648)
+- [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects (1 day ago / ⭐38645)
 - [EdiJunior88/Portfolio](https://github.com/EdiJunior88/Portfolio) - Meu portfólio reflete minha jornada de aprendizado e minha evolução nessa emocionante área de Desenvolvimento Front-End (Web) (1 day ago / ⭐5)
 - [EdiJunior88/Casa_do_Codigo_VueJS](https://github.com/EdiJunior88/Casa_do_Codigo_VueJS) - Neste livro, você vai aprender a sintaxe do Vue.js 2.0, como funcionam seus componentes e métodos, como integrar com APIs externas e criar rotas, e muito mais! (1 day ago / ⭐0)
 - [EdiJunior88/hackathon-listaProdutos](https://github.com/EdiJunior88/hackathon-listaProdutos) - O melhor App para lista de compras (2 days ago / ⭐1)
