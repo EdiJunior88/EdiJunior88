@@ -79,11 +79,11 @@ PINIA
 
 <div align="left">
 
-- [EdiJunior88/cantinho_do_bloguinho](https://github.com/EdiJunior88/cantinho_do_bloguinho) - Criando o meu blog para guardar diversas informações sobre desenvolvimento (Em Construção) (2 days ago / ⭐0)
-- [EdiJunior88/contador-de-views](https://github.com/EdiJunior88/contador-de-views) - ⏰ Contador de views do perfil do GitHub &#43; Repositórios (3 days ago / ⭐0)
-- [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects (4 days ago / ⭐38710)
-- [EdiJunior88/Portfolio](https://github.com/EdiJunior88/Portfolio) - Meu portfólio reflete minha jornada de aprendizado e minha evolução nessa emocionante área de Desenvolvimento Front-End (Web) (4 days ago / ⭐5)
-- [EdiJunior88/Casa_do_Codigo_VueJS](https://github.com/EdiJunior88/Casa_do_Codigo_VueJS) - Neste livro, você vai aprender a sintaxe do Vue.js 2.0, como funcionam seus componentes e métodos, como integrar com APIs externas e criar rotas, e muito mais! (4 days ago / ⭐0)
+- [EdiJunior88/Testes_React_com_Vitest_e_Testing_Library](https://github.com/EdiJunior88/Testes_React_com_Vitest_e_Testing_Library) -  (today / ⭐0)
+- [EdiJunior88/Balta.io_Criando_um_App_com_React](https://github.com/EdiJunior88/Balta.io_Criando_um_App_com_React) - Neste curso vamos criar um App completo utilizando React e TypeScript, passando pelos conceitos de gestão de estado com React Context, utilizando React Hooks e React Forms, tudo na prática, direto ao ponto! (today / ⭐0)
+- [EdiJunior88/VueJS_Documentacao](https://github.com/EdiJunior88/VueJS_Documentacao) - A Vue é uma abstração e ecossistema que cobre a maioria das funcionalidades comuns necessárias no desenvolvimento de frontend (today / ⭐0)
+- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão atualizada (v2.0) em React/TypeScript do meu portfólio contendo todas as minhas informações (today / ⭐0)
+- [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (today / ⭐0)
 </div>
 
 <hr>
