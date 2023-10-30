@@ -81,7 +81,7 @@ PINIA
 
 - [EdiJunior88/cantinho_do_bloguinho](https://github.com/EdiJunior88/cantinho_do_bloguinho) - Criando o meu blog para guardar diversas informações sobre desenvolvimento (Em Construção) (2 days ago / ⭐0)
 - [EdiJunior88/contador-de-views](https://github.com/EdiJunior88/contador-de-views) - ⏰ Contador de views do perfil do GitHub &#43; Repositórios (3 days ago / ⭐0)
-- [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects (4 days ago / ⭐38703)
+- [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects (4 days ago / ⭐38704)
 - [EdiJunior88/Portfolio](https://github.com/EdiJunior88/Portfolio) - Meu portfólio reflete minha jornada de aprendizado e minha evolução nessa emocionante área de Desenvolvimento Front-End (Web) (4 days ago / ⭐5)
 - [EdiJunior88/Casa_do_Codigo_VueJS](https://github.com/EdiJunior88/Casa_do_Codigo_VueJS) - Neste livro, você vai aprender a sintaxe do Vue.js 2.0, como funcionam seus componentes e métodos, como integrar com APIs externas e criar rotas, e muito mais! (4 days ago / ⭐0)
 </div>
