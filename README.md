@@ -179,11 +179,11 @@ PINIA
 
 <h3>👯 Seguidores Recentes</h3>
 
+[dougkalash](https://github.com/dougkalash)<br>
 [mehmetpolat46](https://github.com/mehmetpolat46)<br>
 [ramdani161101](https://github.com/ramdani161101)<br>
 [elainefs](https://github.com/elainefs)<br>
 [karimalik](https://github.com/karimalik)<br>
-[hasanyalsiz](https://github.com/hasanyalsiz)<br>
 
 <hr>
   
