@@ -179,11 +179,11 @@ PINIA
 
 <h3>👯 Seguidores Recentes</h3>
 
+[ramdani161101](https://github.com/ramdani161101)<br>
 [elainefs](https://github.com/elainefs)<br>
 [karimalik](https://github.com/karimalik)<br>
 [hasanyalsiz](https://github.com/hasanyalsiz)<br>
 [getintorj](https://github.com/getintorj)<br>
-[avanysouza](https://github.com/avanysouza)<br>
 
 <hr>
   
