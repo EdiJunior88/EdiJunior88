@@ -79,11 +79,11 @@ PINIA
 
 <div align="left">
 
-- [EdiJunior88/React_Documentacao](https://github.com/EdiJunior88/React_Documentacao) - Bem-vindo à documentação do React! Esta página fornecerá uma introdução aos 80% dos conceitos do React que você usará diariamente. (3 days ago / ⭐0)
-- [EdiJunior88/Origamid_React_Completo](https://github.com/EdiJunior88/Origamid_React_Completo) - O foco do curso é no entendimento completo do React, com isso praticamente tudo será criado do zero, sem a dependência de pacotes externos. (3 days ago / ⭐4)
-- [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (3 days ago / ⭐0)
-- [EdiJunior88/Aluratube_v2](https://github.com/EdiJunior88/Aluratube_v2) - Um projeto que simula um app do Youtube registrando o título e url de qualquer vídeo que podem ser adicionados à página principal. (3 days ago / ⭐0)
-- [EdiJunior88/cantinho_do_bloguinho](https://github.com/EdiJunior88/cantinho_do_bloguinho) - Criando o meu blog para guardar diversas informações sobre desenvolvimento (Em Construção) (3 days ago / ⭐0)
+- [EdiJunior88/React_Documentacao](https://github.com/EdiJunior88/React_Documentacao) - Bem-vindo à documentação do React! Esta página fornecerá uma introdução aos 80% dos conceitos do React que você usará diariamente. (4 days ago / ⭐0)
+- [EdiJunior88/Origamid_React_Completo](https://github.com/EdiJunior88/Origamid_React_Completo) - O foco do curso é no entendimento completo do React, com isso praticamente tudo será criado do zero, sem a dependência de pacotes externos. (4 days ago / ⭐4)
+- [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (4 days ago / ⭐0)
+- [EdiJunior88/Aluratube_v2](https://github.com/EdiJunior88/Aluratube_v2) - Um projeto que simula um app do Youtube registrando o título e url de qualquer vídeo que podem ser adicionados à página principal. (4 days ago / ⭐0)
+- [EdiJunior88/cantinho_do_bloguinho](https://github.com/EdiJunior88/cantinho_do_bloguinho) - Criando o meu blog para guardar diversas informações sobre desenvolvimento (Em Construção) (4 days ago / ⭐0)
 </div>
 
 <hr>
@@ -179,11 +179,11 @@ PINIA
 
 <h3>👯 Seguidores Recentes</h3>
 
+[tjthiagocosta](https://github.com/tjthiagocosta)<br>
 [dougkalash](https://github.com/dougkalash)<br>
 [mehmetpolat46](https://github.com/mehmetpolat46)<br>
 [ramdani161101](https://github.com/ramdani161101)<br>
 [elainefs](https://github.com/elainefs)<br>
-[karimalik](https://github.com/karimalik)<br>
 
 <hr>
   
