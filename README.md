@@ -80,10 +80,10 @@ PINIA
 <div align="left">
 
 - [ln-dev7/world-portfolios](https://github.com/ln-dev7/world-portfolios) - Open source collection of World Portfolios (1 day ago / ⭐72)
-- [EdiJunior88/Casa_do_Codigo_VueJS](https://github.com/EdiJunior88/Casa_do_Codigo_VueJS) - Neste livro, você vai aprender a sintaxe do Vue.js 2.0, como funcionam seus componentes e métodos, como integrar com APIs externas e criar rotas, e muito mais! (4 days ago / ⭐0)
-- [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (4 days ago / ⭐0)
+- [EdiJunior88/contador-de-views](https://github.com/EdiJunior88/contador-de-views) - ⏰ Contador de views do perfil do GitHub &#43; Repositórios (1 day ago / ⭐0)
+- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão atualizada (v2.0) em React/TypeScript do meu portfólio contendo todas as minhas informações (4 days ago / ⭐0)
 - [EdiJunior88/Aluratube_v2](https://github.com/EdiJunior88/Aluratube_v2) - Um projeto que simula um app do Youtube registrando o título e url de qualquer vídeo que podem ser adicionados à página principal. (4 days ago / ⭐0)
-- [EdiJunior88/Origamid_React_Completo](https://github.com/EdiJunior88/Origamid_React_Completo) - O foco do curso é no entendimento completo do React, com isso praticamente tudo será criado do zero, sem a dependência de pacotes externos. (4 days ago / ⭐4)
+- [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (4 days ago / ⭐0)
 </div>
 
 <hr>
