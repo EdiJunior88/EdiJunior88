@@ -179,10 +179,10 @@ PINIA
 
 <h3>👯 Seguidores Recentes</h3>
 
+[dougkalash](https://github.com/dougkalash)<br>
 [mohammadhasanii](https://github.com/mohammadhasanii)<br>
 [DAO-collab](https://github.com/DAO-collab)<br>
 [tjthiagocosta](https://github.com/tjthiagocosta)<br>
-[dougkalash](https://github.com/dougkalash)<br>
 [mehmetpolat46](https://github.com/mehmetpolat46)<br>
 
 <hr>
