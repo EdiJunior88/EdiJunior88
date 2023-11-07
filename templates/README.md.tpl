@@ -78,10 +78,10 @@ PINIA
 <h3>🗄️ Meus principais repositórios:</h3>
 
 {{with .Repo "Portfolio_v2"}}
-Name: {{.name}}
-Description: {{.description}}
-URL: {{.html_url}}
-Stars: {{.stargazers_count}}
+Name: {{.Repo.name}}
+Description: {{.Repo.description}}
+URL: {{.Repo.html_url}}
+Stars: {{.Repo.stargazers_count}}
 Is Private: {{.private}}
 Last Git Tag: {{.tag_name}}
 Last Release: {{humanize .published_at}}
