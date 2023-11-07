@@ -2,18 +2,14 @@
 
 <img src="https://p0.piqsels.com/preview/920/519/697/abstract-php-c-analytics.jpg" width="50%">
 
-<p>
 <h2>Olá, meu nome é Edivaldo Junior</h2> 
 <img src="https://i.imgur.com/uzszOEy.gif" width="60px"> 
-</p>
-  
+
 <img alt="Front-End-Junior" src="https://img.shields.io/badge/FRONT--END-Web-brightgreen">
 <img alt="Reinando-React" src="https://img.shields.io/badge/Reinando_no-React-blue">
 <img alt="Viciado-VideoGame" src="https://img.shields.io/badge/Viciado_em_um-Video--Game-red">
 <img alt="Ler-Estudar" src="https://img.shields.io/badge/Adoro%20ler%20e%20estudar-Ci%C3%AAncias-yellowgreen">
 <img alt="Não-vivo" src="https://img.shields.io/badge/N%C3%A3o%20vivo%20sem-Tecnologia-green">
-
-<hr> 
   
 <h3>📚 Estudando as seguintes tecnologias</h3>
 
@@ -78,10 +74,10 @@ PINIA
 <h3>🗄️ Meus principais repositórios:</h3>
 
 <a href="https://github.com/EdiJunior88/Portfolio_v2">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdiJunior88&repo=Portfolio_v2" />
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdiJunior88&repo=Portfolio_v2" />
 </a>
 <a href="https://github.com/EdiJunior88/cantinho_do_bloguinho">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdiJunior88&repo=cantinho_do_bloguinho" />
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdiJunior88&repo=cantinho_do_bloguinho" />
 </a>
 
 <hr>
