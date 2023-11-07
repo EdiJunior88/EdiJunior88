@@ -77,13 +77,14 @@ PINIA
 
 <h3>🗄️ Meus principais repositórios:</h3>
 
-{{with "Certificados"}}
+{{with repo "EdiJunior88" "Portfolio_v2"}}
 Name: {{.Name}}
 Description: {{.Description}}
 URL: {{.URL}}
 Stars: {{.Stargazers}}
 Is Private: {{.IsPrivate}}
 Last Git Tag: {{.LastRelease.TagName}}
+Last Release: {{humanize .LastRelease.PublishedAt}}
 {{end}}
 
 <hr>
