@@ -1,7 +1,8 @@
 <div align="center">
 
 <p align="center">
-<h1>Olá, meu nome é Edivaldo Junior <img src="https://i.imgur.com/uzszOEy.gif" width="60px"></h1> 
+<h1><i>Olá, meu nome é Edivaldo Junior</i></h1> 
+<img src="https://i.imgur.com/uzszOEy.gif" width="60px">
 </p>
 
 <img alt="Front-End-Junior" src="https://img.shields.io/badge/FRONT--END-Web-brightgreen">
