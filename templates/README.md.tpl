@@ -75,6 +75,17 @@ PINIA
 
 <hr>
 
+<h3>🗄️ Meus principais repositórios:</h3>
+
+<table>
+<tr>
+<td>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EdiJunior88&repo=Portfolio_v2&show_owner=true)](https://github.com/EdiJunior88/Portfolio_v2)</td>
+<td>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EdiJunior88&repo=Certificados&show_owner=true)](https://github.com/EdiJunior88/Certificados)</td>
+</tr>
+</table>
+
+<hr>
+
 <h3>👷 Trabalhando nos seguintes projetos:</h3>
 
 <div align="left">
