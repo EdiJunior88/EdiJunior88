@@ -2,8 +2,8 @@
 
 <img src="https://p0.piqsels.com/preview/920/519/697/abstract-php-c-analytics.jpg" width="50%">
 
-<h2>Olá, meu nome é Edivaldo Junior</h2> 
-<img src="https://i.imgur.com/uzszOEy.gif" width="60px"> 
+<h3>Olá, meu nome é Edivaldo Junior</h3> 
+<p align="center"><img src="https://i.imgur.com/uzszOEy.gif" width="60px"></p>
 
 <img alt="Front-End-Junior" src="https://img.shields.io/badge/FRONT--END-Web-brightgreen">
 <img alt="Reinando-React" src="https://img.shields.io/badge/Reinando_no-React-blue">
