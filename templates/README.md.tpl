@@ -77,15 +77,12 @@ PINIA
 
 <h3>🗄️ Meus principais repositórios:</h3>
 
-{{repo ("EdiJunior88" "Portfolio_v2")}}
-Name: {{.Repo.name}}
-Description: {{.Repo.description}}
-URL: {{.Repo.html_url}}
-Stars: {{.Repo.stargazers_count}}
-Is Private: {{.private}}
-Last Git Tag: {{.tag_name}}
-Last Release: {{humanize .published_at}}
-{{end}}
+<a href="https://github.com/EdiJunior88/Portfolio_v2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdiJunior88&repo=Portfolio_v2" />
+</a>
+<a href="https://github.com/EdiJunior88/Certificados">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EdiJunior88&repo=Certificados" />
+</a>
 
 <hr>
 
