@@ -77,15 +77,9 @@ PINIA
 
 <h3>🗄️ Meus principais repositórios:</h3>
 
-{{with repo "Certificados"}}
-Name: {{.Name}}
-Description: {{.Description}}
-URL: {{.URL}}
-Stars: {{.Stargazers}}
-Is Private: {{.IsPrivate}}
-Last Git Tag: {{.LastRelease.TagName}}
-Last Release: {{humanize .LastRelease.PublishedAt}}
-{{end}}
+{{with repo "EdiJunior88" "Certificados"}}
+- [{{.Repo.Name}}]({{.Repo.URL}})- {{.Repo.Description}} / ⭐{{.Repo.Stargazers}})
+{{- end}}
 
 <hr>
 
