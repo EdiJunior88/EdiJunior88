@@ -1,7 +1,9 @@
 <div align="center">
 
+<p align="center">
 <h4>Olá, meu nome é Edivaldo Junior</h4> 
-<p align="center"><img src="https://i.imgur.com/uzszOEy.gif" width="60px"></p>
+<img src="https://i.imgur.com/uzszOEy.gif" width="60px">
+</p>
 
 <img alt="Front-End-Junior" src="https://img.shields.io/badge/FRONT--END-Web-brightgreen">
 <img alt="Reinando-React" src="https://img.shields.io/badge/Reinando_no-React-blue">
