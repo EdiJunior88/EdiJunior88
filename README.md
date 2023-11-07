@@ -79,8 +79,16 @@ PINIA
 
 <table>
 <tr>
-<td>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EdiJunior88&repo=Portfolio_v2&show_owner=true)](https://github.com/EdiJunior88/Portfolio_v2)</td>
-<td>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EdiJunior88&repo=Certificados&show_owner=true)](https://github.com/EdiJunior88/Certificados)</td>
+<td>
+<a href="https://github.com/EdiJunior88/Portfolio_v2" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=EdiJunior88&repo=Portfolio_v2&show_owner=true">
+</a>
+</td>
+<td>
+<a href="https://github.com/EdiJunior88/Certificados" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=EdiJunior88&repo=Certificados&show_owner=true">
+</a>
+</td>
 </tr>
 </table>
 
