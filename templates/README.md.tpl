@@ -77,7 +77,7 @@ PINIA
 
 <h3>🗄️ Meus principais repositórios:</h3>
 
-{{with "Certificados"}}
+{{with repo "Certificados"}}
 Name: {{Certificados.Name}}
 Description: {{Certificados.Description}}
 URL: {{Certificados.URL}}
