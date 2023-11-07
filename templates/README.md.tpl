@@ -77,7 +77,7 @@ PINIA
 
 <h3>🗄️ Meus principais repositórios:</h3>
 
-{{with repo "EdiJunior88" "Certificados"}}
+{{with repo "Certificados" "EdiJunior88"}}
 Name: {{.Name}}
 Description: {{.Description}}
 URL: {{.URL}}
