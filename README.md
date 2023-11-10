@@ -86,7 +86,7 @@ PINIA
 
 <div align="left">
 
-- [ln-dev7/world-portfolios](https://github.com/ln-dev7/world-portfolios) - Open source collection of World Portfolios (1 day ago / ⭐74)
+- [ln-dev7/world-portfolios](https://github.com/ln-dev7/world-portfolios) - Open source collection of World Portfolios (1 day ago / ⭐75)
 - [EdiJunior88/cantinho_do_bloguinho](https://github.com/EdiJunior88/cantinho_do_bloguinho) - Criando o meu blog para guardar diversas informações sobre desenvolvimento (Em Construção) (1 day ago / ⭐0)
 - [EdiJunior88/React_Documentacao](https://github.com/EdiJunior88/React_Documentacao) - Bem-vindo à documentação do React! Esta página fornecerá uma introdução aos 80% dos conceitos do React que você usará diariamente. (4 days ago / ⭐0)
 - [EdiJunior88/Aluratube_v2](https://github.com/EdiJunior88/Aluratube_v2) - Um projeto que simula um app do Youtube registrando o título e url de qualquer vídeo que podem ser adicionados à página principal. (4 days ago / ⭐0)
