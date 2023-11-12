@@ -86,11 +86,11 @@ PINIA
 
 <div align="left">
 
+- [EdiJunior88/MKS_FrontEnd_Challenge](https://github.com/EdiJunior88/MKS_FrontEnd_Challenge) -  (today / ⭐0)
 - [EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado](https://github.com/EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado) - Neste curso irá descobrir o jeito mais moderno de desenvolver aplicações web e sistemas web, você vai aprender a criar aplicações completas do extremo zero e entendendo na prática a usar todo poder e recurso do ReactJS e NextJS. (1 day ago / ⭐0)
 - [EdiJunior88/cantinho_do_bloguinho](https://github.com/EdiJunior88/cantinho_do_bloguinho) - Criando o meu blog para guardar diversas informações sobre desenvolvimento (Em Construção) (2 days ago / ⭐0)
 - [ln-dev7/world-portfolios](https://github.com/ln-dev7/world-portfolios) - Open source collection of World Portfolios (3 days ago / ⭐75)
-- [EdiJunior88/React_Documentacao](https://github.com/EdiJunior88/React_Documentacao) - Bem-vindo à documentação do React! Esta página fornecerá uma introdução aos 80% dos conceitos do React que você usará diariamente. (6 days ago / ⭐0)
-- [EdiJunior88/Aluratube_v2](https://github.com/EdiJunior88/Aluratube_v2) - Um projeto que simula um app do Youtube registrando o título e url de qualquer vídeo que podem ser adicionados à página principal. (6 days ago / ⭐0)
+- [EdiJunior88/hackathon-listaProdutos](https://github.com/EdiJunior88/hackathon-listaProdutos) - O melhor App para lista de compras (6 days ago / ⭐1)
 </div>
 
 <hr>
