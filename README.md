@@ -186,11 +186,11 @@ PINIA
 
 <h3>👯 Seguidores Recentes</h3>
 
+[MarcusXavierr](https://github.com/MarcusXavierr)<br>
 [HappyDream0317](https://github.com/HappyDream0317)<br>
 [in-jun](https://github.com/in-jun)<br>
 [dougkalash](https://github.com/dougkalash)<br>
 [JosiTubaroski](https://github.com/JosiTubaroski)<br>
-[mohammadhasanii](https://github.com/mohammadhasanii)<br>
 
 <hr>
   
