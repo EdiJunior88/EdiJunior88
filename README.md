@@ -80,11 +80,11 @@ REACT-QUERY
 
 <div align="left">
 
-- [EdiJunior88/MKS_FrontEnd_Challenge](https://github.com/EdiJunior88/MKS_FrontEnd_Challenge) - Desafio para entregar uma página (Loja de Compras) com dados de uma API incluindo acesso aos itens (adicionados ao carrinho de compras) (1 day ago / ⭐1)
-- [EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado](https://github.com/EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado) - Neste curso irá descobrir o jeito mais moderno de desenvolver aplicações web e sistemas web, você vai aprender a criar aplicações completas do extremo zero e entendendo na prática a usar todo poder e recurso do ReactJS e NextJS. (3 days ago / ⭐0)
-- [EdiJunior88/cantinho_do_bloguinho](https://github.com/EdiJunior88/cantinho_do_bloguinho) - Criando o meu blog para guardar diversas informações sobre desenvolvimento (Em Construção) (4 days ago / ⭐0)
-- [ln-dev7/world-portfolios](https://github.com/ln-dev7/world-portfolios) - Open source collection of World Portfolios (5 days ago / ⭐78)
-- [EdiJunior88/hackathon-listaProdutos](https://github.com/EdiJunior88/hackathon-listaProdutos) - O melhor App para lista de compras (1 week ago / ⭐1)
+- [EdiJunior88/NewTab_Academy_Projeto_Individual_React](https://github.com/EdiJunior88/NewTab_Academy_Projeto_Individual_React) - O objetivo é construir uma aplicação que simula o envio de dinheiro para uma outra pessoa, via cartão de crédito. (today / ⭐2)
+- [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (today / ⭐0)
+- [EdiJunior88/Aluratube_v2](https://github.com/EdiJunior88/Aluratube_v2) - Um projeto que simula um app do Youtube registrando o título e url de qualquer vídeo que podem ser adicionados à página principal. (today / ⭐0)
+- [EdiJunior88/Imersao_React_Alura](https://github.com/EdiJunior88/Imersao_React_Alura) - Serão 5 aulas gratuitas de programação de nível intermediário para você desenvolver o Aluratube, um projeto em React para adicionar ao seu portfólio. (today / ⭐2)
+- [EdiJunior88/Origamid_React_Completo](https://github.com/EdiJunior88/Origamid_React_Completo) - O foco do curso é no entendimento completo do React, com isso praticamente tudo será criado do zero, sem a dependência de pacotes externos. (today / ⭐4)
 </div>
 
 <hr>
