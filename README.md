@@ -39,6 +39,9 @@
 <td align="center">
 <img src="https://pinia-docs-pt.netlify.app/logo.svg" width="64" height="64">
 </td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/bestofjs/bestofjs/ca0183799907cc856519efa2ae46a19b51d3ff66/apps/bestofjs-nextjs/public/logos/react-query.dark.svg" width="64" height="64">
+</td>
 </tr>
 
 <tr>
@@ -65,6 +68,9 @@ VUE.JS
 </td>
 <td align="center">
 PINIA
+</td>
+<td align="center">
+REACT-QUERY
 </td>
 </tr>
 </table>
