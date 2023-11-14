@@ -16,12 +16,6 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="64" height="64">
-</td>
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="64" height="64">
-</td>
-<td align="center">
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="64" height="64">
 </td>
 <td align="center">
@@ -45,12 +39,6 @@
 </tr>
 
 <tr>
-<td align="center">
-HTML5
-</td>
-<td align="center">
-CSS3
-</td>
 <td align="center">
 JAVASCRIPT
 </td>
