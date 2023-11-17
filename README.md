@@ -180,11 +180,11 @@ REACT-QUERY
 
 <h3>👯 Seguidores Recentes</h3>
 
+[mvaibhav131](https://github.com/mvaibhav131)<br>
 [mamad-1373](https://github.com/mamad-1373)<br>
 [1cbyc](https://github.com/1cbyc)<br>
 [dignity98](https://github.com/dignity98)<br>
 [AppleClient](https://github.com/AppleClient)<br>
-[george0st](https://github.com/george0st)<br>
 
 <hr>
   
