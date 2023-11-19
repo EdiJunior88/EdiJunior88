@@ -33,9 +33,6 @@
 <td align="center">
 <img src="https://pinia-docs-pt.netlify.app/logo.svg" width="64" height="64">
 </td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/bestofjs/bestofjs/ca0183799907cc856519efa2ae46a19b51d3ff66/apps/bestofjs-nextjs/public/logos/react-query.dark.svg" width="64" height="64">
-</td>
 </tr>
 
 <tr>
@@ -56,9 +53,6 @@ VUE.JS
 </td>
 <td align="center">
 PINIA
-</td>
-<td align="center">
-REACT-QUERY
 </td>
 </tr>
 </table>
@@ -258,6 +252,10 @@ REACT-QUERY
 <a href="https://react-bootstrap.github.io/" target="_blank"> 
 <img src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4" title="Bootstrap React" width="5%"> 
 </a>
+
+<a href="https://code.visualstudio.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/bestofjs/bestofjs/ca0183799907cc856519efa2ae46a19b51d3ff66/apps/bestofjs-nextjs/public/logos/react-query.dark.svg" title="VSCode" width="5%"> 
+</a> 
 
 <a href="https://mui.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/material-ui.svg" title="Material UI" width="6%"> 
