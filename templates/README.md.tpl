@@ -80,6 +80,19 @@ PINIA
 
 <hr>
 
+<h3>👷 Contribuições em projetos open-source:</h3>
+
+<details>
+<summary>GitHub</summary> <br>
+<strong>MKS Challenge</strong> - <a href="https://github.com/MKS-desenvolvimento-de-sistemas/mks-frontend-challenge" target="_blank">https://github.com/MKS-desenvolvimento-de-sistemas/mks-frontend-challenge</a> <br>
+<strong>World Portfolios</strong> - <a href="https://github.com/ln-dev7/world-portfolios" target="_blank">https://github.com/ln-dev7/world-portfolios</a> <br>
+<strong>First Contributions</strong> - <a href="https://github.com/firstcontributions/first-contributions" target="_blank">https://github.com/firstcontributions/first-contributions</a> <br>
+<strong>Balta.io</strong> - <a href="https://github.com/balta-io/2804" target="_blank">https://github.com/balta-io/2804</a> <br>
+<strong>Start Bootstrap</strong> - <a href="https://github.com/BlackrockDigital/startbootstrap" target="_blank">https://github.com/BlackrockDigital/startbootstrap</a> <br>
+</details>
+
+<hr>
+
 <h3>🗃️ Lista de Todos os Projetos</h3>
 
 <details>
