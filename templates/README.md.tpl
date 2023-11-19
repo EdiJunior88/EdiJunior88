@@ -80,7 +80,7 @@ PINIA
 
 <hr>
 
-<h3>👷 Contribuições em projetos open-source:</h3>
+<h3>📬 Contribuições em projetos open-source:</h3>
 
 <details>
 <summary>GitHub</summary> <br>
