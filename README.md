@@ -81,23 +81,20 @@ PINIA
 - [EdiJunior88/Imersao_React_Alura](https://github.com/EdiJunior88/Imersao_React_Alura) - Serão 5 aulas gratuitas de programação de nível intermediário para você desenvolver o Aluratube, um projeto em React para adicionar ao seu portfólio. (5 days ago / ⭐2)
 </div>
 
-<h3>📬 Últimas atualizações de projetos que contribuí:</h3>
-
-<div align="left">
-
-</div>
-
 <hr>
 
 <h3>🗃️ Lista de Todos os Projetos</h3>
 
 <details>
 <summary>Vuejs 3</summary> <br>
+<strong>Cantinho do Bloguinho</strong> - <a href="https://cantinho-do-bloguinho.vercel.app/" target="_blank">https://cantinho-do-bloguinho.vercel.app/</a> <br>
+<strong>Casa do Código VueJS</strong> - <a href="https://casa-do-codigo-vuejs.netlify.app/" target="_blank">https://casa-do-codigo-vuejs.netlify.app/</a> <br>
 <strong>Portfólio v2</strong> - <a href="https://portfolio-v2-edijunior88.vercel.app/" target="_blank">https://portfolio-v2-edijunior88.vercel.app/</a> <br>
 </details>
 
 <details>
 <summary>React</summary> <br>
+<strong>MKS Challenge Front-End</strong> - <a href="https://mks-front-end-challenge-edijunior88.vercel.app/" target="_blank">https://mks-front-end-challenge-edijunior88.vercel.app/</a> <br>
 <strong>Favoritar Repositórios</strong> - <a href="https://projeto-favoritar-repositorios.vercel.app/" target="_blank">https://projeto-favoritar-repositorios.vercel.app/</a> <br>
 <strong>Dogs</strong> - <a href="https://dogsorigamid-edijunior88.netlify.app/" target="_blank">https://dogsorigamid-edijunior88.netlify.app/</a> <br>
 <strong>Consulta Quadrinhos v2</strong> - <a href="https://consultaquadrinhosv2.netlify.app/" target="_blank">https://consultaquadrinhosv2.netlify.app/</a> <br>
@@ -185,11 +182,6 @@ PINIA
 [mvaibhav131](https://github.com/mvaibhav131)<br>
 [mamad-1373](https://github.com/mamad-1373)<br>
 [1cbyc](https://github.com/1cbyc)<br>
-[dignity98](https://github.com/dignity98)<br>
-[AppleClient](https://github.com/AppleClient)<br>
-[george0st](https://github.com/george0st)<br>
-[Yourboy03](https://github.com/Yourboy03)<br>
-[abdorrahmani](https://github.com/abdorrahmani)<br>
 
 <hr>
   
