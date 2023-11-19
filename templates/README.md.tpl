@@ -84,6 +84,14 @@ REACT-QUERY
 {{- end}}
 </div>
 
+<h3>📬 Últimas atualizações de projetos que contribuí:</h3>
+
+<div align="left">
+{{range recentReleases 10}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+{{- end}}
+</div>
+
 <hr>
 
 <h3>🗃️ Lista de Todos os Projetos</h3>
@@ -176,7 +184,7 @@ REACT-QUERY
 <hr>
 
 <h3>👯 Seguidores Recentes</h3>
-{{range followers 5}}
+{{range followers 10}}
 [{{.Login}}]({{.URL}})<br>
 {{- end}}
 
