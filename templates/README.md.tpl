@@ -162,21 +162,21 @@ PINIA
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=edijunior88&show_icons=true&theme=chartreuse-dark&bg_color=30,08003C,343300&locale=pt-br&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" >
+<img src="https://github-readme-stats.vercel.app/api?username=edijunior88&show_icons=true&theme=chartreuse-dark&bg_color=30,08003C,343300&locale=pt-br&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&disable_animations=true" >
   
 </td>
 <td>
 <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=edijunior88&theme=radical&hide_border=true&locale=pt_BR"> -->
-<img src="https://github-readme-streak-stats-edijunior88.vercel.app/?user=EdiJunior88&theme=chartreuse-dark&locale=pt_BR&background=45%2C000B4D%2C504F04">
+<img src="https://github-readme-streak-stats-edijunior88.vercel.app/?user=EdiJunior88&theme=chartreuse-dark&locale=pt_BR&background=45%2C000B4D%2C504F04&disable_animations=true">
 </td>
 </tr>
  
 <tr align="center">
 <td>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=edijunior88&show_icons=true&langs_count=8&locale=pt-br&hide=dockerfile,php,shell,Classic%20ASP,c%23">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=edijunior88&show_icons=true&langs_count=8&locale=pt-br&hide=dockerfile,php,shell,Classic%20ASP,c%23&disable_animations=true">
 </td>
 <td>
-<img src="https://github-trophies.vercel.app/?username=EdiJunior88&theme=juicyfresh&column=3&margin-w=15&margin-h=15">
+<img src="https://github-trophies.vercel.app/?username=EdiJunior88&theme=juicyfresh&column=3&margin-w=15&margin-h=15&disable_animations=true">
 </td>
 </tr>
 </table>
@@ -250,13 +250,17 @@ PINIA
 <img src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4" title="Bootstrap React" width="5%"> 
 </a>
 
-<a href="https://code.visualstudio.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/bestofjs/bestofjs/ca0183799907cc856519efa2ae46a19b51d3ff66/apps/bestofjs-nextjs/public/logos/react-query.dark.svg" title="VSCode" width="5%"> 
+<a href="https://tanstack.com/query/v3/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/bestofjs/bestofjs/ca0183799907cc856519efa2ae46a19b51d3ff66/apps/bestofjs-nextjs/public/logos/react-query.dark.svg" title="React Query" width="5%"> 
 </a> 
 
 <a href="https://mui.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/material-ui.svg" title="Material UI" width="6%"> 
 </a>
+
+<a href="https://code.visualstudio.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" title="VSCode" width="5%"> 
+</a> 
 
 <a href="https://www.figma.com/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" width="5%"> 
@@ -280,10 +284,6 @@ PINIA
   
 <a href="https://www.microsoft.com/pt-br/windows/?r=1" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/windows8/windows8-original.svg" title="Windows" width="5%"> 
-</a> 
-  
-<a href="https://code.visualstudio.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" title="VSCode" width="5%"> 
 </a> 
 </p>
 </div>
