@@ -188,11 +188,11 @@ PINIA
 
 <h3>👯 Seguidores Recentes</h3>
 
+[guto8888](https://github.com/guto8888)<br>
 [Ahmad-2785](https://github.com/Ahmad-2785)<br>
 [VictorMFL](https://github.com/VictorMFL)<br>
 [Agirem](https://github.com/Agirem)<br>
 [AlpetG](https://github.com/AlpetG)<br>
-[expertcoder1204](https://github.com/expertcoder1204)<br>
 
 <hr>
   
