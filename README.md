@@ -188,11 +188,11 @@ PINIA
 
 <h3>👯 Seguidores Recentes</h3>
 
+[Ahmad-2785](https://github.com/Ahmad-2785)<br>
 [VictorMFL](https://github.com/VictorMFL)<br>
 [Agirem](https://github.com/Agirem)<br>
 [AlpetG](https://github.com/AlpetG)<br>
 [expertcoder1204](https://github.com/expertcoder1204)<br>
-[silver99928](https://github.com/silver99928)<br>
 
 <hr>
   
