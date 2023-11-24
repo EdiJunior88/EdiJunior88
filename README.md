@@ -188,11 +188,11 @@ PINIA
 
 <h3>👯 Seguidores Recentes</h3>
 
+[terrorist](https://github.com/terrorist)<br>
 [guto8888](https://github.com/guto8888)<br>
 [Ahmad-2785](https://github.com/Ahmad-2785)<br>
 [VictorMFL](https://github.com/VictorMFL)<br>
 [Agirem](https://github.com/Agirem)<br>
-[AlpetG](https://github.com/AlpetG)<br>
 
 <hr>
   
