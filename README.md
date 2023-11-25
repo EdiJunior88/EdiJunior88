@@ -188,11 +188,11 @@ PINIA
 
 <h3>👯 Seguidores Recentes</h3>
 
+[anasalsalam](https://github.com/anasalsalam)<br>
 [CarlosAlexandre197](https://github.com/CarlosAlexandre197)<br>
 [terrorist](https://github.com/terrorist)<br>
 [guto8888](https://github.com/guto8888)<br>
 [Ahmad-2785](https://github.com/Ahmad-2785)<br>
-[VictorMFL](https://github.com/VictorMFL)<br>
 
 <hr>
   
