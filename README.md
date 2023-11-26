@@ -188,11 +188,11 @@ PINIA
 
 <h3>👯 Seguidores Recentes</h3>
 
+[H-K-R](https://github.com/H-K-R)<br>
+[Kos-M](https://github.com/Kos-M)<br>
 [anasalsalam](https://github.com/anasalsalam)<br>
 [CarlosAlexandre197](https://github.com/CarlosAlexandre197)<br>
 [terrorist](https://github.com/terrorist)<br>
-[guto8888](https://github.com/guto8888)<br>
-[Ahmad-2785](https://github.com/Ahmad-2785)<br>
 
 <hr>
   
