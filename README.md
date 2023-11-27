@@ -189,10 +189,10 @@ PINIA
 <h3>👯 Seguidores Recentes</h3>
 
 [zhenrong-wang](https://github.com/zhenrong-wang)<br>
-[inadvertently](https://github.com/inadvertently)<br>
 [H-K-R](https://github.com/H-K-R)<br>
 [Kos-M](https://github.com/Kos-M)<br>
 [anasalsalam](https://github.com/anasalsalam)<br>
+[CarlosAlexandre197](https://github.com/CarlosAlexandre197)<br>
 
 <hr>
   
