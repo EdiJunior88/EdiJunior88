@@ -188,11 +188,11 @@ PINIA
 
 <h3>👯 Seguidores Recentes</h3>
 
+[spider0317](https://github.com/spider0317)<br>
 [zhenrong-wang](https://github.com/zhenrong-wang)<br>
 [H-K-R](https://github.com/H-K-R)<br>
 [Kos-M](https://github.com/Kos-M)<br>
 [anasalsalam](https://github.com/anasalsalam)<br>
-[CarlosAlexandre197](https://github.com/CarlosAlexandre197)<br>
 
 <hr>
   
