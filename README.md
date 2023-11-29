@@ -188,11 +188,11 @@ PINIA
 
 <h3>👯 Seguidores Recentes</h3>
 
+[appzsoft01](https://github.com/appzsoft01)<br>
 [ternera](https://github.com/ternera)<br>
 [ip681](https://github.com/ip681)<br>
 [silver99928](https://github.com/silver99928)<br>
 [spider0317](https://github.com/spider0317)<br>
-[zhenrong-wang](https://github.com/zhenrong-wang)<br>
 
 <hr>
   
