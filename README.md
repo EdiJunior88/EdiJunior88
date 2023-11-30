@@ -188,11 +188,11 @@ PINIA
 
 <h3>👯 Seguidores Recentes</h3>
 
+[loranYousef](https://github.com/loranYousef)<br>
 [appzsoft01](https://github.com/appzsoft01)<br>
 [ternera](https://github.com/ternera)<br>
 [ip681](https://github.com/ip681)<br>
 [silver99928](https://github.com/silver99928)<br>
-[spider0317](https://github.com/spider0317)<br>
 
 <hr>
   
