@@ -75,10 +75,10 @@ PINIA
 <div align="left">
 
 - [EdiJunior88/NewTab_Academy_Projeto_Individual_PHP](https://github.com/EdiJunior88/NewTab_Academy_Projeto_Individual_PHP) - O projeto consiste em implementar uma aplicação web a partir de uma modelagem de dados inicial desnormalizada, que deve ser normalizada para a implementação da solução. (today / ⭐1)
+- [EdiJunior88/Origamid_TypeScript_Para_Iniciantes](https://github.com/EdiJunior88/Origamid_TypeScript_Para_Iniciantes) - O foco do curso é no TypeScript puro e ao final dele você sairá sabendo muito mais como o JavaScript funciona. (today / ⭐0)
 - [EdiJunior88/NewTab_Academy_Projetos](https://github.com/EdiJunior88/NewTab_Academy_Projetos) - Vamos simular experiências comuns do dia a dia da profissão, onde você irá construir projetos baseados nas demandas do mercado, terá o acompanhamento de profissionais experientes na área e desenvolverá as principais habilidades técnicas e comportamentais necessárias para iniciar sua carreira. (today / ⭐6)
 - [EdiJunior88/Testes_React_com_Vitest_e_Testing_Library](https://github.com/EdiJunior88/Testes_React_com_Vitest_e_Testing_Library) -  (today / ⭐0)
 - [EdiJunior88/hackathon-listaProdutos](https://github.com/EdiJunior88/hackathon-listaProdutos) - O melhor App para lista de compras (today / ⭐1)
-- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (2 days ago / ⭐0)
 </div>
 
 <hr>
