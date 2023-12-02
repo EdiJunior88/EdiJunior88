@@ -190,9 +190,9 @@ PINIA
 
 [expertcoder1204](https://github.com/expertcoder1204)<br>
 [zakarialaouiETU](https://github.com/zakarialaouiETU)<br>
-[dougkalash](https://github.com/dougkalash)<br>
 [L1QU3D](https://github.com/L1QU3D)<br>
 [OracleBrain](https://github.com/OracleBrain)<br>
+[loranYousef](https://github.com/loranYousef)<br>
 
 <hr>
   
