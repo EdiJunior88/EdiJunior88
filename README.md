@@ -188,11 +188,11 @@ PINIA
 
 <h3>👯 Seguidores Recentes</h3>
 
+[dougkalash](https://github.com/dougkalash)<br>
 [L1QU3D](https://github.com/L1QU3D)<br>
 [OracleBrain](https://github.com/OracleBrain)<br>
 [loranYousef](https://github.com/loranYousef)<br>
 [appzsoft01](https://github.com/appzsoft01)<br>
-[ternera](https://github.com/ternera)<br>
 
 <hr>
   
