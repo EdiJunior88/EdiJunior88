@@ -74,11 +74,11 @@ PINIA
 
 <div align="left">
 
-- [EdiJunior88/NewTab_Academy_Projeto_Individual_PHP](https://github.com/EdiJunior88/NewTab_Academy_Projeto_Individual_PHP) - O projeto consiste em implementar uma aplicação web a partir de uma modelagem de dados inicial desnormalizada, que deve ser normalizada para a implementação da solução. (2 days ago / ⭐1)
-- [EdiJunior88/Origamid_TypeScript_Para_Iniciantes](https://github.com/EdiJunior88/Origamid_TypeScript_Para_Iniciantes) - O foco do curso é no TypeScript puro e ao final dele você sairá sabendo muito mais como o JavaScript funciona. (2 days ago / ⭐0)
-- [EdiJunior88/NewTab_Academy_Projetos](https://github.com/EdiJunior88/NewTab_Academy_Projetos) - Vamos simular experiências comuns do dia a dia da profissão, onde você irá construir projetos baseados nas demandas do mercado, terá o acompanhamento de profissionais experientes na área e desenvolverá as principais habilidades técnicas e comportamentais necessárias para iniciar sua carreira. (2 days ago / ⭐6)
-- [EdiJunior88/Testes_React_com_Vitest_e_Testing_Library](https://github.com/EdiJunior88/Testes_React_com_Vitest_e_Testing_Library) -  (2 days ago / ⭐0)
+- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (today / ⭐0)
+- [EdiJunior88/Microsoft_Learn_Introducao_ao_Vue](https://github.com/EdiJunior88/Microsoft_Learn_Introducao_ao_Vue) - O Vue.js é uma estrutura progressiva da Web que permite aos desenvolvedores começar a trabalhar rapidamente, com a simples adição de uma marca de script. (today / ⭐0)
+- [EdiJunior88/cantinho_do_bloguinho](https://github.com/EdiJunior88/cantinho_do_bloguinho) - Criando um blog pessoal para guardar diversas informações sobre desenvolvimento / tecnologias (today / ⭐0)
 - [EdiJunior88/hackathon-listaProdutos](https://github.com/EdiJunior88/hackathon-listaProdutos) - O melhor App para lista de compras (2 days ago / ⭐1)
+- [EdiJunior88/Origamid_TypeScript_Para_Iniciantes](https://github.com/EdiJunior88/Origamid_TypeScript_Para_Iniciantes) - O foco do curso é no TypeScript puro e ao final dele você sairá sabendo muito mais como o JavaScript funciona. (2 days ago / ⭐0)
 </div>
 
 <hr>
@@ -189,10 +189,10 @@ PINIA
 <h3>👯 Seguidores Recentes</h3>
 
 [isyuricunha](https://github.com/isyuricunha)<br>
-[dougkalash](https://github.com/dougkalash)<br>
 [expertcoder1204](https://github.com/expertcoder1204)<br>
 [zakarialaouiETU](https://github.com/zakarialaouiETU)<br>
 [L1QU3D](https://github.com/L1QU3D)<br>
+[OracleBrain](https://github.com/OracleBrain)<br>
 
 <hr>
   
