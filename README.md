@@ -188,11 +188,11 @@ PINIA
 
 <h3>👯 Seguidores Recentes</h3>
 
+[isyuricunha](https://github.com/isyuricunha)<br>
 [dougkalash](https://github.com/dougkalash)<br>
 [expertcoder1204](https://github.com/expertcoder1204)<br>
 [zakarialaouiETU](https://github.com/zakarialaouiETU)<br>
 [L1QU3D](https://github.com/L1QU3D)<br>
-[OracleBrain](https://github.com/OracleBrain)<br>
 
 <hr>
   
