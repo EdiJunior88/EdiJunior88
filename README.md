@@ -74,11 +74,11 @@ PINIA
 
 <div align="left">
 
-- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (today / ⭐0)
-- [EdiJunior88/MKS_FrontEnd_Challenge](https://github.com/EdiJunior88/MKS_FrontEnd_Challenge) - Desafio para entregar uma página (Loja de Compras) com dados de uma API incluindo acesso aos itens (adicionados ao carrinho de compras) (today / ⭐1)
-- [EdiJunior88/Microsoft_Learn_Introducao_ao_Vue](https://github.com/EdiJunior88/Microsoft_Learn_Introducao_ao_Vue) - O Vue.js é uma estrutura progressiva da Web que permite aos desenvolvedores começar a trabalhar rapidamente, com a simples adição de uma marca de script. (today / ⭐0)
-- [EdiJunior88/cantinho_do_bloguinho](https://github.com/EdiJunior88/cantinho_do_bloguinho) - Criando um blog pessoal para guardar diversas informações sobre desenvolvimento / tecnologias (today / ⭐0)
-- [EdiJunior88/hackathon-listaProdutos](https://github.com/EdiJunior88/hackathon-listaProdutos) - O melhor App para lista de compras (2 days ago / ⭐1)
+- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (1 day ago / ⭐0)
+- [EdiJunior88/MKS_FrontEnd_Challenge](https://github.com/EdiJunior88/MKS_FrontEnd_Challenge) - Desafio para entregar uma página (Loja de Compras) com dados de uma API incluindo acesso aos itens (adicionados ao carrinho de compras) (1 day ago / ⭐1)
+- [EdiJunior88/Microsoft_Learn_Introducao_ao_Vue](https://github.com/EdiJunior88/Microsoft_Learn_Introducao_ao_Vue) - O Vue.js é uma estrutura progressiva da Web que permite aos desenvolvedores começar a trabalhar rapidamente, com a simples adição de uma marca de script. (1 day ago / ⭐0)
+- [EdiJunior88/cantinho_do_bloguinho](https://github.com/EdiJunior88/cantinho_do_bloguinho) - Criando um blog pessoal para guardar diversas informações sobre desenvolvimento / tecnologias (1 day ago / ⭐0)
+- [EdiJunior88/hackathon-listaProdutos](https://github.com/EdiJunior88/hackathon-listaProdutos) - O melhor App para lista de compras (3 days ago / ⭐1)
 </div>
 
 <hr>
@@ -188,11 +188,11 @@ PINIA
 
 <h3>👯 Seguidores Recentes</h3>
 
+[dougkalash](https://github.com/dougkalash)<br>
 [codeWizard337](https://github.com/codeWizard337)<br>
 [isyuricunha](https://github.com/isyuricunha)<br>
 [expertcoder1204](https://github.com/expertcoder1204)<br>
 [zakarialaouiETU](https://github.com/zakarialaouiETU)<br>
-[L1QU3D](https://github.com/L1QU3D)<br>
 
 <hr>
   
