@@ -188,11 +188,11 @@ PINIA
 
 <h3>👯 Seguidores Recentes</h3>
 
+[HiCMSDev](https://github.com/HiCMSDev)<br>
 [LeviHan511](https://github.com/LeviHan511)<br>
 [micooper9041](https://github.com/micooper9041)<br>
 [kaori126](https://github.com/kaori126)<br>
 [bastndev](https://github.com/bastndev)<br>
-[dougkalash](https://github.com/dougkalash)<br>
 
 <hr>
   
