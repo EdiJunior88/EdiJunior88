@@ -188,11 +188,11 @@ PINIA
 
 <h3>👯 Seguidores Recentes</h3>
 
+[micooper9041](https://github.com/micooper9041)<br>
 [kaori126](https://github.com/kaori126)<br>
 [bastndev](https://github.com/bastndev)<br>
 [dougkalash](https://github.com/dougkalash)<br>
 [codeWizard337](https://github.com/codeWizard337)<br>
-[isyuricunha](https://github.com/isyuricunha)<br>
 
 <hr>
   
