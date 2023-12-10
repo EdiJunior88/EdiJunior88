@@ -74,11 +74,11 @@ PINIA
 
 <div align="left">
 
-- [EdiJunior88/Certificados](https://github.com/EdiJunior88/Certificados) - 👨🏼‍🎓 Minhas certificações na área de Tecnologia para registro pessoal e para consultas públicas. (today / ⭐2)
-- [EdiJunior88/Microsoft_Learn_Introducao_ao_Vue](https://github.com/EdiJunior88/Microsoft_Learn_Introducao_ao_Vue) - O Vue.js é uma estrutura progressiva da Web que permite aos desenvolvedores começar a trabalhar rapidamente, com a simples adição de uma marca de script. (1 day ago / ⭐0)
-- [EdiJunior88/NewTab_Academy_Angular](https://github.com/EdiJunior88/NewTab_Academy_Angular) - Esse módulo nos fornece uma visão do framework Angular através de conceitos e fundamentos que irão nos ajudar no desenvolvimento de aplicações front-end. (3 days ago / ⭐1)
-- [EdiJunior88/Balta.io_Comecando_com_Angular](https://github.com/EdiJunior88/Balta.io_Comecando_com_Angular) - O curso aborda todos os conceitos fundamentais do Angular e, aprendendo os conceitos fundamentais, você poderá utilizá-los em todas as versões mais recentes do Framework. (3 days ago / ⭐0)
-- [EdiJunior88/GitHub_Finder](https://github.com/EdiJunior88/GitHub_Finder) - Um projeto que utiliza a API do GitHub para buscar um usuário e mostrar os 5 melhores repositórios com mais estrelas (3 days ago / ⭐0)
+- [EdiJunior88/Certificados](https://github.com/EdiJunior88/Certificados) - 👨🏼‍🎓 Minhas certificações na área de Tecnologia para registro pessoal e para consultas públicas. (1 day ago / ⭐2)
+- [EdiJunior88/Microsoft_Learn_Introducao_ao_Vue](https://github.com/EdiJunior88/Microsoft_Learn_Introducao_ao_Vue) - O Vue.js é uma estrutura progressiva da Web que permite aos desenvolvedores começar a trabalhar rapidamente, com a simples adição de uma marca de script. (2 days ago / ⭐0)
+- [EdiJunior88/NewTab_Academy_Angular](https://github.com/EdiJunior88/NewTab_Academy_Angular) - Esse módulo nos fornece uma visão do framework Angular através de conceitos e fundamentos que irão nos ajudar no desenvolvimento de aplicações front-end. (4 days ago / ⭐1)
+- [EdiJunior88/Balta.io_Comecando_com_Angular](https://github.com/EdiJunior88/Balta.io_Comecando_com_Angular) - O curso aborda todos os conceitos fundamentais do Angular e, aprendendo os conceitos fundamentais, você poderá utilizá-los em todas as versões mais recentes do Framework. (4 days ago / ⭐0)
+- [EdiJunior88/GitHub_Finder](https://github.com/EdiJunior88/GitHub_Finder) - Um projeto que utiliza a API do GitHub para buscar um usuário e mostrar os 5 melhores repositórios com mais estrelas (4 days ago / ⭐0)
 </div>
 
 <hr>
