@@ -74,7 +74,7 @@ PINIA
 
 <div align="left">
 
-- [EdiJunior88/MKS_FrontEnd_Challenge](https://github.com/EdiJunior88/MKS_FrontEnd_Challenge) - Desafio para entregar uma página (Loja de Compras) com dados de uma API incluindo acesso aos itens (adicionados ao carrinho de compras) (today / ⭐1)
+- [EdiJunior88/Testes_React_com_Vitest_e_Testing_Library](https://github.com/EdiJunior88/Testes_React_com_Vitest_e_Testing_Library) -  (today / ⭐0)
 - [EdiJunior88/VueJS_Documentacao](https://github.com/EdiJunior88/VueJS_Documentacao) - A Vue é uma abstração e ecossistema que cobre a maioria das funcionalidades comuns necessárias no desenvolvimento de frontend (today / ⭐0)
 - [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (today / ⭐1)
 - [EdiJunior88/Imersao_React_Alura](https://github.com/EdiJunior88/Imersao_React_Alura) - Serão 5 aulas gratuitas de programação de nível intermediário para você desenvolver o Aluratube, um projeto em React para adicionar ao seu portfólio. (today / ⭐3)
