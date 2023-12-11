@@ -188,11 +188,11 @@ PINIA
 
 <h3>👯 Seguidores Recentes</h3>
 
+[smart-person](https://github.com/smart-person)<br>
 [topdeveloper612](https://github.com/topdeveloper612)<br>
 [HiCMSDev](https://github.com/HiCMSDev)<br>
 [Chan0094](https://github.com/Chan0094)<br>
 [VenusWhisperer](https://github.com/VenusWhisperer)<br>
-[OppenSource](https://github.com/OppenSource)<br>
 
 <hr>
   
