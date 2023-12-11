@@ -188,11 +188,11 @@ PINIA
 
 <h3>👯 Seguidores Recentes</h3>
 
+[HiCMSDev](https://github.com/HiCMSDev)<br>
+[Chan0094](https://github.com/Chan0094)<br>
 [VenusWhisperer](https://github.com/VenusWhisperer)<br>
 [OppenSource](https://github.com/OppenSource)<br>
-[HiCMSDev](https://github.com/HiCMSDev)<br>
 [LeviHan511](https://github.com/LeviHan511)<br>
-[micooper9041](https://github.com/micooper9041)<br>
 
 <hr>
   
