@@ -188,11 +188,11 @@ PINIA
 
 <h3>👯 Seguidores Recentes</h3>
 
-[LovelyFriend0309](https://github.com/LovelyFriend0309)<br>
 [smart-person](https://github.com/smart-person)<br>
-[topdeveloper612](https://github.com/topdeveloper612)<br>
 [HiCMSDev](https://github.com/HiCMSDev)<br>
-[Chan0094](https://github.com/Chan0094)<br>
+[OppenSource](https://github.com/OppenSource)<br>
+[dougkalash](https://github.com/dougkalash)<br>
+[codeWizard337](https://github.com/codeWizard337)<br>
 
 <hr>
   
