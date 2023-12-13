@@ -188,11 +188,11 @@ PINIA
 
 <h3>👯 Seguidores Recentes</h3>
 
+[Thinker18624](https://github.com/Thinker18624)<br>
 [niks-nikhil-anand](https://github.com/niks-nikhil-anand)<br>
 [smart-person](https://github.com/smart-person)<br>
 [HiCMSDev](https://github.com/HiCMSDev)<br>
 [OppenSource](https://github.com/OppenSource)<br>
-[dougkalash](https://github.com/dougkalash)<br>
 
 <hr>
   
