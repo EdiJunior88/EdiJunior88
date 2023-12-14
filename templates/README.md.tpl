@@ -237,7 +237,7 @@ VUE.JS
 </a>
 
 <a href="https://pinia.vuejs.org/" target="_blank"> 
-<img src="https://pinia-docs-pt.netlify.app/logo.svg" width="5.8%">
+<img src="https://pinia-docs-pt.netlify.app/logo.svg" width="3.5%">
 </a>
 
 <a href="https://styled-components.com/" target="_blank"> 
