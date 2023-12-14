@@ -30,9 +30,6 @@
 <td align="center">
 <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="64" height="64">
 </td>
-<td align="center">
-<img src="https://pinia-docs-pt.netlify.app/logo.svg" width="64" height="64">
-</td>
 </tr>
 
 <tr>
@@ -50,9 +47,6 @@ NEXT.JS
 </td>
 <td align="center">
 VUE.JS
-</td>
-<td align="center">
-PINIA
 </td>
 </tr>
 </table>
@@ -240,6 +234,10 @@ PINIA
   
 <a href="https://github.com/css-modules/css-modules" target="_blank"> 
 <img src="https://raw.githubusercontent.com/css-modules/logos/master/css-modules-logo.png" title="css modules" width="5.8%"> 
+</a>
+
+<a href="https://pinia.vuejs.org/" target="_blank"> 
+<img src="https://pinia-docs-pt.netlify.app/logo.svg" width="5.8%">
 </a>
 
 <a href="https://styled-components.com/" target="_blank"> 
