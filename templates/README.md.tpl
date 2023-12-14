@@ -229,19 +229,19 @@ VUE.JS
 </a> 
 
 <a href="https://swiperjs.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/11d0a684be715f00f1d32c0769252ba5d29e4612/icons/swiper.svg" title="swiper" width="5%"> 
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/11d0a684be715f00f1d32c0769252ba5d29e4612/icons/swiper.svg" title="Swiper" width="5%"> 
 </a>
   
 <a href="https://github.com/css-modules/css-modules" target="_blank"> 
-<img src="https://raw.githubusercontent.com/css-modules/logos/master/css-modules-logo.png" title="css modules" width="5.8%"> 
+<img src="https://raw.githubusercontent.com/css-modules/logos/master/css-modules-logo.png" title="CSS Modules" width="5.8%"> 
 </a>
 
 <a href="https://pinia.vuejs.org/" target="_blank"> 
-<img src="https://pinia-docs-pt.netlify.app/logo.svg" width="3.5%">
+<img src="https://pinia-docs-pt.netlify.app/logo.svg" title="Pinia" width="3.5%">
 </a>
 
 <a href="https://styled-components.com/" target="_blank"> 
-<img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" title="styled components" width="5%"> 
+<img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" title="Styled Components" width="5%"> 
 </a>
   
 <a href="https://react-bootstrap.github.io/" target="_blank"> 
@@ -265,11 +265,11 @@ VUE.JS
 </a>
 
 <a href="https://grafana.com" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" title="grafana" width="5%"> 
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" title="Grafana" width="5%"> 
 </a>  
 
 <a href="https://www.zabbix.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" title="zabbix" width="5%"> 
+<img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" title="Zabbix" width="5%"> 
 </a>
   
 <a href="https://www.fortinet.com/" target="_blank"> 
