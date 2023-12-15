@@ -182,11 +182,11 @@ VUE.JS
 
 <h3>👯 Seguidores Recentes</h3>
 
+[iagoslopes](https://github.com/iagoslopes)<br>
 [JohnGrilo](https://github.com/JohnGrilo)<br>
 [Thinker18624](https://github.com/Thinker18624)<br>
 [niks-nikhil-anand](https://github.com/niks-nikhil-anand)<br>
 [smart-person](https://github.com/smart-person)<br>
-[HiCMSDev](https://github.com/HiCMSDev)<br>
 
 <hr>
   
