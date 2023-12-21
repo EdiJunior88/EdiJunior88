@@ -182,11 +182,11 @@ VUE.JS
 
 <h3>👯 Seguidores Recentes</h3>
 
+[nakshatra05](https://github.com/nakshatra05)<br>
 [brunois10](https://github.com/brunois10)<br>
 [adonis32](https://github.com/adonis32)<br>
 [TALLESGIT](https://github.com/TALLESGIT)<br>
 [Nelzouki22](https://github.com/Nelzouki22)<br>
-[iagoslopes](https://github.com/iagoslopes)<br>
 
 <hr>
   
