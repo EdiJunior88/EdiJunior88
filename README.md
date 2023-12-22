@@ -71,7 +71,7 @@ VUE.JS
 - [EdiJunior88/Imersao_React_Alura](https://github.com/EdiJunior88/Imersao_React_Alura) - Serão 5 aulas gratuitas de programação de nível intermediário para você desenvolver o Aluratube, um projeto em React para adicionar ao seu portfólio. (1 day ago / ⭐3)
 - [EdiJunior88/Microsoft_Learn_Introducao_ao_Vue](https://github.com/EdiJunior88/Microsoft_Learn_Introducao_ao_Vue) - O Vue.js é uma estrutura progressiva da Web que permite aos desenvolvedores começar a trabalhar rapidamente, com a simples adição de uma marca de script. (1 day ago / ⭐0)
 - [EdiJunior88/hackathon-listaProdutos](https://github.com/EdiJunior88/hackathon-listaProdutos) - O melhor App para lista de compras (3 days ago / ⭐1)
-- [EdiJunior88/MKS_FrontEnd_Challenge](https://github.com/EdiJunior88/MKS_FrontEnd_Challenge) - Desafio para entregar uma página (Loja de Compras) com dados de uma API incluindo acesso aos itens (adicionados ao carrinho de compras) (4 days ago / ⭐0)
+- [EdiJunior88/cantinho_do_bloguinho](https://github.com/EdiJunior88/cantinho_do_bloguinho) - Criando um blog pessoal para guardar diversas informações sobre desenvolvimento / tecnologias (4 days ago / ⭐0)
 - [EdiJunior88/GitHub_Finder](https://github.com/EdiJunior88/GitHub_Finder) - Um projeto que utiliza a API do GitHub para buscar um usuário e mostrar os 5 melhores repositórios com mais estrelas (4 days ago / ⭐0)
 </div>
 
