@@ -182,11 +182,11 @@ VUE.JS
 
 <h3>👯 Seguidores Recentes</h3>
 
+[omsandippatil](https://github.com/omsandippatil)<br>
 [HeyHeyChicken](https://github.com/HeyHeyChicken)<br>
 [Malihashahi](https://github.com/Malihashahi)<br>
 [nizar787](https://github.com/nizar787)<br>
 [nakshatra05](https://github.com/nakshatra05)<br>
-[brunois10](https://github.com/brunois10)<br>
 
 <hr>
   
