@@ -182,11 +182,11 @@ VUE.JS
 
 <h3>👯 Seguidores Recentes</h3>
 
+[getintorj](https://github.com/getintorj)<br>
 [AbSomeone](https://github.com/AbSomeone)<br>
 [omsandippatil](https://github.com/omsandippatil)<br>
 [HeyHeyChicken](https://github.com/HeyHeyChicken)<br>
 [Malihashahi](https://github.com/Malihashahi)<br>
-[nizar787](https://github.com/nizar787)<br>
 
 <hr>
   
