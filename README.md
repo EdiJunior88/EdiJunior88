@@ -70,9 +70,9 @@ VUE.JS
 
 - [EdiJunior88/Casa_do_Codigo_VueJS](https://github.com/EdiJunior88/Casa_do_Codigo_VueJS) - Neste livro, você vai aprender a sintaxe do Vue.js 2.0, como funcionam seus componentes e métodos, como integrar com APIs externas e criar rotas, e muito mais! (1 day ago / ⭐0)
 - [EdiJunior88/GitHub_Finder](https://github.com/EdiJunior88/GitHub_Finder) - Um projeto que utiliza a API do GitHub para buscar um usuário e mostrar os 5 melhores repositórios com mais estrelas (3 days ago / ⭐1)
-- [EdiJunior88/React_Documentacao](https://github.com/EdiJunior88/React_Documentacao) - Bem-vindo à documentação do React! Esta página fornecerá uma introdução aos 80% dos conceitos do React que você usará diariamente. (3 days ago / ⭐0)
 - [EdiJunior88/Aluratube_v2](https://github.com/EdiJunior88/Aluratube_v2) - Um projeto que simula um app do Youtube registrando o título e url de qualquer vídeo que podem ser adicionados à página principal. (3 days ago / ⭐2)
-- [EdiJunior88/Microsoft_Learn_Crie-seus_primeiros_aplicativos_Web_com_React](https://github.com/EdiJunior88/Microsoft_Learn_Crie-seus_primeiros_aplicativos_Web_com_React) - React.js é a estrutura JavaScript de front-end mais popular. Por meio do JSX, uma combinação de HTML e JavaScript, os desenvolvedores podem criar exibições de forma natural.  (4 days ago / ⭐0)
+- [EdiJunior88/React_Documentacao](https://github.com/EdiJunior88/React_Documentacao) - Bem-vindo à documentação do React! Esta página fornecerá uma introdução aos 80% dos conceitos do React que você usará diariamente. (3 days ago / ⭐0)
+- [EdiJunior88/MKS_FrontEnd_Challenge](https://github.com/EdiJunior88/MKS_FrontEnd_Challenge) - Desafio para entregar uma página (Loja de Compras) com dados de uma API incluindo acesso aos itens (adicionados ao carrinho de compras) (4 days ago / ⭐0)
 </div>
 
 <hr>
