@@ -185,8 +185,8 @@ VUE.JS
 [SalowQ](https://github.com/SalowQ)<br>
 [getintorj](https://github.com/getintorj)<br>
 [AbSomeone](https://github.com/AbSomeone)<br>
-[omsandippatil](https://github.com/omsandippatil)<br>
 [HeyHeyChicken](https://github.com/HeyHeyChicken)<br>
+[Malihashahi](https://github.com/Malihashahi)<br>
 
 <hr>
   
