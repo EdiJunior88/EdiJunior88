@@ -182,11 +182,11 @@ VUE.JS
 
 <h3>👯 Seguidores Recentes</h3>
 
+[StrongDonald](https://github.com/StrongDonald)<br>
 [SalowQ](https://github.com/SalowQ)<br>
 [getintorj](https://github.com/getintorj)<br>
 [AbSomeone](https://github.com/AbSomeone)<br>
 [HeyHeyChicken](https://github.com/HeyHeyChicken)<br>
-[Malihashahi](https://github.com/Malihashahi)<br>
 
 <hr>
   
