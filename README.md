@@ -182,11 +182,11 @@ VUE.JS
 
 <h3>👯 Seguidores Recentes</h3>
 
+[JohnMwendwa](https://github.com/JohnMwendwa)<br>
 [subhamkumarr](https://github.com/subhamkumarr)<br>
 [StrongDonald](https://github.com/StrongDonald)<br>
 [SalowQ](https://github.com/SalowQ)<br>
 [getintorj](https://github.com/getintorj)<br>
-[AbSomeone](https://github.com/AbSomeone)<br>
 
 <hr>
   
