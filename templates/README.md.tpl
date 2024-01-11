@@ -30,6 +30,9 @@
 <td align="center">
 <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="64" height="64">
 </td>
+<td align="center">
+<img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="64" height="64">
+</td>
 </tr>
 
 <tr>
@@ -47,6 +50,9 @@ NEXT.JS
 </td>
 <td align="center">
 VUE.JS
+</td>
+<td align="center">
+NUXT.JS
 </td>
 </tr>
 </table>
