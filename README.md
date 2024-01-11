@@ -182,11 +182,11 @@ VUE.JS
 
 <h3>👯 Seguidores Recentes</h3>
 
+[techsolutioncat](https://github.com/techsolutioncat)<br>
 [toptalhook](https://github.com/toptalhook)<br>
 [rman1223](https://github.com/rman1223)<br>
 [JohnMwendwa](https://github.com/JohnMwendwa)<br>
 [subhamkumarr](https://github.com/subhamkumarr)<br>
-[StrongDonald](https://github.com/StrongDonald)<br>
 
 <hr>
   
