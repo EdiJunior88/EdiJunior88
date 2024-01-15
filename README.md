@@ -188,11 +188,11 @@ NUXT.JS
 
 <h3>👯 Seguidores Recentes</h3>
 
+[stan8086](https://github.com/stan8086)<br>
 [whereasjovially](https://github.com/whereasjovially)<br>
 [AndriyPapirnyk](https://github.com/AndriyPapirnyk)<br>
 [dongwookkim3](https://github.com/dongwookkim3)<br>
 [PedroRafael13](https://github.com/PedroRafael13)<br>
-[techsolutioncat](https://github.com/techsolutioncat)<br>
 
 <hr>
   
