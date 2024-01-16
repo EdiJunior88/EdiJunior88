@@ -98,8 +98,9 @@ NUXT.JS
 
 <details>
 <summary>Vuejs 3</summary> <br>
-<strong>Cantinho do Bloguinho</strong> - <a href="https://cantinho-do-bloguinho.vercel.app/" target="_blank">https://cantinho-do-bloguinho.vercel.app/</a> <br>
+<strong>Previsão do Tempo</strong> - <a href="https://previsao-do-tempo-nuxt.vercel.app/" target="_blank">https://previsao-do-tempo-nuxt.vercel.app/</a> <br>
 <strong>Casa do Código VueJS</strong> - <a href="https://casa-do-codigo-vuejs.netlify.app/" target="_blank">https://casa-do-codigo-vuejs.netlify.app/</a> <br>
+<strong>Cantinho do Bloguinho</strong> - <a href="https://cantinho-do-bloguinho.vercel.app/" target="_blank">https://cantinho-do-bloguinho.vercel.app/</a> <br>
 <strong>Portfólio v2</strong> - <a href="https://portfolio-v2-edijunior88.vercel.app/" target="_blank">https://portfolio-v2-edijunior88.vercel.app/</a> <br>
 </details>
 
