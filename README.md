@@ -74,11 +74,11 @@ NUXT.JS
 
 <div align="left">
 
-- [EdiJunior88/NewTab_Academy_Projeto_Individual_React](https://github.com/EdiJunior88/NewTab_Academy_Projeto_Individual_React) - O objetivo é construir uma aplicação que simula o envio de dinheiro para uma outra pessoa, via cartão de crédito. (1 day ago / ⭐2)
+- [EdiJunior88/Microsoft_Learn_Introducao_ao_Vue](https://github.com/EdiJunior88/Microsoft_Learn_Introducao_ao_Vue) - O Vue.js é uma estrutura progressiva da Web que permite aos desenvolvedores começar a trabalhar rapidamente, com a simples adição de uma marca de script. (1 day ago / ⭐0)
 - [EdiJunior88/Aluratube_v2](https://github.com/EdiJunior88/Aluratube_v2) - Um projeto que simula um app do Youtube registrando o título e url de qualquer vídeo que podem ser adicionados à página principal. (1 day ago / ⭐2)
 - [EdiJunior88/Origamid_React_Completo](https://github.com/EdiJunior88/Origamid_React_Completo) - O foco do curso é no entendimento completo do React, com isso praticamente tudo será criado do zero, sem a dependência de pacotes externos. (1 day ago / ⭐5)
 - [EdiJunior88/Previsao_do_Tempo](https://github.com/EdiJunior88/Previsao_do_Tempo) - ☀️ Um projeto que consulta em tempo real os dados meteorológicos da sua região (1 day ago / ⭐0)
-- [EdiJunior88/Microsoft_Learn_Crie-seus_primeiros_aplicativos_Web_com_React](https://github.com/EdiJunior88/Microsoft_Learn_Crie-seus_primeiros_aplicativos_Web_com_React) - React.js é a estrutura JavaScript de front-end mais popular. Por meio do JSX, uma combinação de HTML e JavaScript, os desenvolvedores podem criar exibições de forma natural.  (1 day ago / ⭐0)
+- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (1 day ago / ⭐0)
 </div>
 
 <hr>
