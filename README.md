@@ -74,11 +74,11 @@ NUXT.JS
 
 <div align="left">
 
+- [EdiJunior88/Previsao_do_Tempo](https://github.com/EdiJunior88/Previsao_do_Tempo) - ☀️ Um projeto que consulta em tempo real os dados meteorológicos da sua região (today / ⭐0)
 - [EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes](https://github.com/EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes) - Front End, HTML, Tags, Acessibilidade, CSS, Grid Layout, Flexbox, Media Queries, Responsivo, VS Code e mais. (1 day ago / ⭐8)
 - [EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado](https://github.com/EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado) - Neste curso irá descobrir o jeito mais moderno de desenvolver aplicações web e sistemas web, você vai aprender a criar aplicações completas do extremo zero e entendendo na prática a usar todo poder e recurso do ReactJS e NextJS. (1 day ago / ⭐0)
 - [EdiJunior88/Origamid_TypeScript_Para_Iniciantes](https://github.com/EdiJunior88/Origamid_TypeScript_Para_Iniciantes) - O foco do curso é no TypeScript puro e ao final dele você sairá sabendo muito mais como o JavaScript funciona. (1 day ago / ⭐0)
 - [EdiJunior88/React_Documentacao](https://github.com/EdiJunior88/React_Documentacao) - Bem-vindo à documentação do React! Esta página fornecerá uma introdução aos 80% dos conceitos do React que você usará diariamente. (2 days ago / ⭐0)
-- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (2 days ago / ⭐0)
 </div>
 
 <hr>
