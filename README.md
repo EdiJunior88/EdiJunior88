@@ -189,11 +189,11 @@ NUXT.JS
 
 <h3>👯 Seguidores Recentes</h3>
 
+[beimax45621](https://github.com/beimax45621)<br>
 [unmitra](https://github.com/unmitra)<br>
 [warmice71](https://github.com/warmice71)<br>
 [stan8086](https://github.com/stan8086)<br>
 [whereasjovially](https://github.com/whereasjovially)<br>
-[AndriyPapirnyk](https://github.com/AndriyPapirnyk)<br>
 
 <hr>
   
