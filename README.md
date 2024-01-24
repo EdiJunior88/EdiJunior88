@@ -87,9 +87,11 @@ NUXT.JS
 
 <details>
 <summary>GitHub</summary> <br>
+<strong>Casa do Código - VUE</strong> - <a href="https://github.com/caioincau/todo-list/issues/2" target="_blank">https://github.com/caioincau/todo-list/issues/2</a> <br>
 <strong>World Portfolios</strong> - <a href="https://github.com/ln-dev7/world-portfolios" target="_blank">https://github.com/ln-dev7/world-portfolios</a> <br>
+<strong>TailWind CSS</strong> - <a href="https://github.com/tailwindlabs/tailwindcss/discussions/12459" target="_blank">https://github.com/tailwindlabs/tailwindcss/discussions/12459</a> <br>
 <strong>First Contributions</strong> - <a href="https://github.com/firstcontributions/first-contributions" target="_blank">https://github.com/firstcontributions/first-contributions</a> <br>
-<strong>Balta.io</strong> - <a href="https://github.com/balta-io/2804" target="_blank">https://github.com/balta-io/2804</a> <br>
+<strong>Balta.io</strong> - <a href="https://github.com/balta-io/2804/issues/4" target="_blank">https://github.com/balta-io/2804/issues/4</a> <br>
 </details>
 
 <hr>
