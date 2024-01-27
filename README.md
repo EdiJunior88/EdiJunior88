@@ -80,9 +80,9 @@ ASTRO
 
 <div align="left">
 
-- [EdiJunior88/Astro_Documentacao](https://github.com/EdiJunior88/Astro_Documentacao) -  (today / ⭐0)
+- [EdiJunior88/Astro_Documentacao](https://github.com/EdiJunior88/Astro_Documentacao) - Astro é um framework web tudo em um para a construção de websites rápidos, focados em conteúdo. (today / ⭐0)
 - [EdiJunior88/MKS_FrontEnd_Challenge](https://github.com/EdiJunior88/MKS_FrontEnd_Challenge) - Desafio para entregar uma página (Loja de Compras) com dados de uma API incluindo acesso aos itens (adicionados ao carrinho de compras) (4 days ago / ⭐0)
-- [EdiJunior88/NewTab_Academy_Projetos](https://github.com/EdiJunior88/NewTab_Academy_Projetos) - Vamos simular experiências comuns do dia a dia da profissão, onde você irá construir projetos baseados nas demandas do mercado, terá o acompanhamento de profissionais experientes na área e desenvolverá as principais habilidades técnicas e comportamentais necessárias para iniciar sua carreira. (5 days ago / ⭐6)
+- [EdiJunior88/Consulta_Quadrinhos](https://github.com/EdiJunior88/Consulta_Quadrinhos) - Aqui você encontra todos os quadrinhos (comics) e heróis da Marvel (5 days ago / ⭐2)
 - [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (5 days ago / ⭐0)
 - [EdiJunior88/Imersao_React_Alura](https://github.com/EdiJunior88/Imersao_React_Alura) - Serão 5 aulas gratuitas de programação de nível intermediário para você desenvolver o Aluratube, um projeto em React para adicionar ao seu portfólio. (5 days ago / ⭐3)
 </div>
