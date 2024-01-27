@@ -33,6 +33,9 @@
 <td align="center">
 <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="64" height="64">
 </td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/52addcaa18dfecb4df77f3ee0753dca6b98187ad/logos/astro-icon.svg" width="64" height="64">
+</td>
 </tr>
 
 <tr>
@@ -53,6 +56,9 @@ VUE.JS
 </td>
 <td align="center">
 NUXT.JS
+</td>
+<td align="center">
+ASTRO
 </td>
 </tr>
 </table>
