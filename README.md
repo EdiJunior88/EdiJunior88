@@ -197,11 +197,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[mutasim77](https://github.com/mutasim77)<br>
 [devTristao](https://github.com/devTristao)<br>
 [omololevy](https://github.com/omololevy)<br>
 [beimax45621](https://github.com/beimax45621)<br>
 [unmitra](https://github.com/unmitra)<br>
-[warmice71](https://github.com/warmice71)<br>
 
 <hr>
   
