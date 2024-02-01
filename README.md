@@ -199,9 +199,9 @@ ASTRO
 
 [luanrramos](https://github.com/luanrramos)<br>
 [mutasim77](https://github.com/mutasim77)<br>
-[devTristao](https://github.com/devTristao)<br>
 [omololevy](https://github.com/omololevy)<br>
 [beimax45621](https://github.com/beimax45621)<br>
+[unmitra](https://github.com/unmitra)<br>
 
 <hr>
   
