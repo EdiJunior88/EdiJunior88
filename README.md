@@ -105,8 +105,14 @@ ASTRO
 <h3>🗃️ Lista de Todos os Projetos</h3>
 
 <details>
+<summary>Astro</summary> <br>
+<strong>Astro Documentação</strong> - <a href="https://astro-blog-edijunior88.netlify.app/" target="_blank">https://astro-blog-edijunior88.netlify.app/</a> <br>
+</details>
+
+<details>
 <summary>Vuejs 3</summary> <br>
 <strong>Previsão do Tempo</strong> - <a href="https://previsao-do-tempo-nuxt.vercel.app/" target="_blank">https://previsao-do-tempo-nuxt.vercel.app/</a> <br>
+<strong>Microsoft Learn - Introducao ao Vue</strong> - <a href="https://microsoft-learn-introducao-ao-vue.onrender.com/" target="_blank">https://microsoft-learn-introducao-ao-vue.onrender.com/</a> <br>
 <strong>Casa do Código VueJS</strong> - <a href="https://casa-do-codigo-vuejs.netlify.app/" target="_blank">https://casa-do-codigo-vuejs.netlify.app/</a> <br>
 <strong>Cantinho do Bloguinho</strong> - <a href="https://cantinho-do-bloguinho.vercel.app/" target="_blank">https://cantinho-do-bloguinho.vercel.app/</a> <br>
 <strong>Portfólio v2</strong> - <a href="https://portfolio-v2-edijunior88.vercel.app/" target="_blank">https://portfolio-v2-edijunior88.vercel.app/</a> <br>
@@ -114,6 +120,7 @@ ASTRO
 
 <details>
 <summary>React</summary> <br>
+<strong>IGMA Teste Front-End</strong> - <a href="https://igma-teste-front-end.vercel.app/" target="_blank">https://igma-teste-front-end.vercel.app/</a> <br>
 <strong>MKS Challenge Front-End</strong> - <a href="https://mks-front-end-challenge-edijunior88.vercel.app/" target="_blank">https://mks-front-end-challenge-edijunior88.vercel.app/</a> <br>
 <strong>Favoritar Repositórios</strong> - <a href="https://projeto-favoritar-repositorios.vercel.app/" target="_blank">https://projeto-favoritar-repositorios.vercel.app/</a> <br>
 <strong>Dogs</strong> - <a href="https://dogsorigamid-edijunior88.netlify.app/" target="_blank">https://dogsorigamid-edijunior88.netlify.app/</a> <br>
