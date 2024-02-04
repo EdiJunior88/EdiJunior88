@@ -80,11 +80,11 @@ ASTRO
 
 <div align="left">
 
-- [EdiJunior88/contador-de-views](https://github.com/EdiJunior88/contador-de-views) - ⏰ Contador de views do perfil do GitHub &#43; Repositórios (today / ⭐1)
-- [EdiJunior88/Igma_Teste_FrontEnd](https://github.com/EdiJunior88/Igma_Teste_FrontEnd) - 📜Realizar a produção de uma página web de acordo com as especificações que a pessoa de design trouxe no Handoff. (2 days ago / ⭐0)
-- [EdiJunior88/Imersao_React_Alura](https://github.com/EdiJunior88/Imersao_React_Alura) - Serão 5 aulas gratuitas de programação de nível intermediário para você desenvolver o Aluratube, um projeto em React para adicionar ao seu portfólio. (3 days ago / ⭐3)
-- [EdiJunior88/MKS_FrontEnd_Challenge](https://github.com/EdiJunior88/MKS_FrontEnd_Challenge) - Desafio para entregar uma página (Loja de Compras) com dados de uma API incluindo acesso aos itens (adicionados ao carrinho de compras) (4 days ago / ⭐0)
-- [EdiJunior88/Origamid_React_Completo](https://github.com/EdiJunior88/Origamid_React_Completo) - O foco do curso é no entendimento completo do React, com isso praticamente tudo será criado do zero, sem a dependência de pacotes externos. (4 days ago / ⭐5)
+- [EdiJunior88/TailwindCSS_2_para_Iniciantes](https://github.com/EdiJunior88/TailwindCSS_2_para_Iniciantes) - Tailwind CSS é basicamente um utility-first CSS framework que prioriza a construção ultra-rápida de interfaces customizadas. (today / ⭐0)
+- [EdiJunior88/Angular2_Na_Pratica](https://github.com/EdiJunior88/Angular2_Na_Pratica) - Esta obra tem como objetivo apresentar o framework Angular, em sua nova versão, na qual foi totalmente reescrita. (today / ⭐0)
+- [EdiJunior88/NewTab_Academy_Projeto_Individual_MySQL](https://github.com/EdiJunior88/NewTab_Academy_Projeto_Individual_MySQL) - modelagem do banco de dados e preparação das queries necessárias para rodar a suposta aplicação. (today / ⭐1)
+- [EdiJunior88/IGTI_Bootcamp_Desenvolvedor_Front_End](https://github.com/EdiJunior88/IGTI_Bootcamp_Desenvolvedor_Front_End) - O Bootcamp tem como objetivo apresentar conceitos fundamentais sobre o desenvolvimento Front-End e orientar o aluno a praticar codificação utilizando as 3 principais ferramentas de desenvolvimento Front-End do mercado. (today / ⭐2)
+- [EdiJunior88/FreeCodeCamp_CSS_Basico](https://github.com/EdiJunior88/FreeCodeCamp_CSS_Basico) - O CSS, ou Folhas de Estilo em Cascata, diz ao navegador como exibir o texto e outros conteúdos que você escreve em HTML. Com o CSS, você pode controlar a cor, fonte, tamanho, espaçamento e muitos outros aspectos dos elementos HTML. (today / ⭐2)
 </div>
 
 <hr>
