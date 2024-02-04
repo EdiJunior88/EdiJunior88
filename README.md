@@ -197,11 +197,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[Allanoallashe](https://github.com/Allanoallashe)<br>
 [luanrramos](https://github.com/luanrramos)<br>
 [omololevy](https://github.com/omololevy)<br>
 [beimax45621](https://github.com/beimax45621)<br>
 [unmitra](https://github.com/unmitra)<br>
-[warmice71](https://github.com/warmice71)<br>
 
 <hr>
   
