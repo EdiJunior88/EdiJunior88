@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[pedrohrocha18](https://github.com/pedrohrocha18)<br>
 [Allanoallashe](https://github.com/Allanoallashe)<br>
 [luanrramos](https://github.com/luanrramos)<br>
 [omololevy](https://github.com/omololevy)<br>
 [beimax45621](https://github.com/beimax45621)<br>
-[unmitra](https://github.com/unmitra)<br>
 
 <hr>
   
