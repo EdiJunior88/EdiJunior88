@@ -206,9 +206,9 @@ ASTRO
 
 [Adeema-Amir](https://github.com/Adeema-Amir)<br>
 [valloon91234](https://github.com/valloon91234)<br>
-[FelosiDev](https://github.com/FelosiDev)<br>
 [champion10873](https://github.com/champion10873)<br>
 [farhan7reza7](https://github.com/farhan7reza7)<br>
+[Allanoallashe](https://github.com/Allanoallashe)<br>
 
 <hr>
   
