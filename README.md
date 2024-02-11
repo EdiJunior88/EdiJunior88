@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[gromdan](https://github.com/gromdan)<br>
 [Friedrich482](https://github.com/Friedrich482)<br>
 [vinciidev](https://github.com/vinciidev)<br>
 [Adeema-Amir](https://github.com/Adeema-Amir)<br>
 [valloon91234](https://github.com/valloon91234)<br>
-[champion10873](https://github.com/champion10873)<br>
 
 <hr>
   
