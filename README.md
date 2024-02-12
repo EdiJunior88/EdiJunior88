@@ -80,11 +80,11 @@ ASTRO
 
 <div align="left">
 
-- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (3 days ago / ⭐0)
-- [EdiJunior88/cantinho_do_bloguinho](https://github.com/EdiJunior88/cantinho_do_bloguinho) - Criando um blog pessoal para guardar diversas informações sobre desenvolvimento / tecnologias (5 days ago / ⭐0)
-- [EdiJunior88/MKS_FrontEnd_Challenge](https://github.com/EdiJunior88/MKS_FrontEnd_Challenge) - Desafio para entregar uma página (Loja de Compras) com dados de uma API incluindo acesso aos itens (adicionados ao carrinho de compras) (6 days ago / ⭐0)
-- [EdiJunior88/Origamid_React_Completo](https://github.com/EdiJunior88/Origamid_React_Completo) - O foco do curso é no entendimento completo do React, com isso praticamente tudo será criado do zero, sem a dependência de pacotes externos. (6 days ago / ⭐5)
-- [EdiJunior88/GitHub_Finder](https://github.com/EdiJunior88/GitHub_Finder) - Um projeto que utiliza a API do GitHub para buscar um usuário e mostrar os 5 melhores repositórios com mais estrelas (6 days ago / ⭐1)
+- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (4 days ago / ⭐0)
+- [EdiJunior88/cantinho_do_bloguinho](https://github.com/EdiJunior88/cantinho_do_bloguinho) - Criando um blog pessoal para guardar diversas informações sobre desenvolvimento / tecnologias (6 days ago / ⭐0)
+- [EdiJunior88/MKS_FrontEnd_Challenge](https://github.com/EdiJunior88/MKS_FrontEnd_Challenge) - Desafio para entregar uma página (Loja de Compras) com dados de uma API incluindo acesso aos itens (adicionados ao carrinho de compras) (1 week ago / ⭐0)
+- [EdiJunior88/Origamid_React_Completo](https://github.com/EdiJunior88/Origamid_React_Completo) - O foco do curso é no entendimento completo do React, com isso praticamente tudo será criado do zero, sem a dependência de pacotes externos. (1 week ago / ⭐5)
+- [EdiJunior88/GitHub_Finder](https://github.com/EdiJunior88/GitHub_Finder) - Um projeto que utiliza a API do GitHub para buscar um usuário e mostrar os 5 melhores repositórios com mais estrelas (1 week ago / ⭐1)
 </div>
 
 <hr>
