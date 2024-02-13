@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[Arthur-byte-code](https://github.com/Arthur-byte-code)<br>
 [dougkalash](https://github.com/dougkalash)<br>
 [valloon427428](https://github.com/valloon427428)<br>
 [gromdan](https://github.com/gromdan)<br>
 [Friedrich482](https://github.com/Friedrich482)<br>
-[vinciidev](https://github.com/vinciidev)<br>
 
 <hr>
   
