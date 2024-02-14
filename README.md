@@ -81,8 +81,8 @@ ASTRO
 <div align="left">
 
 - [EdiJunior88/Mini_Shopping](https://github.com/EdiJunior88/Mini_Shopping) -  (1 day ago / ⭐0)
-- [EdiJunior88/Microsoft_Learn_Crie-seus_primeiros_aplicativos_Web_com_React](https://github.com/EdiJunior88/Microsoft_Learn_Crie-seus_primeiros_aplicativos_Web_com_React) - React.js é a estrutura JavaScript de front-end mais popular. Por meio do JSX, uma combinação de HTML e JavaScript, os desenvolvedores podem criar exibições de forma natural.  (2 days ago / ⭐0)
-- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (2 days ago / ⭐0)
+- [EdiJunior88/contador-de-views](https://github.com/EdiJunior88/contador-de-views) - ⏰ Contador de views do perfil do GitHub &#43; Repositórios (1 day ago / ⭐1)
+- [EdiJunior88/Previsao_do_Tempo](https://github.com/EdiJunior88/Previsao_do_Tempo) - ☀️ Um projeto que consulta em tempo real os dados meteorológicos da sua região (2 days ago / ⭐0)
 - [EdiJunior88/GitHub_Finder](https://github.com/EdiJunior88/GitHub_Finder) - Um projeto que utiliza a API do GitHub para buscar um usuário e mostrar os 5 melhores repositórios com mais estrelas (2 days ago / ⭐1)
 - [EdiJunior88/Origamid_React_Completo](https://github.com/EdiJunior88/Origamid_React_Completo) - O foco do curso é no entendimento completo do React, com isso praticamente tudo será criado do zero, sem a dependência de pacotes externos. (2 days ago / ⭐5)
 </div>
