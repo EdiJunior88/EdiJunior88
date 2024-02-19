@@ -208,8 +208,8 @@ ASTRO
 [Alerrando](https://github.com/Alerrando)<br>
 [Jonasjps](https://github.com/Jonasjps)<br>
 [Arthur-byte-code](https://github.com/Arthur-byte-code)<br>
-[dougkalash](https://github.com/dougkalash)<br>
 [valloon427428](https://github.com/valloon427428)<br>
+[gromdan](https://github.com/gromdan)<br>
 
 <hr>
   
