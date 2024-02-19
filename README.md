@@ -80,11 +80,11 @@ ASTRO
 
 <div align="left">
 
-- [EdiJunior88/Balta.io_Comecando_com_Angular](https://github.com/EdiJunior88/Balta.io_Comecando_com_Angular) - O curso aborda todos os conceitos fundamentais do Angular e, aprendendo os conceitos fundamentais, você poderá utilizá-los em todas as versões mais recentes do Framework. (2 days ago / ⭐0)
-- [EdiJunior88/Mini_Shopping](https://github.com/EdiJunior88/Mini_Shopping) - 🛒Projeto Front-End com o objetivo de criar um app simulando um site e-commerce com carrinho de compras, utilizando uma api para listar os itens com nomes e preços. (2 days ago / ⭐0)
-- [EdiJunior88/Previsao_do_Tempo](https://github.com/EdiJunior88/Previsao_do_Tempo) - ☀️ Um projeto que consulta em tempo real os dados meteorológicos da sua região (2 days ago / ⭐0)
-- [EdiJunior88/contador-de-views](https://github.com/EdiJunior88/contador-de-views) - ⏰ Contador de views do perfil do GitHub &#43; Repositórios (5 days ago / ⭐1)
-- [EdiJunior88/GitHub_Finder](https://github.com/EdiJunior88/GitHub_Finder) - Um projeto que utiliza a API do GitHub para buscar um usuário e mostrar os 5 melhores repositórios com mais estrelas (6 days ago / ⭐1)
+- [EdiJunior88/Balta.io_Comecando_com_Angular](https://github.com/EdiJunior88/Balta.io_Comecando_com_Angular) - O curso aborda todos os conceitos fundamentais do Angular e, aprendendo os conceitos fundamentais, você poderá utilizá-los em todas as versões mais recentes do Framework. (3 days ago / ⭐0)
+- [EdiJunior88/Mini_Shopping](https://github.com/EdiJunior88/Mini_Shopping) - 🛒Projeto Front-End com o objetivo de criar um app simulando um site e-commerce com carrinho de compras, utilizando uma api para listar os itens com nomes e preços. (3 days ago / ⭐0)
+- [EdiJunior88/Previsao_do_Tempo](https://github.com/EdiJunior88/Previsao_do_Tempo) - ☀️ Um projeto que consulta em tempo real os dados meteorológicos da sua região (3 days ago / ⭐0)
+- [EdiJunior88/contador-de-views](https://github.com/EdiJunior88/contador-de-views) - ⏰ Contador de views do perfil do GitHub &#43; Repositórios (6 days ago / ⭐1)
+- [EdiJunior88/GitHub_Finder](https://github.com/EdiJunior88/GitHub_Finder) - Um projeto que utiliza a API do GitHub para buscar um usuário e mostrar os 5 melhores repositórios com mais estrelas (1 week ago / ⭐1)
 </div>
 
 <hr>
