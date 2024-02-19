@@ -117,6 +117,7 @@ ASTRO
 
 <details>
 <summary>React</summary> <br>
+<strong>Mini Shopping React + NextJS 14</strong> - <a href="https://mini-shopping-react-nextjs.vercel.app/" target="_blank">https://mini-shopping-react-nextjs.vercel.app/</a> <br>
 <strong>IGMA Teste Front-End</strong> - <a href="https://igma-teste-front-end.vercel.app/" target="_blank">https://igma-teste-front-end.vercel.app/</a> <br>
 <strong>MKS Challenge Front-End</strong> - <a href="https://mks-front-end-challenge-edijunior88.vercel.app/" target="_blank">https://mks-front-end-challenge-edijunior88.vercel.app/</a> <br>
 <strong>Favoritar Repositórios</strong> - <a href="https://projeto-favoritar-repositorios.vercel.app/" target="_blank">https://projeto-favoritar-repositorios.vercel.app/</a> <br>
