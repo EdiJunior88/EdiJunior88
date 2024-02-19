@@ -80,7 +80,7 @@ ASTRO
 
 <div align="left">
 
-- [EdiJunior88/Mini_Shopping](https://github.com/EdiJunior88/Mini_Shopping) - 🛒Projeto Front-End com o objetivo de criar um app simulando um site e-commerce com carrinho de compras, utilizando uma api para listar os itens com nomes e preços. (today / ⭐0)
+- [EdiJunior88/Testes_React_com_Vitest_e_Testing_Library](https://github.com/EdiJunior88/Testes_React_com_Vitest_e_Testing_Library) -  (today / ⭐0)
 - [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (today / ⭐0)
 - [EdiJunior88/MKS_FrontEnd_Challenge](https://github.com/EdiJunior88/MKS_FrontEnd_Challenge) - Desafio para entregar uma página (Loja de Compras) com dados de uma API incluindo acesso aos itens (adicionados ao carrinho de compras) (today / ⭐0)
 - [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (today / ⭐1)
@@ -120,6 +120,7 @@ ASTRO
 
 <details>
 <summary>React</summary> <br>
+<strong>Mini Shopping React + NextJS 14</strong> - <a href="https://mini-shopping-react-nextjs.vercel.app/" target="_blank">https://mini-shopping-react-nextjs.vercel.app/</a> <br>
 <strong>IGMA Teste Front-End</strong> - <a href="https://igma-teste-front-end.vercel.app/" target="_blank">https://igma-teste-front-end.vercel.app/</a> <br>
 <strong>MKS Challenge Front-End</strong> - <a href="https://mks-front-end-challenge-edijunior88.vercel.app/" target="_blank">https://mks-front-end-challenge-edijunior88.vercel.app/</a> <br>
 <strong>Favoritar Repositórios</strong> - <a href="https://projeto-favoritar-repositorios.vercel.app/" target="_blank">https://projeto-favoritar-repositorios.vercel.app/</a> <br>
