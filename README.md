@@ -80,8 +80,8 @@ ASTRO
 
 <div align="left">
 
-- [EdiJunior88/Previsao_do_Tempo](https://github.com/EdiJunior88/Previsao_do_Tempo) - ☀️ Um projeto que consulta em tempo real os dados meteorológicos da sua região (1 day ago / ⭐0)
-- [EdiJunior88/Aluratube_v2](https://github.com/EdiJunior88/Aluratube_v2) - Um projeto que simula um app do Youtube registrando o título e url de qualquer vídeo que podem ser adicionados à página principal. (1 day ago / ⭐2)
+- [EdiJunior88/Igma_Teste_FrontEnd](https://github.com/EdiJunior88/Igma_Teste_FrontEnd) - 📜Realizar a produção de uma página web de acordo com as especificações que a pessoa de design trouxe no Handoff. (today / ⭐0)
+- [EdiJunior88/Testes_React_com_Vitest_e_Testing_Library](https://github.com/EdiJunior88/Testes_React_com_Vitest_e_Testing_Library) -  (1 day ago / ⭐0)
 - [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (1 day ago / ⭐0)
 - [EdiJunior88/GitHub_Finder](https://github.com/EdiJunior88/GitHub_Finder) - Um projeto que utiliza a API do GitHub para buscar um usuário e mostrar os 5 melhores repositórios com mais estrelas (1 day ago / ⭐1)
 - [EdiJunior88/Imersao_React_Alura](https://github.com/EdiJunior88/Imersao_React_Alura) - Serão 5 aulas gratuitas de programação de nível intermediário para você desenvolver o Aluratube, um projeto em React para adicionar ao seu portfólio. (1 day ago / ⭐3)
@@ -205,11 +205,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
-[dougkalash](https://github.com/dougkalash)<br>
 [Alerrando](https://github.com/Alerrando)<br>
 [Jonasjps](https://github.com/Jonasjps)<br>
 [Arthur-byte-code](https://github.com/Arthur-byte-code)<br>
 [valloon427428](https://github.com/valloon427428)<br>
+[gromdan](https://github.com/gromdan)<br>
 
 <hr>
   
