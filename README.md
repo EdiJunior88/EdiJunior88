@@ -82,7 +82,7 @@ ASTRO
 
 - [EdiJunior88/Igma_Teste_FrontEnd](https://github.com/EdiJunior88/Igma_Teste_FrontEnd) - 📜Realizar a produção de uma página web de acordo com as especificações que a pessoa de design trouxe no Handoff. (1 day ago / ⭐0)
 - [EdiJunior88/Testes_React_com_Vitest_e_Testing_Library](https://github.com/EdiJunior88/Testes_React_com_Vitest_e_Testing_Library) -  (2 days ago / ⭐0)
-- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (2 days ago / ⭐0)
+- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (2 days ago / ⭐1)
 - [EdiJunior88/GitHub_Finder](https://github.com/EdiJunior88/GitHub_Finder) - Um projeto que utiliza a API do GitHub para buscar um usuário e mostrar os 5 melhores repositórios com mais estrelas (2 days ago / ⭐1)
 - [EdiJunior88/Imersao_React_Alura](https://github.com/EdiJunior88/Imersao_React_Alura) - Serão 5 aulas gratuitas de programação de nível intermediário para você desenvolver o Aluratube, um projeto em React para adicionar ao seu portfólio. (2 days ago / ⭐3)
 </div>
