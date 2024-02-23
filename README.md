@@ -205,11 +205,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[V-Matheus](https://github.com/V-Matheus)<br>
 [dougkalash](https://github.com/dougkalash)<br>
 [rman1223](https://github.com/rman1223)<br>
 [Alerrando](https://github.com/Alerrando)<br>
 [Jonasjps](https://github.com/Jonasjps)<br>
-[Arthur-byte-code](https://github.com/Arthur-byte-code)<br>
 
 <hr>
   
