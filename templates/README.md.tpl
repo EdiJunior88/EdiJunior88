@@ -180,10 +180,9 @@ ASTRO
 <tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=edijunior88&show_icons=true&theme=chartreuse-dark&bg_color=30,08003C,343300&locale=pt-br&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&disable_animations=true" >
-  
 </td>
+
 <td>
-<!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=edijunior88&theme=radical&hide_border=true&locale=pt_BR"> -->
 [![GitHub Streak](https://github-readme-streak-stats-edijunior88.vercel.app?user=edijunior88&locale=pt_BR&background=45%2C000239%2C366132&currStreakNum=5CFF39&sideNums=FFFFFF&currStreakLabel=5AF6FF&sideLabels=FFF257&dates=FFFFFF)](https://git.io/streak-stats)<img src="https://github-readme-streak-stats-gules.vercel.app?user=edijunior88&theme=dark&hide_border=true&locale=pt_BR&background=45%2C000239%2C366132">
 </td>
 </tr>
