@@ -184,8 +184,8 @@ ASTRO
 </td>
 <td>
 <!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=edijunior88&theme=radical&hide_border=true&locale=pt_BR"> -->
-[![GitHub Streak](https://github-readme-streak-stats-gules.vercel.app?user=edijunior88&theme=dark&hide_border=true&locale=pt_BR&background=45%2C000239%2C366132)](https://git.io/streak-stats)
 <img src="https://github-readme-streak-stats-edijunior88.vercel.app/?user=EdiJunior88&theme=chartreuse-dark&locale=pt_BR&background=45%2C000B4D%2C504F04&disable_animations=true">
+<img src="https://github-readme-streak-stats-gules.vercel.app?user=edijunior88&theme=dark&hide_border=true&locale=pt_BR&background=45%2C000239%2C366132">
 </td>
 </tr>
  
