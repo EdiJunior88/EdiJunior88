@@ -80,11 +80,11 @@ ASTRO
 
 <div align="left">
 
+- [EdiJunior88/github-readme-streak-stats-edijunior88](https://github.com/EdiJunior88/github-readme-streak-stats-edijunior88) -  (today / ⭐0)
 - [EdiJunior88/Astro_Documentacao](https://github.com/EdiJunior88/Astro_Documentacao) - 🚀 Astro é um framework web tudo em um para a construção de websites rápidos, focados em conteúdo. (2 days ago / ⭐1)
 - [EdiJunior88/NewTab_Academy_Angular](https://github.com/EdiJunior88/NewTab_Academy_Angular) - Esse módulo nos fornece uma visão do framework Angular através de conceitos e fundamentos que irão nos ajudar no desenvolvimento de aplicações front-end. (2 days ago / ⭐1)
 - [EdiJunior88/Balta.io_Comecando_com_Angular](https://github.com/EdiJunior88/Balta.io_Comecando_com_Angular) - O curso aborda todos os conceitos fundamentais do Angular e, aprendendo os conceitos fundamentais, você poderá utilizá-los em todas as versões mais recentes do Framework. (3 days ago / ⭐0)
 - [EdiJunior88/Previsao_do_Tempo](https://github.com/EdiJunior88/Previsao_do_Tempo) - ☀️ Um projeto que consulta em tempo real os dados meteorológicos da sua região (3 days ago / ⭐0)
-- [EdiJunior88/Igma_Teste_FrontEnd](https://github.com/EdiJunior88/Igma_Teste_FrontEnd) - 📜Realizar a produção de uma página web de acordo com as especificações que a pessoa de design trouxe no Handoff. (4 days ago / ⭐0)
 </div>
 
 <hr>
@@ -187,8 +187,7 @@ ASTRO
 </td>
 <td>
 
-<img src="https://github-readme-streak-stats-edijunior88.vercel.app/?user=EdiJunior88&theme=chartreuse-dark&locale=pt_BR&background=45%2C000B4D%2C504F04&disable_animations=true">
-<img src="https://github-readme-streak-stats-gules.vercel.app?user=edijunior88&theme=dark&hide_border=true&locale=pt_BR&background=45%2C000239%2C366132">
+[![GitHub Streak](https://github-readme-streak-stats-edijunior88.vercel.app?user=edijunior88&locale=pt_BR&background=45%2C000239%2C366132&currStreakNum=5CFF39&sideNums=FFFFFF&currStreakLabel=5AF6FF&sideLabels=FFF257&dates=FFFFFF)](https://git.io/streak-stats)<img src="https://github-readme-streak-stats-gules.vercel.app?user=edijunior88&theme=dark&hide_border=true&locale=pt_BR&background=45%2C000239%2C366132">
 </td>
 </tr>
  
