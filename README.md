@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[amx122](https://github.com/amx122)<br>
 [BogdanKlimov11](https://github.com/BogdanKlimov11)<br>
 [edward7770](https://github.com/edward7770)<br>
 [juliofleitas](https://github.com/juliofleitas)<br>
 [kimjunsung04](https://github.com/kimjunsung04)<br>
-[V-Matheus](https://github.com/V-Matheus)<br>
 
 <hr>
   
