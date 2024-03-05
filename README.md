@@ -81,8 +81,8 @@ ASTRO
 <div align="left">
 
 - [EdiJunior88/Irai_Design_Site](https://github.com/EdiJunior88/Irai_Design_Site) -  (today / ⭐0)
+- [EdiJunior88/contador-de-views](https://github.com/EdiJunior88/contador-de-views) - ⏰ Contador de views do perfil do GitHub &#43; Repositórios (today / ⭐1)
 - [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (1 day ago / ⭐1)
-- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (1 day ago / ⭐1)
 - [EdiJunior88/GitHub_Finder](https://github.com/EdiJunior88/GitHub_Finder) - Um projeto que utiliza a API do GitHub para buscar um usuário e mostrar os 5 melhores repositórios com mais estrelas (1 day ago / ⭐1)
 - [EdiJunior88/Imersao_React_Alura](https://github.com/EdiJunior88/Imersao_React_Alura) - Serão 5 aulas gratuitas de programação de nível intermediário para você desenvolver o Aluratube, um projeto em React para adicionar ao seu portfólio. (1 day ago / ⭐3)
 </div>
@@ -106,6 +106,8 @@ ASTRO
 
 <details>
 <summary>Astro</summary> <br>
+<strong>Irai Design Site</strong> - <a href="https://irai-design-site.pages.dev/" target="_blank">https://irai-design-site.pages.dev/</a> <br>
+<strong>Cantinho do Bloguinho</strong> - <a href="https://cantinho-do-bloguinho.vercel.app/" target="_blank">https://cantinho-do-bloguinho.vercel.app/</a> <br>
 <strong>Astro Documentação</strong> - <a href="https://astro-blog-edijunior88.netlify.app/" target="_blank">https://astro-blog-edijunior88.netlify.app/</a> <br>
 </details>
 
@@ -114,7 +116,6 @@ ASTRO
 <strong>Previsão do Tempo</strong> - <a href="https://previsao-do-tempo-nuxt.vercel.app/" target="_blank">https://previsao-do-tempo-nuxt.vercel.app/</a> <br>
 <strong>Microsoft Learn - Introducao ao Vue</strong> - <a href="https://microsoft-learn-introducao-ao-vue.onrender.com/" target="_blank">https://microsoft-learn-introducao-ao-vue.onrender.com/</a> <br>
 <strong>Casa do Código VueJS</strong> - <a href="https://casa-do-codigo-vuejs.netlify.app/" target="_blank">https://casa-do-codigo-vuejs.netlify.app/</a> <br>
-<strong>Cantinho do Bloguinho</strong> - <a href="https://cantinho-do-bloguinho.vercel.app/" target="_blank">https://cantinho-do-bloguinho.vercel.app/</a> <br>
 <strong>Portfólio v2</strong> - <a href="https://portfolio-v2-edijunior88.vercel.app/" target="_blank">https://portfolio-v2-edijunior88.vercel.app/</a> <br>
 </details>
 
