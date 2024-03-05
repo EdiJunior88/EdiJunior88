@@ -103,6 +103,8 @@ ASTRO
 
 <details>
 <summary>Astro</summary> <br>
+<strong>Irai Design Site</strong> - <a href="https://irai-design-site.pages.dev/" target="_blank">https://irai-design-site.pages.dev/</a> <br>
+<strong>Cantinho do Bloguinho</strong> - <a href="https://cantinho-do-bloguinho.vercel.app/" target="_blank">https://cantinho-do-bloguinho.vercel.app/</a> <br>
 <strong>Astro Documentação</strong> - <a href="https://astro-blog-edijunior88.netlify.app/" target="_blank">https://astro-blog-edijunior88.netlify.app/</a> <br>
 </details>
 
@@ -111,7 +113,6 @@ ASTRO
 <strong>Previsão do Tempo</strong> - <a href="https://previsao-do-tempo-nuxt.vercel.app/" target="_blank">https://previsao-do-tempo-nuxt.vercel.app/</a> <br>
 <strong>Microsoft Learn - Introducao ao Vue</strong> - <a href="https://microsoft-learn-introducao-ao-vue.onrender.com/" target="_blank">https://microsoft-learn-introducao-ao-vue.onrender.com/</a> <br>
 <strong>Casa do Código VueJS</strong> - <a href="https://casa-do-codigo-vuejs.netlify.app/" target="_blank">https://casa-do-codigo-vuejs.netlify.app/</a> <br>
-<strong>Cantinho do Bloguinho</strong> - <a href="https://cantinho-do-bloguinho.vercel.app/" target="_blank">https://cantinho-do-bloguinho.vercel.app/</a> <br>
 <strong>Portfólio v2</strong> - <a href="https://portfolio-v2-edijunior88.vercel.app/" target="_blank">https://portfolio-v2-edijunior88.vercel.app/</a> <br>
 </details>
 
