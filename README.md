@@ -205,11 +205,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[dougkalash](https://github.com/dougkalash)<br>
 [greendev0127](https://github.com/greendev0127)<br>
 [Olyadtemesgen](https://github.com/Olyadtemesgen)<br>
 [amx122](https://github.com/amx122)<br>
 [BogdanKlimov11](https://github.com/BogdanKlimov11)<br>
-[edward7770](https://github.com/edward7770)<br>
 
 <hr>
   
