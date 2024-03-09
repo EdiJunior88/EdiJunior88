@@ -80,9 +80,9 @@ ASTRO
 
 <div align="left">
 
+- [EdiJunior88/contador-de-views](https://github.com/EdiJunior88/contador-de-views) - ⏰ Contador de views do perfil do GitHub &#43; Repositórios (today / ⭐1)
 - [EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado](https://github.com/EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado) - Neste curso irá descobrir o jeito mais moderno de desenvolver aplicações web e sistemas web, você vai aprender a criar aplicações completas do extremo zero e entendendo na prática a usar todo poder e recurso do ReactJS e NextJS. (2 days ago / ⭐0)
-- [EdiJunior88/contador-de-views](https://github.com/EdiJunior88/contador-de-views) - ⏰ Contador de views do perfil do GitHub &#43; Repositórios (4 days ago / ⭐1)
-- [EdiJunior88/Balta.io_Criando_um_App_com_React](https://github.com/EdiJunior88/Balta.io_Criando_um_App_com_React) - Neste curso vamos criar um App completo utilizando React e TypeScript, passando pelos conceitos de gestão de estado com React Context, utilizando React Hooks e React Forms, tudo na prática, direto ao ponto! (5 days ago / ⭐0)
+- [EdiJunior88/Origamid_React_Completo](https://github.com/EdiJunior88/Origamid_React_Completo) - O foco do curso é no entendimento completo do React, com isso praticamente tudo será criado do zero, sem a dependência de pacotes externos. (5 days ago / ⭐5)
 - [EdiJunior88/GitHub_Finder](https://github.com/EdiJunior88/GitHub_Finder) - Um projeto que utiliza a API do GitHub para buscar um usuário e mostrar os 5 melhores repositórios com mais estrelas (5 days ago / ⭐1)
 - [EdiJunior88/Imersao_React_Alura](https://github.com/EdiJunior88/Imersao_React_Alura) - Serão 5 aulas gratuitas de programação de nível intermediário para você desenvolver o Aluratube, um projeto em React para adicionar ao seu portfólio. (5 days ago / ⭐3)
 </div>
