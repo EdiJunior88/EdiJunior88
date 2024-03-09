@@ -205,11 +205,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[james-gates-0212](https://github.com/james-gates-0212)<br>
 [danieleverest](https://github.com/danieleverest)<br>
 [dougkalash](https://github.com/dougkalash)<br>
 [greendev0127](https://github.com/greendev0127)<br>
 [Olyadtemesgen](https://github.com/Olyadtemesgen)<br>
-[amx122](https://github.com/amx122)<br>
 
 <hr>
   
