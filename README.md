@@ -205,11 +205,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[pfuhrmann](https://github.com/pfuhrmann)<br>
 [dougkalash](https://github.com/dougkalash)<br>
 [valloon427428](https://github.com/valloon427428)<br>
 [valloon91234](https://github.com/valloon91234)<br>
 [Raulhdomingues](https://github.com/Raulhdomingues)<br>
-[james-gates-0212](https://github.com/james-gates-0212)<br>
 
 <hr>
   
