@@ -205,11 +205,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[julianacastilloaraujo](https://github.com/julianacastilloaraujo)<br>
 [SraPadilha](https://github.com/SraPadilha)<br>
 [whitenight1201](https://github.com/whitenight1201)<br>
 [thiagopac](https://github.com/thiagopac)<br>
 [dougkalash](https://github.com/dougkalash)<br>
-[pagimos](https://github.com/pagimos)<br>
 
 <hr>
   
