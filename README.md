@@ -205,11 +205,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[thiagopac](https://github.com/thiagopac)<br>
 [dougkalash](https://github.com/dougkalash)<br>
 [pagimos](https://github.com/pagimos)<br>
 [moha999DJ](https://github.com/moha999DJ)<br>
 [pfuhrmann](https://github.com/pfuhrmann)<br>
-[valloon427428](https://github.com/valloon427428)<br>
 
 <hr>
   
