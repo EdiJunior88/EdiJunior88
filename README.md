@@ -205,11 +205,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[pony0206](https://github.com/pony0206)<br>
 [vistaJ0103](https://github.com/vistaJ0103)<br>
 [dougkalash](https://github.com/dougkalash)<br>
 [julianacastilloaraujo](https://github.com/julianacastilloaraujo)<br>
 [SraPadilha](https://github.com/SraPadilha)<br>
-[whitenight1201](https://github.com/whitenight1201)<br>
 
 <hr>
   
