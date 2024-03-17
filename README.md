@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[jackjulla](https://github.com/jackjulla)<br>
 [Shreyas-sonu](https://github.com/Shreyas-sonu)<br>
 [leom0311](https://github.com/leom0311)<br>
 [pony0206](https://github.com/pony0206)<br>
 [vistaJ0103](https://github.com/vistaJ0103)<br>
-[dougkalash](https://github.com/dougkalash)<br>
 
 <hr>
   
