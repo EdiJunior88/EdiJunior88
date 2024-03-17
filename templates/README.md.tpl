@@ -103,7 +103,6 @@ ASTRO
 
 <details>
 <summary>Astro</summary> <br>
-<strong>Irai Design Site</strong> - <a href="https://irai-design-site.pages.dev/" target="_blank">https://irai-design-site.pages.dev/</a> <br>
 <strong>Cantinho do Bloguinho</strong> - <a href="https://cantinho-do-bloguinho.vercel.app/" target="_blank">https://cantinho-do-bloguinho.vercel.app/</a> <br>
 <strong>Astro Documentação</strong> - <a href="https://astro-blog-edijunior88.netlify.app/" target="_blank">https://astro-blog-edijunior88.netlify.app/</a> <br>
 </details>
