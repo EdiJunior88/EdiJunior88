@@ -205,10 +205,10 @@ ASTRO
 <h3>👯 Seguidores Recentes</h3>
 
 [isaka-james](https://github.com/isaka-james)<br>
-[decoderwhoami](https://github.com/decoderwhoami)<br>
 [whitenight1201](https://github.com/whitenight1201)<br>
 [TheSonOfSocrates](https://github.com/TheSonOfSocrates)<br>
 [jackjulla](https://github.com/jackjulla)<br>
+[Shreyas-sonu](https://github.com/Shreyas-sonu)<br>
 
 <hr>
   
