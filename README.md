@@ -80,8 +80,8 @@ ASTRO
 
 <div align="left">
 
-- [EdiJunior88/Astro_Documentacao](https://github.com/EdiJunior88/Astro_Documentacao) - 🚀 Astro é um framework web tudo em um para a construção de websites rápidos, focados em conteúdo. (1 day ago / ⭐2)
-- [EdiJunior88/Aluratube_v2](https://github.com/EdiJunior88/Aluratube_v2) - Um projeto que simula um app do Youtube registrando o título e url de qualquer vídeo que podem ser adicionados à página principal. (1 day ago / ⭐2)
+- [EdiJunior88/React_Documentacao](https://github.com/EdiJunior88/React_Documentacao) - Bem-vindo à documentação do React! Esta página fornecerá uma introdução aos 80% dos conceitos do React que você usará diariamente. (today / ⭐0)
+- [EdiJunior88/Microsoft_Learn_Crie-seus_primeiros_aplicativos_Web_com_React](https://github.com/EdiJunior88/Microsoft_Learn_Crie-seus_primeiros_aplicativos_Web_com_React) - React.js é a estrutura JavaScript de front-end mais popular. Por meio do JSX, uma combinação de HTML e JavaScript, os desenvolvedores podem criar exibições de forma natural.  (1 day ago / ⭐0)
 - [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (1 day ago / ⭐1)
 - [EdiJunior88/GitHub_Finder](https://github.com/EdiJunior88/GitHub_Finder) - Um projeto que utiliza a API do GitHub para buscar um usuário e mostrar os 5 melhores repositórios com mais estrelas (1 day ago / ⭐1)
 - [EdiJunior88/cantinho_do_bloguinho](https://github.com/EdiJunior88/cantinho_do_bloguinho) - 👨‍💻 Blog pessoal para guardar diversas informações sobre desenvolvimento e tecnologias (1 day ago / ⭐0)
@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[decoderwhoami](https://github.com/decoderwhoami)<br>
+[whitenight1201](https://github.com/whitenight1201)<br>
 [TheSonOfSocrates](https://github.com/TheSonOfSocrates)<br>
 [jackjulla](https://github.com/jackjulla)<br>
 [Shreyas-sonu](https://github.com/Shreyas-sonu)<br>
-[leom0311](https://github.com/leom0311)<br>
-[pony0206](https://github.com/pony0206)<br>
 
 <hr>
   
