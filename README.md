@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[decoderwhoami](https://github.com/decoderwhoami)<br>
 [TheSonOfSocrates](https://github.com/TheSonOfSocrates)<br>
 [jackjulla](https://github.com/jackjulla)<br>
 [Shreyas-sonu](https://github.com/Shreyas-sonu)<br>
 [leom0311](https://github.com/leom0311)<br>
-[pony0206](https://github.com/pony0206)<br>
 
 <hr>
   
