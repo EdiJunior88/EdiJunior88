@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[sammorozov](https://github.com/sammorozov)<br>
 [carloskim123](https://github.com/carloskim123)<br>
 [isaka-james](https://github.com/isaka-james)<br>
 [whitenight1201](https://github.com/whitenight1201)<br>
 [TheSonOfSocrates](https://github.com/TheSonOfSocrates)<br>
-[jackjulla](https://github.com/jackjulla)<br>
 
 <hr>
   
