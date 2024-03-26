@@ -80,11 +80,11 @@ ASTRO
 
 <div align="left">
 
-- [EdiJunior88/NewTab_Academy_Projetos](https://github.com/EdiJunior88/NewTab_Academy_Projetos) - Vamos simular experiências comuns do dia a dia da profissão, onde você irá construir projetos baseados nas demandas do mercado, terá o acompanhamento de profissionais experientes na área e desenvolverá as principais habilidades técnicas e comportamentais necessárias para iniciar sua carreira. (today / ⭐6)
-- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (today / ⭐1)
-- [EdiJunior88/NewTab_Academy_Projeto_Individual_PHP](https://github.com/EdiJunior88/NewTab_Academy_Projeto_Individual_PHP) - O projeto consiste em implementar uma aplicação web a partir de uma modelagem de dados inicial desnormalizada, que deve ser normalizada para a implementação da solução. (today / ⭐1)
-- [EdiJunior88/Igma_Teste_FrontEnd](https://github.com/EdiJunior88/Igma_Teste_FrontEnd) - 📜Realizar a produção de uma página web de acordo com as especificações que a pessoa de design trouxe no Handoff. (today / ⭐0)
-- [EdiJunior88/cantinho_do_bloguinho](https://github.com/EdiJunior88/cantinho_do_bloguinho) - 👨‍💻 Blog pessoal para guardar diversas informações sobre desenvolvimento e tecnologias (today / ⭐0)
+- [EdiJunior88/NewTab_Academy_Projetos](https://github.com/EdiJunior88/NewTab_Academy_Projetos) - Vamos simular experiências comuns do dia a dia da profissão, onde você irá construir projetos baseados nas demandas do mercado, terá o acompanhamento de profissionais experientes na área e desenvolverá as principais habilidades técnicas e comportamentais necessárias para iniciar sua carreira. (1 day ago / ⭐6)
+- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (1 day ago / ⭐1)
+- [EdiJunior88/NewTab_Academy_Projeto_Individual_PHP](https://github.com/EdiJunior88/NewTab_Academy_Projeto_Individual_PHP) - O projeto consiste em implementar uma aplicação web a partir de uma modelagem de dados inicial desnormalizada, que deve ser normalizada para a implementação da solução. (1 day ago / ⭐1)
+- [EdiJunior88/Igma_Teste_FrontEnd](https://github.com/EdiJunior88/Igma_Teste_FrontEnd) - 📜Realizar a produção de uma página web de acordo com as especificações que a pessoa de design trouxe no Handoff. (1 day ago / ⭐0)
+- [EdiJunior88/cantinho_do_bloguinho](https://github.com/EdiJunior88/cantinho_do_bloguinho) - 👨‍💻 Blog pessoal para guardar diversas informações sobre desenvolvimento e tecnologias (1 day ago / ⭐0)
 </div>
 
 <hr>
