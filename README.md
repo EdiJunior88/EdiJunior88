@@ -205,10 +205,10 @@ ASTRO
 <h3>👯 Seguidores Recentes</h3>
 
 [AltintoprakBeyza](https://github.com/AltintoprakBeyza)<br>
-[gr8monk3ys](https://github.com/gr8monk3ys)<br>
 [pagimos](https://github.com/pagimos)<br>
 [flavialarisse](https://github.com/flavialarisse)<br>
 [sammorozov](https://github.com/sammorozov)<br>
+[carloskim123](https://github.com/carloskim123)<br>
 
 <hr>
   
