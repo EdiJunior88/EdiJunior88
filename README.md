@@ -80,11 +80,11 @@ ASTRO
 
 <div align="left">
 
+- [EdiJunior88/NewTab_Academy_Projetos](https://github.com/EdiJunior88/NewTab_Academy_Projetos) - Vamos simular experiências comuns do dia a dia da profissão, onde você irá construir projetos baseados nas demandas do mercado, terá o acompanhamento de profissionais experientes na área e desenvolverá as principais habilidades técnicas e comportamentais necessárias para iniciar sua carreira. (today / ⭐6)
+- [EdiJunior88/NewTab_Academy_Projeto_Individual_PHP](https://github.com/EdiJunior88/NewTab_Academy_Projeto_Individual_PHP) - O projeto consiste em implementar uma aplicação web a partir de uma modelagem de dados inicial desnormalizada, que deve ser normalizada para a implementação da solução. (today / ⭐1)
+- [EdiJunior88/NewTab_Academy_Angular](https://github.com/EdiJunior88/NewTab_Academy_Angular) - Esse módulo nos fornece uma visão do framework Angular através de conceitos e fundamentos que irão nos ajudar no desenvolvimento de aplicações front-end. (today / ⭐1)
+- [EdiJunior88/Balta.io_Comecando_com_Angular](https://github.com/EdiJunior88/Balta.io_Comecando_com_Angular) - O curso aborda todos os conceitos fundamentais do Angular e, aprendendo os conceitos fundamentais, você poderá utilizá-los em todas as versões mais recentes do Framework. (today / ⭐0)
 - [EdiJunior88/Mini_Shopping](https://github.com/EdiJunior88/Mini_Shopping) - 🛒Projeto Front-End com o objetivo de criar um app simulando um site e-commerce com carrinho de compras, utilizando uma api para listar os itens com nomes e preços. (1 day ago / ⭐1)
-- [EdiJunior88/React_Documentacao](https://github.com/EdiJunior88/React_Documentacao) - Bem-vindo à documentação do React! Esta página fornecerá uma introdução aos 80% dos conceitos do React que você usará diariamente. (2 days ago / ⭐0)
-- [EdiJunior88/Aluratube_v2](https://github.com/EdiJunior88/Aluratube_v2) - Um projeto que simula um app do Youtube registrando o título e url de qualquer vídeo que podem ser adicionados à página principal. (2 days ago / ⭐2)
-- [EdiJunior88/GitHub_Finder](https://github.com/EdiJunior88/GitHub_Finder) - Um projeto que utiliza a API do GitHub para buscar um usuário e mostrar os 5 melhores repositórios com mais estrelas (2 days ago / ⭐1)
-- [EdiJunior88/MKS_FrontEnd_Challenge](https://github.com/EdiJunior88/MKS_FrontEnd_Challenge) - Desafio para entregar uma página (Loja de Compras) com dados de uma API incluindo acesso aos itens (adicionados ao carrinho de compras) (2 days ago / ⭐0)
 </div>
 
 <hr>
