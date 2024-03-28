@@ -80,11 +80,11 @@ ASTRO
 
 <div align="left">
 
-- [EdiJunior88/Mini_Shopping](https://github.com/EdiJunior88/Mini_Shopping) - 🛒Projeto Front-End com o objetivo de criar um app simulando um site e-commerce com carrinho de compras, utilizando uma api para listar os itens com nomes e preços. (today / ⭐1)
-- [EdiJunior88/React_Documentacao](https://github.com/EdiJunior88/React_Documentacao) - Bem-vindo à documentação do React! Esta página fornecerá uma introdução aos 80% dos conceitos do React que você usará diariamente. (1 day ago / ⭐0)
-- [EdiJunior88/Aluratube_v2](https://github.com/EdiJunior88/Aluratube_v2) - Um projeto que simula um app do Youtube registrando o título e url de qualquer vídeo que podem ser adicionados à página principal. (1 day ago / ⭐2)
-- [EdiJunior88/GitHub_Finder](https://github.com/EdiJunior88/GitHub_Finder) - Um projeto que utiliza a API do GitHub para buscar um usuário e mostrar os 5 melhores repositórios com mais estrelas (1 day ago / ⭐1)
-- [EdiJunior88/MKS_FrontEnd_Challenge](https://github.com/EdiJunior88/MKS_FrontEnd_Challenge) - Desafio para entregar uma página (Loja de Compras) com dados de uma API incluindo acesso aos itens (adicionados ao carrinho de compras) (1 day ago / ⭐0)
+- [EdiJunior88/Mini_Shopping](https://github.com/EdiJunior88/Mini_Shopping) - 🛒Projeto Front-End com o objetivo de criar um app simulando um site e-commerce com carrinho de compras, utilizando uma api para listar os itens com nomes e preços. (1 day ago / ⭐1)
+- [EdiJunior88/React_Documentacao](https://github.com/EdiJunior88/React_Documentacao) - Bem-vindo à documentação do React! Esta página fornecerá uma introdução aos 80% dos conceitos do React que você usará diariamente. (2 days ago / ⭐0)
+- [EdiJunior88/Aluratube_v2](https://github.com/EdiJunior88/Aluratube_v2) - Um projeto que simula um app do Youtube registrando o título e url de qualquer vídeo que podem ser adicionados à página principal. (2 days ago / ⭐2)
+- [EdiJunior88/GitHub_Finder](https://github.com/EdiJunior88/GitHub_Finder) - Um projeto que utiliza a API do GitHub para buscar um usuário e mostrar os 5 melhores repositórios com mais estrelas (2 days ago / ⭐1)
+- [EdiJunior88/MKS_FrontEnd_Challenge](https://github.com/EdiJunior88/MKS_FrontEnd_Challenge) - Desafio para entregar uma página (Loja de Compras) com dados de uma API incluindo acesso aos itens (adicionados ao carrinho de compras) (2 days ago / ⭐0)
 </div>
 
 <hr>
