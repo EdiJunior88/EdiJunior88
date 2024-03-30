@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[zakarialaoui10](https://github.com/zakarialaoui10)<br>
 [FabioNunesDEV](https://github.com/FabioNunesDEV)<br>
 [jo0707](https://github.com/jo0707)<br>
 [AltintoprakBeyza](https://github.com/AltintoprakBeyza)<br>
 [pagimos](https://github.com/pagimos)<br>
-[flavialarisse](https://github.com/flavialarisse)<br>
 
 <hr>
   
