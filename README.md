@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[codeWithDavide](https://github.com/codeWithDavide)<br>
 [ProgrammerDATCH](https://github.com/ProgrammerDATCH)<br>
 [codeWithEdison](https://github.com/codeWithEdison)<br>
 [mutasim77](https://github.com/mutasim77)<br>
 [zakarialaoui10](https://github.com/zakarialaoui10)<br>
-[FabioNunesDEV](https://github.com/FabioNunesDEV)<br>
 
 <hr>
   
