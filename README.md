@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[decoderwhoami](https://github.com/decoderwhoami)<br>
 [morganm94](https://github.com/morganm94)<br>
 [codeWithDavide](https://github.com/codeWithDavide)<br>
 [ProgrammerDATCH](https://github.com/ProgrammerDATCH)<br>
 [codeWithEdison](https://github.com/codeWithEdison)<br>
-[mutasim77](https://github.com/mutasim77)<br>
 
 <hr>
   
