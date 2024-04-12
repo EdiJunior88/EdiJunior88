@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[blocage](https://github.com/blocage)<br>
 [thepiratehub](https://github.com/thepiratehub)<br>
 [morganm94](https://github.com/morganm94)<br>
 [codeWithDavide](https://github.com/codeWithDavide)<br>
 [ProgrammerDATCH](https://github.com/ProgrammerDATCH)<br>
-[codeWithEdison](https://github.com/codeWithEdison)<br>
 
 <hr>
   
