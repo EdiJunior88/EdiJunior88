@@ -80,11 +80,11 @@ ASTRO
 
 <div align="left">
 
-- [EdiJunior88/MKS_FrontEnd_Challenge](https://github.com/EdiJunior88/MKS_FrontEnd_Challenge) - Desafio para entregar uma página (Loja de Compras) com dados de uma API incluindo acesso aos itens (adicionados ao carrinho de compras) (1 day ago / ⭐0)
-- [EdiJunior88/Mini_Shopping](https://github.com/EdiJunior88/Mini_Shopping) - 🛒Projeto Front-End com o objetivo de criar um app simulando um site e-commerce com carrinho de compras, utilizando uma api para listar os itens com nomes e preços. (1 day ago / ⭐1)
-- [EdiJunior88/Imersao_React_Alura](https://github.com/EdiJunior88/Imersao_React_Alura) - Serão 5 aulas gratuitas de programação de nível intermediário para você desenvolver o Aluratube, um projeto em React para adicionar ao seu portfólio. (1 day ago / ⭐3)
-- [EdiJunior88/Previsao_do_Tempo](https://github.com/EdiJunior88/Previsao_do_Tempo) - ☀️ Um projeto que consulta em tempo real os dados meteorológicos da sua região (2 days ago / ⭐0)
-- [EdiJunior88/React_Documentacao](https://github.com/EdiJunior88/React_Documentacao) - Bem-vindo à documentação do React! Esta página fornecerá uma introdução aos 80% dos conceitos do React que você usará diariamente. (4 days ago / ⭐0)
+- [EdiJunior88/MKS_FrontEnd_Challenge](https://github.com/EdiJunior88/MKS_FrontEnd_Challenge) - Desafio para entregar uma página (Loja de Compras) com dados de uma API incluindo acesso aos itens (adicionados ao carrinho de compras) (2 days ago / ⭐0)
+- [EdiJunior88/Mini_Shopping](https://github.com/EdiJunior88/Mini_Shopping) - 🛒Projeto Front-End com o objetivo de criar um app simulando um site e-commerce com carrinho de compras, utilizando uma api para listar os itens com nomes e preços. (2 days ago / ⭐1)
+- [EdiJunior88/Imersao_React_Alura](https://github.com/EdiJunior88/Imersao_React_Alura) - Serão 5 aulas gratuitas de programação de nível intermediário para você desenvolver o Aluratube, um projeto em React para adicionar ao seu portfólio. (2 days ago / ⭐3)
+- [EdiJunior88/Previsao_do_Tempo](https://github.com/EdiJunior88/Previsao_do_Tempo) - ☀️ Um projeto que consulta em tempo real os dados meteorológicos da sua região (3 days ago / ⭐0)
+- [EdiJunior88/React_Documentacao](https://github.com/EdiJunior88/React_Documentacao) - Bem-vindo à documentação do React! Esta página fornecerá uma introdução aos 80% dos conceitos do React que você usará diariamente. (5 days ago / ⭐0)
 </div>
 
 <hr>
