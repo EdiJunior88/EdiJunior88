@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[NitrixXero](https://github.com/NitrixXero)<br>
 [habibundayishimiye](https://github.com/habibundayishimiye)<br>
 [filipmariania](https://github.com/filipmariania)<br>
 [blocage](https://github.com/blocage)<br>
 [thepiratehub](https://github.com/thepiratehub)<br>
-[morganm94](https://github.com/morganm94)<br>
 
 <hr>
   
