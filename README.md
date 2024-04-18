@@ -208,7 +208,7 @@ ASTRO
 [NitrixXero](https://github.com/NitrixXero)<br>
 [habibundayishimiye](https://github.com/habibundayishimiye)<br>
 [filipmariania](https://github.com/filipmariania)<br>
-[blocage](https://github.com/blocage)<br>
+[thepiratehub](https://github.com/thepiratehub)<br>
 
 <hr>
   
