@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[Rez4-4](https://github.com/Rez4-4)<br>
 [GeovanaDev](https://github.com/GeovanaDev)<br>
 [dougkalash](https://github.com/dougkalash)<br>
 [NitrixXero](https://github.com/NitrixXero)<br>
 [habibundayishimiye](https://github.com/habibundayishimiye)<br>
-[filipmariania](https://github.com/filipmariania)<br>
 
 <hr>
   
