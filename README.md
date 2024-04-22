@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[SmileS-777](https://github.com/SmileS-777)<br>
 [piaocreative](https://github.com/piaocreative)<br>
 [Rez4-4](https://github.com/Rez4-4)<br>
 [GeovanaDev](https://github.com/GeovanaDev)<br>
 [dougkalash](https://github.com/dougkalash)<br>
-[NitrixXero](https://github.com/NitrixXero)<br>
 
 <hr>
   
