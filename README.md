@@ -205,7 +205,7 @@ ASTRO
 <h3>👯 Seguidores Recentes</h3>
 
 [kevinhearts](https://github.com/kevinhearts)<br>
-[SmileS-777](https://github.com/SmileS-777)<br>
+[monolab825](https://github.com/monolab825)<br>
 [piaocreative](https://github.com/piaocreative)<br>
 [Rez4-4](https://github.com/Rez4-4)<br>
 [GeovanaDev](https://github.com/GeovanaDev)<br>
