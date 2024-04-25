@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[tsukipond8531](https://github.com/tsukipond8531)<br>
 [kevinhearts](https://github.com/kevinhearts)<br>
 [monolab825](https://github.com/monolab825)<br>
 [piaocreative](https://github.com/piaocreative)<br>
 [Rez4-4](https://github.com/Rez4-4)<br>
-[GeovanaDev](https://github.com/GeovanaDev)<br>
 
 <hr>
   
