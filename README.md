@@ -80,11 +80,11 @@ ASTRO
 
 <div align="left">
 
+- [EdiJunior88/Origamid_React_Completo](https://github.com/EdiJunior88/Origamid_React_Completo) - O foco do curso é no entendimento completo do React, com isso praticamente tudo será criado do zero, sem a dependência de pacotes externos. (today / ⭐5)
+- [EdiJunior88/React_Documentacao](https://github.com/EdiJunior88/React_Documentacao) - Bem-vindo à documentação do React! Esta página fornecerá uma introdução aos 80% dos conceitos do React que você usará diariamente. (today / ⭐0)
+- [EdiJunior88/Astro_Documentacao](https://github.com/EdiJunior88/Astro_Documentacao) - 🚀 Astro é um framework web tudo em um para a construção de websites rápidos, focados em conteúdo. (today / ⭐2)
 - [EdiJunior88/Microsoft_Learn_Introducao_ao_Vue](https://github.com/EdiJunior88/Microsoft_Learn_Introducao_ao_Vue) - O Vue.js é uma estrutura progressiva da Web que permite aos desenvolvedores começar a trabalhar rapidamente, com a simples adição de uma marca de script. (today / ⭐0)
 - [EdiJunior88/github-readme-streak-stats-edijunior88](https://github.com/EdiJunior88/github-readme-streak-stats-edijunior88) -  (1 day ago / ⭐0)
-- [EdiJunior88/hackathon-listaProdutos](https://github.com/EdiJunior88/hackathon-listaProdutos) - O melhor App para lista de compras (2 days ago / ⭐1)
-- [EdiJunior88/cantinho_do_bloguinho](https://github.com/EdiJunior88/cantinho_do_bloguinho) - 👨‍💻 Blog pessoal para guardar diversas informações sobre desenvolvimento e tecnologias (2 days ago / ⭐0)
-- [EdiJunior88/Imersao_React_Alura](https://github.com/EdiJunior88/Imersao_React_Alura) - Serão 5 aulas gratuitas de programação de nível intermediário para você desenvolver o Aluratube, um projeto em React para adicionar ao seu portfólio. (2 days ago / ⭐3)
 </div>
 
 <hr>
