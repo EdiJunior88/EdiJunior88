@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[Prometheus2677](https://github.com/Prometheus2677)<br>
 [54J4N](https://github.com/54J4N)<br>
 [tsukipond8531](https://github.com/tsukipond8531)<br>
 [kevinhearts](https://github.com/kevinhearts)<br>
 [monolab825](https://github.com/monolab825)<br>
-[piaocreative](https://github.com/piaocreative)<br>
 
 <hr>
   
