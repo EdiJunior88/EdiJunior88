@@ -80,11 +80,11 @@ ASTRO
 
 <div align="left">
 
-- [EdiJunior88/NewTab_Academy_Projetos](https://github.com/EdiJunior88/NewTab_Academy_Projetos) - Vamos simular experiências comuns do dia a dia da profissão, onde você irá construir projetos baseados nas demandas do mercado, terá o acompanhamento de profissionais experientes na área e desenvolverá as principais habilidades técnicas e comportamentais necessárias para iniciar sua carreira. (today / ⭐6)
-- [EdiJunior88/FreeCodeCamp_React](https://github.com/EdiJunior88/FreeCodeCamp_React) - Neste curso, você vai aprender a criar diferentes componentes do React, a gerenciar dados na forma de propriedades de estado (&#34;state props&#34;), a utilizar diferentes métodos de ciclo de vida, como o componentDidMount, e muito mais. (today / ⭐1)
+- [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (today / ⭐1)
+- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (today / ⭐1)
 - [EdiJunior88/Aluratube_v2](https://github.com/EdiJunior88/Aluratube_v2) - Um projeto que simula um app do Youtube registrando o título e url de qualquer vídeo que podem ser adicionados à página principal. (today / ⭐2)
-- [EdiJunior88/Curso_em_Video_HTML5_e_CSS3](https://github.com/EdiJunior88/Curso_em_Video_HTML5_e_CSS3) - O Curso de HTML5 e CSS3 vai ensinar a criar sites usando a linguagem de marcação hipertexto (HTML) e folhas de estilo em cascata (CSS), todas em suas versões mais recentes. Neste curso, o Professor Gustavo Guanabara criou um conjunto de vídeos, exercícios, desafios e um material de apoio em forma de e-book com 30 capítulos ao todo. (today / ⭐3)
-- [EdiJunior88/App_Inventor_Projetos_Pessoais](https://github.com/EdiJunior88/App_Inventor_Projetos_Pessoais) - Aplicativos simples baseados na ferramenta de código aberta APP INVENTOR. É um ambiente de programação de fácil utilização para os iniciantes na área de programação para celular. (today / ⭐2)
+- [EdiJunior88/cantinho_do_bloguinho](https://github.com/EdiJunior88/cantinho_do_bloguinho) - 👨‍💻 Blog pessoal para guardar diversas informações sobre desenvolvimento e tecnologias (today / ⭐0)
+- [EdiJunior88/Balta.io_Comecando_com_Angular](https://github.com/EdiJunior88/Balta.io_Comecando_com_Angular) - O curso aborda todos os conceitos fundamentais do Angular e, aprendendo os conceitos fundamentais, você poderá utilizá-los em todas as versões mais recentes do Framework. (today / ⭐0)
 </div>
 
 <hr>
