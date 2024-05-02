@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[decoderwhoami](https://github.com/decoderwhoami)<br>
 [libraiger](https://github.com/libraiger)<br>
 [kirannasim](https://github.com/kirannasim)<br>
 [Prometheus2677](https://github.com/Prometheus2677)<br>
 [tsukipond8531](https://github.com/tsukipond8531)<br>
-[kevinhearts](https://github.com/kevinhearts)<br>
 
 <hr>
   
