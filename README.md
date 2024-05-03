@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[Rez4-4](https://github.com/Rez4-4)<br>
 [fo110wme4f0llowu](https://github.com/fo110wme4f0llowu)<br>
 [decoderwhoami](https://github.com/decoderwhoami)<br>
 [libraiger](https://github.com/libraiger)<br>
 [kirannasim](https://github.com/kirannasim)<br>
-[Prometheus2677](https://github.com/Prometheus2677)<br>
 
 <hr>
   
