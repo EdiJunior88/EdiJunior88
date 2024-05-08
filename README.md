@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[omololevy](https://github.com/omololevy)<br>
 [Kiyarash17](https://github.com/Kiyarash17)<br>
 [omermertkaya](https://github.com/omermertkaya)<br>
 [Rez4-4](https://github.com/Rez4-4)<br>
 [decoderwhoami](https://github.com/decoderwhoami)<br>
-[libraiger](https://github.com/libraiger)<br>
 
 <hr>
   
