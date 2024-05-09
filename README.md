@@ -205,10 +205,10 @@ ASTRO
 <h3>👯 Seguidores Recentes</h3>
 
 [luanrramos](https://github.com/luanrramos)<br>
-[alirezajavadigit](https://github.com/alirezajavadigit)<br>
 [Mach-Levi](https://github.com/Mach-Levi)<br>
 [omololevy](https://github.com/omololevy)<br>
 [Kiyarash17](https://github.com/Kiyarash17)<br>
+[omermertkaya](https://github.com/omermertkaya)<br>
 
 <hr>
   
