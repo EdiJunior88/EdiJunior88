@@ -80,9 +80,9 @@ ASTRO
 
 <div align="left">
 
-- [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (1 week ago / ⭐1)
-- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (1 week ago / ⭐1)
-- [EdiJunior88/cantinho_do_bloguinho](https://github.com/EdiJunior88/cantinho_do_bloguinho) - 👨‍💻 Blog pessoal para guardar diversas informações sobre desenvolvimento e tecnologias (1 week ago / ⭐0)
+- [EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado](https://github.com/EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado) - Neste curso irá descobrir o jeito mais moderno de desenvolver aplicações web e sistemas web, você vai aprender a criar aplicações completas do extremo zero e entendendo na prática a usar todo poder e recurso do ReactJS e NextJS. (today / ⭐0)
+- [EdiJunior88/Hcode_Cafe_Next.js_13_Potencialize_suas_Aplicacoes](https://github.com/EdiJunior88/Hcode_Cafe_Next.js_13_Potencialize_suas_Aplicacoes) - Junte-se a nós nesta empolgante live e explore o Next.js 13, a mais recente versão da poderosa estrutura de desenvolvimento web. (today / ⭐0)
+- [EdiJunior88/learncafe_Microsoft_C_Sharp](https://github.com/EdiJunior88/learncafe_Microsoft_C_Sharp) - O curso C# é desenvolvido no Visual Studio 2012 e contém 53 aulas, sendo 25 básicas e 28 avançadas. O curso te dará suporte para trabalhar com os códigos e comandos em C#, tanto voltado para linguagem em si quanto voltado para a área do Visual Studio (1 week ago / ⭐1)
 - [EdiJunior88/Balta.io_Comecando_com_Angular](https://github.com/EdiJunior88/Balta.io_Comecando_com_Angular) - O curso aborda todos os conceitos fundamentais do Angular e, aprendendo os conceitos fundamentais, você poderá utilizá-los em todas as versões mais recentes do Framework. (1 week ago / ⭐0)
 - [EdiJunior88/Aluratube_v2](https://github.com/EdiJunior88/Aluratube_v2) - Um projeto que simula um app do Youtube registrando o título e url de qualquer vídeo que podem ser adicionados à página principal. (1 week ago / ⭐2)
 </div>
