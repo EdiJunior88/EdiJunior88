@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[lucasgcmarques](https://github.com/lucasgcmarques)<br>
 [MissDayane](https://github.com/MissDayane)<br>
 [Leonardolira01](https://github.com/Leonardolira01)<br>
 [abdulkareemm](https://github.com/abdulkareemm)<br>
 [luanrramos](https://github.com/luanrramos)<br>
-[Mach-Levi](https://github.com/Mach-Levi)<br>
 
 <hr>
   
