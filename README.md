@@ -204,8 +204,8 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
-[abdulkareemm](https://github.com/abdulkareemm)<br>
 [Leonardolira01](https://github.com/Leonardolira01)<br>
+[abdulkareemm](https://github.com/abdulkareemm)<br>
 [luanrramos](https://github.com/luanrramos)<br>
 [Mach-Levi](https://github.com/Mach-Levi)<br>
 [omololevy](https://github.com/omololevy)<br>
