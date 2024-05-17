@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[paula-uxengineer](https://github.com/paula-uxengineer)<br>
 [luanrramos](https://github.com/luanrramos)<br>
 [Isis-gsantos](https://github.com/Isis-gsantos)<br>
 [lucasgcmarques](https://github.com/lucasgcmarques)<br>
 [MissDayane](https://github.com/MissDayane)<br>
-[Leonardolira01](https://github.com/Leonardolira01)<br>
 
 <hr>
   
