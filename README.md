@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[MrArnaudMichel](https://github.com/MrArnaudMichel)<br>
 [Rafaelmdcarneiro](https://github.com/Rafaelmdcarneiro)<br>
 [razaafazal](https://github.com/razaafazal)<br>
 [paula-uxengineer](https://github.com/paula-uxengineer)<br>
 [luanrramos](https://github.com/luanrramos)<br>
-[Isis-gsantos](https://github.com/Isis-gsantos)<br>
 
 <hr>
   
