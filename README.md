@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[the1Riddle](https://github.com/the1Riddle)<br>
 [Puneetsharma5525](https://github.com/Puneetsharma5525)<br>
 [dougkalash](https://github.com/dougkalash)<br>
 [MrArnaudMichel](https://github.com/MrArnaudMichel)<br>
 [razaafazal](https://github.com/razaafazal)<br>
-[paula-uxengineer](https://github.com/paula-uxengineer)<br>
 
 <hr>
   
