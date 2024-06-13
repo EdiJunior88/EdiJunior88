@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[x3ric](https://github.com/x3ric)<br>
 [MeymounB](https://github.com/MeymounB)<br>
 [alxkm](https://github.com/alxkm)<br>
 [dev188007](https://github.com/dev188007)<br>
 [md-sazzadul-islam](https://github.com/md-sazzadul-islam)<br>
-[pagimos](https://github.com/pagimos)<br>
 
 <hr>
   
