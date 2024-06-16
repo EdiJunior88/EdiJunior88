@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[jackjulla](https://github.com/jackjulla)<br>
 [mrrust77](https://github.com/mrrust77)<br>
 [x3ric](https://github.com/x3ric)<br>
 [MeymounB](https://github.com/MeymounB)<br>
 [alxkm](https://github.com/alxkm)<br>
-[dev188007](https://github.com/dev188007)<br>
 
 <hr>
   
