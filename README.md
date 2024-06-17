@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[kazupot7](https://github.com/kazupot7)<br>
 [johnsmith0212](https://github.com/johnsmith0212)<br>
 [ishida0415](https://github.com/ishida0415)<br>
 [hitosisasaki](https://github.com/hitosisasaki)<br>
 [jackjulla](https://github.com/jackjulla)<br>
-[mrrust77](https://github.com/mrrust77)<br>
 
 <hr>
   
