@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[sreya-satheesh](https://github.com/sreya-satheesh)<br>
 [web3batman](https://github.com/web3batman)<br>
 [kentaurse](https://github.com/kentaurse)<br>
 [TonhoDB](https://github.com/TonhoDB)<br>
 [kazupot7](https://github.com/kazupot7)<br>
-[johnsmith0212](https://github.com/johnsmith0212)<br>
 
 <hr>
   
