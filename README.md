@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[NobleMajo](https://github.com/NobleMajo)<br>
 [blocage](https://github.com/blocage)<br>
 [instrik](https://github.com/instrik)<br>
 [web3batman](https://github.com/web3batman)<br>
 [kentaurse](https://github.com/kentaurse)<br>
-[SysAdminHeal](https://github.com/SysAdminHeal)<br>
 
 <hr>
   
