@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[blocage](https://github.com/blocage)<br>
 [qpeckin](https://github.com/qpeckin)<br>
 [satokihanada](https://github.com/satokihanada)<br>
 [lind0118](https://github.com/lind0118)<br>
 [sk66641](https://github.com/sk66641)<br>
-[sk466366](https://github.com/sk466366)<br>
 
 <hr>
   
