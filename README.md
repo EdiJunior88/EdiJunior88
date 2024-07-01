@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[hu8813](https://github.com/hu8813)<br>
 [LeandroDukievicz](https://github.com/LeandroDukievicz)<br>
 [qpeckin](https://github.com/qpeckin)<br>
 [satokihanada](https://github.com/satokihanada)<br>
 [lind0118](https://github.com/lind0118)<br>
-[sk66641](https://github.com/sk66641)<br>
 
 <hr>
   
