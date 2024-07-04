@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
-[blocage](https://github.com/blocage)<br>
 [hotcoding85](https://github.com/hotcoding85)<br>
 [hu8813](https://github.com/hu8813)<br>
 [LeandroDukievicz](https://github.com/LeandroDukievicz)<br>
 [qpeckin](https://github.com/qpeckin)<br>
+[satokihanada](https://github.com/satokihanada)<br>
 
 <hr>
   
