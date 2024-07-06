@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[blocage](https://github.com/blocage)<br>
 [Mohamedpr0](https://github.com/Mohamedpr0)<br>
 [Daynlight](https://github.com/Daynlight)<br>
 [hotcoding85](https://github.com/hotcoding85)<br>
 [hu8813](https://github.com/hu8813)<br>
-[LeandroDukievicz](https://github.com/LeandroDukievicz)<br>
 
 <hr>
   
