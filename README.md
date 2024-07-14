@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[smileysunshinesky](https://github.com/smileysunshinesky)<br>
 [JamesRyo](https://github.com/JamesRyo)<br>
 [RustChainBuilder](https://github.com/RustChainBuilder)<br>
 [md-sazzadul-islam](https://github.com/md-sazzadul-islam)<br>
 [x3ric](https://github.com/x3ric)<br>
-[TALLESGIT](https://github.com/TALLESGIT)<br>
 
 <hr>
   
