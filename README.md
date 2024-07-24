@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[Charles-Chrismann](https://github.com/Charles-Chrismann)<br>
 [nobbydoo80](https://github.com/nobbydoo80)<br>
 [ViniciusBenetti](https://github.com/ViniciusBenetti)<br>
 [smileysunshinesky](https://github.com/smileysunshinesky)<br>
 [JamesRyo](https://github.com/JamesRyo)<br>
-[RustChainBuilder](https://github.com/RustChainBuilder)<br>
 
 <hr>
   
