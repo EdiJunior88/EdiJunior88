@@ -205,10 +205,10 @@ ASTRO
 <h3>👯 Seguidores Recentes</h3>
 
 [zinping](https://github.com/zinping)<br>
-[blocage](https://github.com/blocage)<br>
 [WhityGhost](https://github.com/WhityGhost)<br>
 [Charles-Chrismann](https://github.com/Charles-Chrismann)<br>
 [nobbydoo80](https://github.com/nobbydoo80)<br>
+[ViniciusBenetti](https://github.com/ViniciusBenetti)<br>
 
 <hr>
   
