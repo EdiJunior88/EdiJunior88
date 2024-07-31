@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[iloveryuux](https://github.com/iloveryuux)<br>
 [zinping](https://github.com/zinping)<br>
 [WhityGhost](https://github.com/WhityGhost)<br>
 [Charles-Chrismann](https://github.com/Charles-Chrismann)<br>
 [nobbydoo80](https://github.com/nobbydoo80)<br>
-[ViniciusBenetti](https://github.com/ViniciusBenetti)<br>
 
 <hr>
   
