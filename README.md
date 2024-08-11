@@ -208,7 +208,7 @@ ASTRO
 [xopaz](https://github.com/xopaz)<br>
 [anti-dominator](https://github.com/anti-dominator)<br>
 [zinping](https://github.com/zinping)<br>
-[WhityGhost](https://github.com/WhityGhost)<br>
+[Charles-Chrismann](https://github.com/Charles-Chrismann)<br>
 
 <hr>
   
