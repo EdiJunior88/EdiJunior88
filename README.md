@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[0xbnck](https://github.com/0xbnck)<br>
 [feder-cr](https://github.com/feder-cr)<br>
 [xopaz](https://github.com/xopaz)<br>
 [anti-dominator](https://github.com/anti-dominator)<br>
 [zinping](https://github.com/zinping)<br>
-[Charles-Chrismann](https://github.com/Charles-Chrismann)<br>
 
 <hr>
   
