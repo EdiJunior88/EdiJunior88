@@ -207,7 +207,7 @@ ASTRO
 [0xbnck](https://github.com/0xbnck)<br>
 [feder-cr](https://github.com/feder-cr)<br>
 [xopaz](https://github.com/xopaz)<br>
-[anti-dominator](https://github.com/anti-dominator)<br>
+[solkeen](https://github.com/solkeen)<br>
 [zinping](https://github.com/zinping)<br>
 
 <hr>
