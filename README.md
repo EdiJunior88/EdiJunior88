@@ -205,10 +205,10 @@ ASTRO
 <h3>👯 Seguidores Recentes</h3>
 
 [GabrielAlvesBM](https://github.com/GabrielAlvesBM)<br>
-[feder-cr](https://github.com/feder-cr)<br>
 [xopaz](https://github.com/xopaz)<br>
 [solkeen](https://github.com/solkeen)<br>
 [zinping](https://github.com/zinping)<br>
+[Charles-Chrismann](https://github.com/Charles-Chrismann)<br>
 
 <hr>
   
