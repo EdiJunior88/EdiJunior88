@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[blocage](https://github.com/blocage)<br>
 [GabrielAlvesBM](https://github.com/GabrielAlvesBM)<br>
 [xopaz](https://github.com/xopaz)<br>
 [solkeen](https://github.com/solkeen)<br>
 [zinping](https://github.com/zinping)<br>
-[Charles-Chrismann](https://github.com/Charles-Chrismann)<br>
 
 <hr>
   
