@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
-[blocage](https://github.com/blocage)<br>
 [Rahulthhkur](https://github.com/Rahulthhkur)<br>
 [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)<br>
 [seniorvuejsdeveloper](https://github.com/seniorvuejsdeveloper)<br>
 [GabrielAlvesBM](https://github.com/GabrielAlvesBM)<br>
+[xopaz](https://github.com/xopaz)<br>
 
 <hr>
   
