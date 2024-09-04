@@ -80,11 +80,11 @@ ASTRO
 
 <div align="left">
 
-- [EdiJunior88/Previsao_do_Tempo](https://github.com/EdiJunior88/Previsao_do_Tempo) - ☀️ Um projeto que consulta em tempo real os dados meteorológicos da sua região (today / ⭐0)
+- [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (today / ⭐1)
 - [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (today / ⭐1)
+- [EdiJunior88/Balta.io_Comecando_com_Angular](https://github.com/EdiJunior88/Balta.io_Comecando_com_Angular) - O curso aborda todos os conceitos fundamentais do Angular e, aprendendo os conceitos fundamentais, você poderá utilizá-los em todas as versões mais recentes do Framework. (today / ⭐0)
 - [EdiJunior88/Hcode_Cafe_Next.js_13_Potencialize_suas_Aplicacoes](https://github.com/EdiJunior88/Hcode_Cafe_Next.js_13_Potencialize_suas_Aplicacoes) - Junte-se a nós nesta empolgante live e explore o Next.js 13, a mais recente versão da poderosa estrutura de desenvolvimento web. (today / ⭐0)
 - [EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado](https://github.com/EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado) - Neste curso irá descobrir o jeito mais moderno de desenvolver aplicações web e sistemas web, você vai aprender a criar aplicações completas do extremo zero e entendendo na prática a usar todo poder e recurso do ReactJS e NextJS. (today / ⭐0)
-- [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (today / ⭐1)
 </div>
 
 <hr>
