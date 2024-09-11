@@ -204,7 +204,7 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
-[ViniciusMGodinho](https://github.com/ViniciusMGodinho)<br>
+[vinimagod](https://github.com/vinimagod)<br>
 [7CodeWizard](https://github.com/7CodeWizard)<br>
 [ogunsoladebayo](https://github.com/ogunsoladebayo)<br>
 [xmoohad](https://github.com/xmoohad)<br>
