@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
-[blocage](https://github.com/blocage)<br>
 [Mathenge-Alex](https://github.com/Mathenge-Alex)<br>
 [vinimagod](https://github.com/vinimagod)<br>
 [7CodeWizard](https://github.com/7CodeWizard)<br>
 [ogunsoladebayo](https://github.com/ogunsoladebayo)<br>
+[xmoohad](https://github.com/xmoohad)<br>
 
 <hr>
   
