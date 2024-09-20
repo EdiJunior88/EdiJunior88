@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[sol-wiz](https://github.com/sol-wiz)<br>
 [despicableGruu](https://github.com/despicableGruu)<br>
 [qpeckin](https://github.com/qpeckin)<br>
 [Mathenge-Alex](https://github.com/Mathenge-Alex)<br>
 [vinimagod](https://github.com/vinimagod)<br>
-[7CodeWizard](https://github.com/7CodeWizard)<br>
 
 <hr>
   
