@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[blocage](https://github.com/blocage)<br>
 [larissadcew](https://github.com/larissadcew)<br>
 [sol-wiz](https://github.com/sol-wiz)<br>
 [despicableGruu](https://github.com/despicableGruu)<br>
 [qpeckin](https://github.com/qpeckin)<br>
-[Mathenge-Alex](https://github.com/Mathenge-Alex)<br>
 
 <hr>
   
