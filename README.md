@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
-[dougkalash](https://github.com/dougkalash)<br>
 [veryhari](https://github.com/veryhari)<br>
 [mustafacagri](https://github.com/mustafacagri)<br>
 [guiDevAmaral](https://github.com/guiDevAmaral)<br>
 [larissadcew](https://github.com/larissadcew)<br>
+[qpeckin](https://github.com/qpeckin)<br>
 
 <hr>
   
