@@ -204,7 +204,7 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
-[renominated](https://github.com/renominated)<br>
+[befoulers](https://github.com/befoulers)<br>
 [ByteXenon](https://github.com/ByteXenon)<br>
 [veryhari](https://github.com/veryhari)<br>
 [mustafacagri](https://github.com/mustafacagri)<br>
