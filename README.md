@@ -205,10 +205,10 @@ ASTRO
 <h3>👯 Seguidores Recentes</h3>
 
 [ClashProgrammer](https://github.com/ClashProgrammer)<br>
-[x3ric](https://github.com/x3ric)<br>
 [befoulers](https://github.com/befoulers)<br>
 [ByteXenon](https://github.com/ByteXenon)<br>
 [veryhari](https://github.com/veryhari)<br>
+[mustafacagri](https://github.com/mustafacagri)<br>
 
 <hr>
   
