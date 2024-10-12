@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
-[blocage](https://github.com/blocage)<br>
 [Rez4-3yz](https://github.com/Rez4-3yz)<br>
 [ClashProgrammer](https://github.com/ClashProgrammer)<br>
 [befoulers](https://github.com/befoulers)<br>
 [veryhari](https://github.com/veryhari)<br>
+[mustafacagri](https://github.com/mustafacagri)<br>
 
 <hr>
   
