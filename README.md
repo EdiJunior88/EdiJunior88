@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[Prdsilva80](https://github.com/Prdsilva80)<br>
 [GabrielManicucci](https://github.com/GabrielManicucci)<br>
 [CoderTrinh](https://github.com/CoderTrinh)<br>
 [Rez4-3yz](https://github.com/Rez4-3yz)<br>
 [ClashProgrammer](https://github.com/ClashProgrammer)<br>
-[befoulers](https://github.com/befoulers)<br>
 
 <hr>
   
