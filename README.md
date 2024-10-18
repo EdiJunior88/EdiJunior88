@@ -204,7 +204,7 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
-[blocage](https://github.com/blocage)<br>
+[sh1n3sh1n3](https://github.com/sh1n3sh1n3)<br>
 [CelaDaniel](https://github.com/CelaDaniel)<br>
 [Prdsilva80](https://github.com/Prdsilva80)<br>
 [GabrielManicucci](https://github.com/GabrielManicucci)<br>
