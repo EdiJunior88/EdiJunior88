@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[blocage](https://github.com/blocage)<br>
 [CelaDaniel](https://github.com/CelaDaniel)<br>
 [Prdsilva80](https://github.com/Prdsilva80)<br>
 [GabrielManicucci](https://github.com/GabrielManicucci)<br>
 [CoderTrinh](https://github.com/CoderTrinh)<br>
-[Rez4-3yz](https://github.com/Rez4-3yz)<br>
 
 <hr>
   
