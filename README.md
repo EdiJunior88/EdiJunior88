@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[idimetrix](https://github.com/idimetrix)<br>
 [sh1n3sh1n3](https://github.com/sh1n3sh1n3)<br>
 [CelaDaniel](https://github.com/CelaDaniel)<br>
 [Prdsilva80](https://github.com/Prdsilva80)<br>
 [GabrielManicucci](https://github.com/GabrielManicucci)<br>
-[CoderTrinh](https://github.com/CoderTrinh)<br>
 
 <hr>
   
