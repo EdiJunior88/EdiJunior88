@@ -80,11 +80,11 @@ ASTRO
 
 <div align="left">
 
-- [EdiJunior88/NewTab_Academy_Projeto_Individual_PHP](https://github.com/EdiJunior88/NewTab_Academy_Projeto_Individual_PHP) - O projeto consiste em implementar uma aplicação web a partir de uma modelagem de dados inicial desnormalizada, que deve ser normalizada para a implementação da solução. (2 weeks ago / ⭐1)
-- [EdiJunior88/Balta.io_Comecando_com_Angular](https://github.com/EdiJunior88/Balta.io_Comecando_com_Angular) - O curso aborda todos os conceitos fundamentais do Angular e, aprendendo os conceitos fundamentais, você poderá utilizá-los em todas as versões mais recentes do Framework. (2 weeks ago / ⭐0)
-- [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (2 weeks ago / ⭐1)
-- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (2 weeks ago / ⭐1)
-- [EdiJunior88/GitHub_Finder](https://github.com/EdiJunior88/GitHub_Finder) - Um projeto que utiliza a API do GitHub para buscar um usuário e mostrar os 5 melhores repositórios com mais estrelas (2 weeks ago / ⭐1)
+- [EdiJunior88/NewTab_Academy_Projeto_Individual_PHP](https://github.com/EdiJunior88/NewTab_Academy_Projeto_Individual_PHP) - O projeto consiste em implementar uma aplicação web a partir de uma modelagem de dados inicial desnormalizada, que deve ser normalizada para a implementação da solução. (3 weeks ago / ⭐1)
+- [EdiJunior88/Balta.io_Comecando_com_Angular](https://github.com/EdiJunior88/Balta.io_Comecando_com_Angular) - O curso aborda todos os conceitos fundamentais do Angular e, aprendendo os conceitos fundamentais, você poderá utilizá-los em todas as versões mais recentes do Framework. (3 weeks ago / ⭐0)
+- [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (3 weeks ago / ⭐1)
+- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (3 weeks ago / ⭐1)
+- [EdiJunior88/GitHub_Finder](https://github.com/EdiJunior88/GitHub_Finder) - Um projeto que utiliza a API do GitHub para buscar um usuário e mostrar os 5 melhores repositórios com mais estrelas (3 weeks ago / ⭐1)
 </div>
 
 <hr>
@@ -207,7 +207,7 @@ ASTRO
 [CombiningIdeas](https://github.com/CombiningIdeas)<br>
 [M4rc05-wq](https://github.com/M4rc05-wq)<br>
 [idimetrix](https://github.com/idimetrix)<br>
-[sh1n3sh1n3](https://github.com/sh1n3sh1n3)<br>
+[sword208](https://github.com/sword208)<br>
 [CelaDaniel](https://github.com/CelaDaniel)<br>
 
 <hr>
