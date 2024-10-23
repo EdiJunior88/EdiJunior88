@@ -204,11 +204,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[Tohidkhan6332](https://github.com/Tohidkhan6332)<br>
 [CombiningIdeas](https://github.com/CombiningIdeas)<br>
 [M4rc05-wq](https://github.com/M4rc05-wq)<br>
 [idimetrix](https://github.com/idimetrix)<br>
 [luckysw0rd](https://github.com/luckysw0rd)<br>
-[CelaDaniel](https://github.com/CelaDaniel)<br>
 
 <hr>
   
