@@ -206,8 +206,8 @@ ASTRO
 [lollocenne](https://github.com/lollocenne)<br>
 [eust-w](https://github.com/eust-w)<br>
 [Armi-nn](https://github.com/Armi-nn)<br>
-[byigitt](https://github.com/byigitt)<br>
 [mahakkhajeh](https://github.com/mahakkhajeh)<br>
+[Connor9994](https://github.com/Connor9994)<br>
 
 <hr>
   
