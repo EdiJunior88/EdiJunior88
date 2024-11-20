@@ -203,11 +203,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[Daniolet](https://github.com/Daniolet)<br>
 [alexrein914](https://github.com/alexrein914)<br>
 [Kevindevstar](https://github.com/Kevindevstar)<br>
 [lollocenne](https://github.com/lollocenne)<br>
 [eust-w](https://github.com/eust-w)<br>
-[mahakkhajeh](https://github.com/mahakkhajeh)<br>
 
 <hr>
   
