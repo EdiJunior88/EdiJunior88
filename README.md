@@ -203,11 +203,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[meliksahyorulmazlar](https://github.com/meliksahyorulmazlar)<br>
 [SilvaLimaAmanda1](https://github.com/SilvaLimaAmanda1)<br>
 [Ninja1375](https://github.com/Ninja1375)<br>
 [mi6paulino](https://github.com/mi6paulino)<br>
 [alexrein914](https://github.com/alexrein914)<br>
-[Kevindevstar](https://github.com/Kevindevstar)<br>
 
 <hr>
   
