@@ -203,11 +203,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[DragonLee321](https://github.com/DragonLee321)<br>
 [AlphaCoX](https://github.com/AlphaCoX)<br>
 [meliksahyorulmazlar](https://github.com/meliksahyorulmazlar)<br>
 [SilvaLimaAmanda1](https://github.com/SilvaLimaAmanda1)<br>
 [Ninja1375](https://github.com/Ninja1375)<br>
-[mi6paulino](https://github.com/mi6paulino)<br>
 
 <hr>
   
