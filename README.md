@@ -79,10 +79,10 @@ ASTRO
 
 <div align="left">
 
-- [EdiJunior88/github-readme-streak-stats-edijunior88](https://github.com/EdiJunior88/github-readme-streak-stats-edijunior88) -  (2 days ago / ⭐0)
-- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (2 days ago / ⭐1)
-- [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (2 days ago / ⭐1)
-- [EdiJunior88/Previsao_do_Tempo](https://github.com/EdiJunior88/Previsao_do_Tempo) - ☀️ Um projeto que consulta em tempo real os dados meteorológicos da sua região (2 days ago / ⭐0)
+- [EdiJunior88/github-readme-streak-stats-edijunior88](https://github.com/EdiJunior88/github-readme-streak-stats-edijunior88) -  (3 days ago / ⭐0)
+- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (3 days ago / ⭐1)
+- [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (3 days ago / ⭐1)
+- [EdiJunior88/Previsao_do_Tempo](https://github.com/EdiJunior88/Previsao_do_Tempo) - ☀️ Um projeto que consulta em tempo real os dados meteorológicos da sua região (3 days ago / ⭐0)
 - [EdiJunior88/NewTab_Academy_Projetos](https://github.com/EdiJunior88/NewTab_Academy_Projetos) - Vamos simular experiências comuns do dia a dia da profissão, onde você irá construir projetos baseados nas demandas do mercado, terá o acompanhamento de profissionais experientes na área e desenvolverá as principais habilidades técnicas e comportamentais necessárias para iniciar sua carreira. (1 week ago / ⭐6)
 </div>
 
