@@ -206,8 +206,8 @@ ASTRO
 [odest](https://github.com/odest)<br>
 [GoldenDev321](https://github.com/GoldenDev321)<br>
 [AlphaCoX](https://github.com/AlphaCoX)<br>
-[meliksahyorulmazlar](https://github.com/meliksahyorulmazlar)<br>
 [SilvaLimaAmanda1](https://github.com/SilvaLimaAmanda1)<br>
+[Ninja1375](https://github.com/Ninja1375)<br>
 
 <hr>
   
