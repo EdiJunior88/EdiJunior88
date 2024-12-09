@@ -203,11 +203,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[meliksahyorulmazlar](https://github.com/meliksahyorulmazlar)<br>
 [hangga](https://github.com/hangga)<br>
 [XiaomingX](https://github.com/XiaomingX)<br>
 [odest](https://github.com/odest)<br>
 [GoldenDev321](https://github.com/GoldenDev321)<br>
-[AlphaCoX](https://github.com/AlphaCoX)<br>
 
 <hr>
   
