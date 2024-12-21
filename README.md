@@ -203,11 +203,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[iroot3](https://github.com/iroot3)<br>
 [yyle88](https://github.com/yyle88)<br>
 [bambangkred](https://github.com/bambangkred)<br>
 [Prdsilva80](https://github.com/Prdsilva80)<br>
 [XiaomingX](https://github.com/XiaomingX)<br>
-[GoldenDev321](https://github.com/GoldenDev321)<br>
 
 <hr>
   
