@@ -204,10 +204,10 @@ ASTRO
 <h3>👯 Seguidores Recentes</h3>
 
 [mowhn](https://github.com/mowhn)<br>
-[KevinTrinh1227](https://github.com/KevinTrinh1227)<br>
 [iroot3](https://github.com/iroot3)<br>
 [yyle88](https://github.com/yyle88)<br>
 [bambangkred](https://github.com/bambangkred)<br>
+[Prdsilva80](https://github.com/Prdsilva80)<br>
 
 <hr>
   
