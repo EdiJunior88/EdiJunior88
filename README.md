@@ -203,11 +203,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[karr-x1](https://github.com/karr-x1)<br>
 [mooosakhan](https://github.com/mooosakhan)<br>
 [MohamedKrd](https://github.com/MohamedKrd)<br>
 [mowhn](https://github.com/mowhn)<br>
 [iroot3](https://github.com/iroot3)<br>
-[yyle88](https://github.com/yyle88)<br>
 
 <hr>
   
