@@ -79,7 +79,7 @@ ASTRO
 
 <div align="left">
 
-- [EdiJunior88/NewTab_Academy_Projetos](https://github.com/EdiJunior88/NewTab_Academy_Projetos) - Vamos simular experiências comuns do dia a dia da profissão, onde você irá construir projetos baseados nas demandas do mercado, terá o acompanhamento de profissionais experientes na área e desenvolverá as principais habilidades técnicas e comportamentais necessárias para iniciar sua carreira. (1 day ago / ⭐6)
+- [EdiJunior88/NewTab_Academy_Projetos](https://github.com/EdiJunior88/NewTab_Academy_Projetos) - Vamos simular experiências comuns do dia a dia da profissão, onde você irá construir projetos baseados nas demandas do mercado, terá o acompanhamento de profissionais experientes na área e desenvolverá as principais habilidades técnicas e comportamentais necessárias para iniciar sua carreira. (2 days ago / ⭐6)
 - [EdiJunior88/Projeto-hashtagFinder](https://github.com/EdiJunior88/Projeto-hashtagFinder) - A aplicação HashtagFinder tem por objetivo realizar buscas de posts e imagens a partir da integração com a API do Twitter. Os resultados da busca são exibidos em uma lista organizada com as 10 postagens mais recentes. (1 week ago / ⭐1)
 - [EdiJunior88/Balta.io_Comecando_com_Angular](https://github.com/EdiJunior88/Balta.io_Comecando_com_Angular) - O curso aborda todos os conceitos fundamentais do Angular e, aprendendo os conceitos fundamentais, você poderá utilizá-los em todas as versões mais recentes do Framework. (1 week ago / ⭐0)
 - [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (1 week ago / ⭐1)
