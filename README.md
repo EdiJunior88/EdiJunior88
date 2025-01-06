@@ -79,11 +79,11 @@ ASTRO
 
 <div align="left">
 
-- [EdiJunior88/GitHub_Finder](https://github.com/EdiJunior88/GitHub_Finder) - Um projeto que utiliza a API do GitHub para buscar um usuário e mostrar os 5 melhores repositórios com mais estrelas (3 days ago / ⭐1)
-- [EdiJunior88/NewTab_Academy_Projetos](https://github.com/EdiJunior88/NewTab_Academy_Projetos) - Vamos simular experiências comuns do dia a dia da profissão, onde você irá construir projetos baseados nas demandas do mercado, terá o acompanhamento de profissionais experientes na área e desenvolverá as principais habilidades técnicas e comportamentais necessárias para iniciar sua carreira. (3 days ago / ⭐6)
-- [EdiJunior88/Previsao_do_Tempo](https://github.com/EdiJunior88/Previsao_do_Tempo) - ☀️ Um projeto que consulta em tempo real os dados meteorológicos da sua região (4 days ago / ⭐0)
-- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (4 days ago / ⭐1)
-- [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (4 days ago / ⭐1)
+- [EdiJunior88/GitHub_Finder](https://github.com/EdiJunior88/GitHub_Finder) - Um projeto que utiliza a API do GitHub para buscar um usuário e mostrar os 5 melhores repositórios com mais estrelas (4 days ago / ⭐1)
+- [EdiJunior88/NewTab_Academy_Projetos](https://github.com/EdiJunior88/NewTab_Academy_Projetos) - Vamos simular experiências comuns do dia a dia da profissão, onde você irá construir projetos baseados nas demandas do mercado, terá o acompanhamento de profissionais experientes na área e desenvolverá as principais habilidades técnicas e comportamentais necessárias para iniciar sua carreira. (4 days ago / ⭐6)
+- [EdiJunior88/Previsao_do_Tempo](https://github.com/EdiJunior88/Previsao_do_Tempo) - ☀️ Um projeto que consulta em tempo real os dados meteorológicos da sua região (5 days ago / ⭐0)
+- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (5 days ago / ⭐1)
+- [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (5 days ago / ⭐1)
 </div>
 
 <hr>
