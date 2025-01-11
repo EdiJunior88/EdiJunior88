@@ -203,11 +203,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
-[blocage](https://github.com/blocage)<br>
 [itsKayWat](https://github.com/itsKayWat)<br>
 [karr-x1](https://github.com/karr-x1)<br>
 [mooosakhan](https://github.com/mooosakhan)<br>
 [MohamedKrd](https://github.com/MohamedKrd)<br>
+[iroot3](https://github.com/iroot3)<br>
 
 <hr>
   
