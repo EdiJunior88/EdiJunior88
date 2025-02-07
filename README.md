@@ -79,9 +79,9 @@ ASTRO
 
 <div align="left">
 
+- [EdiJunior88/Testes_React_com_Vitest_e_Testing_Library](https://github.com/EdiJunior88/Testes_React_com_Vitest_e_Testing_Library) -  (today / ⭐0)
+- [EdiJunior88/Casa_do_Codigo_VueJS](https://github.com/EdiJunior88/Casa_do_Codigo_VueJS) - Neste livro, você vai aprender a sintaxe do Vue.js 2.0, como funcionam seus componentes e métodos, como integrar com APIs externas e criar rotas, e muito mais! (today / ⭐1)
 - [EdiJunior88/github-readme-streak-stats-edijunior88](https://github.com/EdiJunior88/github-readme-streak-stats-edijunior88) -  (3 days ago / ⭐0)
-- [EdiJunior88/GitHub_Finder](https://github.com/EdiJunior88/GitHub_Finder) - Um projeto que utiliza a API do GitHub para buscar um usuário e mostrar os 5 melhores repositórios com mais estrelas (5 days ago / ⭐1)
-- [EdiJunior88/Previsao_do_Tempo](https://github.com/EdiJunior88/Previsao_do_Tempo) - ☀️ Um projeto que consulta em tempo real os dados meteorológicos da sua região (5 days ago / ⭐0)
 - [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (5 days ago / ⭐1)
 - [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (5 days ago / ⭐1)
 </div>
