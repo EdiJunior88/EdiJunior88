@@ -203,11 +203,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[hipolitorodrigues](https://github.com/hipolitorodrigues)<br>
 [isantander](https://github.com/isantander)<br>
 [virtusdevx](https://github.com/virtusdevx)<br>
 [befoulers](https://github.com/befoulers)<br>
 [XiaomingX](https://github.com/XiaomingX)<br>
-[mowhn](https://github.com/mowhn)<br>
 
 <hr>
   
