@@ -203,11 +203,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[LinuxJS](https://github.com/LinuxJS)<br>
 [laurence57l](https://github.com/laurence57l)<br>
 [ehan701](https://github.com/ehan701)<br>
 [isantander](https://github.com/isantander)<br>
 [virtusdevx](https://github.com/virtusdevx)<br>
-[befoulers](https://github.com/befoulers)<br>
 
 <hr>
   
