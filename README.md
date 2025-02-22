@@ -203,11 +203,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[marcinguy](https://github.com/marcinguy)<br>
+[blocage](https://github.com/blocage)<br>
 [elhadjx](https://github.com/elhadjx)<br>
 [LinuxJS](https://github.com/LinuxJS)<br>
 [laurence57l](https://github.com/laurence57l)<br>
-[ehan701](https://github.com/ehan701)<br>
-[isantander](https://github.com/isantander)<br>
 
 <hr>
   
