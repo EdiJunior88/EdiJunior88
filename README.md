@@ -79,11 +79,11 @@ ASTRO
 
 <div align="left">
 
+- [EdiJunior88/ONE_Alura_Logica_Programacao_Javasccript](https://github.com/EdiJunior88/ONE_Alura_Logica_Programacao_Javasccript) -  (today / ⭐0)
+- [EdiJunior88/Balta.io_Comecando_com_Angular](https://github.com/EdiJunior88/Balta.io_Comecando_com_Angular) - O curso aborda todos os conceitos fundamentais do Angular e, aprendendo os conceitos fundamentais, você poderá utilizá-los em todas as versões mais recentes do Framework. (today / ⭐1)
+- [EdiJunior88/NewTab_Academy_Projetos](https://github.com/EdiJunior88/NewTab_Academy_Projetos) - Vamos simular experiências comuns do dia a dia da profissão, onde você irá construir projetos baseados nas demandas do mercado, terá o acompanhamento de profissionais experientes na área e desenvolverá as principais habilidades técnicas e comportamentais necessárias para iniciar sua carreira. (today / ⭐6)
+- [EdiJunior88/NewTab_Academy_Angular](https://github.com/EdiJunior88/NewTab_Academy_Angular) - Esse módulo nos fornece uma visão do framework Angular através de conceitos e fundamentos que irão nos ajudar no desenvolvimento de aplicações front-end. (today / ⭐1)
 - [EdiJunior88/Testes_React_com_Vitest_e_Testing_Library](https://github.com/EdiJunior88/Testes_React_com_Vitest_e_Testing_Library) -  (2 weeks ago / ⭐0)
-- [EdiJunior88/Casa_do_Codigo_VueJS](https://github.com/EdiJunior88/Casa_do_Codigo_VueJS) - Neste livro, você vai aprender a sintaxe do Vue.js 2.0, como funcionam seus componentes e métodos, como integrar com APIs externas e criar rotas, e muito mais! (2 weeks ago / ⭐1)
-- [EdiJunior88/github-readme-streak-stats-edijunior88](https://github.com/EdiJunior88/github-readme-streak-stats-edijunior88) -  (2 weeks ago / ⭐0)
-- [EdiJunior88/Consulta_Quadrinhos_v2](https://github.com/EdiJunior88/Consulta_Quadrinhos_v2) - Aqui você encontra todos as comics e heróis da Marvel (versão 2.0) (2 weeks ago / ⭐1)
-- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (2 weeks ago / ⭐1)
 </div>
 
 <hr>
@@ -204,10 +204,10 @@ ASTRO
 <h3>👯 Seguidores Recentes</h3>
 
 [marcinguy](https://github.com/marcinguy)<br>
-[blocage](https://github.com/blocage)<br>
 [elhadjx](https://github.com/elhadjx)<br>
 [LinuxJS](https://github.com/LinuxJS)<br>
 [laurence57l](https://github.com/laurence57l)<br>
+[ehan701](https://github.com/ehan701)<br>
 
 <hr>
   
