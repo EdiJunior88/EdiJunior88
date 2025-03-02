@@ -203,11 +203,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[blocage](https://github.com/blocage)<br>
 [apollon282](https://github.com/apollon282)<br>
 [wenminglee17160](https://github.com/wenminglee17160)<br>
 [Prdsilva80](https://github.com/Prdsilva80)<br>
 [marcinguy](https://github.com/marcinguy)<br>
-[elhadjx](https://github.com/elhadjx)<br>
 
 <hr>
   
