@@ -203,11 +203,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[Suzan1994](https://github.com/Suzan1994)<br>
 [psemicol](https://github.com/psemicol)<br>
 [SaadAbdElGhaffar](https://github.com/SaadAbdElGhaffar)<br>
 [apollon282](https://github.com/apollon282)<br>
 [wenminglee17160](https://github.com/wenminglee17160)<br>
-[Prdsilva80](https://github.com/Prdsilva80)<br>
 
 <hr>
   
