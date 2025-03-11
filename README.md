@@ -203,11 +203,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[AI4Networking](https://github.com/AI4Networking)<br>
+[Xmosha](https://github.com/Xmosha)<br>
 [VicTorWHoX](https://github.com/VicTorWHoX)<br>
-[martyb166](https://github.com/martyb166)<br>
+[Martyb166](https://github.com/Martyb166)<br>
 [Suzan1994](https://github.com/Suzan1994)<br>
-[psemicol](https://github.com/psemicol)<br>
-[SaadAbdElGhaffar](https://github.com/SaadAbdElGhaffar)<br>
 
 <hr>
   
