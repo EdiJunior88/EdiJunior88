@@ -203,11 +203,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[Shubh2-0](https://github.com/Shubh2-0)<br>
 [juninstudio](https://github.com/juninstudio)<br>
 [0vm](https://github.com/0vm)<br>
 [fortune-js](https://github.com/fortune-js)<br>
 [AI4Networking](https://github.com/AI4Networking)<br>
-[Xmosha](https://github.com/Xmosha)<br>
 
 <hr>
   
