@@ -203,11 +203,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[0vm](https://github.com/0vm)<br>
 [fortune-js](https://github.com/fortune-js)<br>
 [AI4Networking](https://github.com/AI4Networking)<br>
 [Xmosha](https://github.com/Xmosha)<br>
 [VicTorWHoX](https://github.com/VicTorWHoX)<br>
-[Martyb166](https://github.com/Martyb166)<br>
 
 <hr>
   
