@@ -203,11 +203,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[0vm](https://github.com/0vm)<br>
 [nullptrException100](https://github.com/nullptrException100)<br>
 [Shubh2-0](https://github.com/Shubh2-0)<br>
 [juninstudio](https://github.com/juninstudio)<br>
 [fortune-js](https://github.com/fortune-js)<br>
-[Martyb166](https://github.com/Martyb166)<br>
 
 <hr>
   
