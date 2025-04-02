@@ -206,7 +206,7 @@ ASTRO
 [scapelinked](https://github.com/scapelinked)<br>
 [0vm](https://github.com/0vm)<br>
 [nullptrException100](https://github.com/nullptrException100)<br>
-[juninstudio](https://github.com/juninstudio)<br>
+[studiomufla](https://github.com/studiomufla)<br>
 [fortune-js](https://github.com/fortune-js)<br>
 
 <hr>
