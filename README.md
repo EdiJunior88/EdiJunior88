@@ -203,11 +203,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[AttackOnMyFeelings](https://github.com/AttackOnMyFeelings)<br>
 [jahidnation](https://github.com/jahidnation)<br>
 [CodeEvolv](https://github.com/CodeEvolv)<br>
 [scapelinked](https://github.com/scapelinked)<br>
 [0vm](https://github.com/0vm)<br>
-[nullptrException100](https://github.com/nullptrException100)<br>
 
 <hr>
   
