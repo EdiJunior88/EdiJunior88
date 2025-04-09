@@ -203,11 +203,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[Ballwictb](https://github.com/Ballwictb)<br>
 [AttackOnMyFeelings](https://github.com/AttackOnMyFeelings)<br>
 [jahidnation](https://github.com/jahidnation)<br>
 [CodeEvolv](https://github.com/CodeEvolv)<br>
 [scapelinked](https://github.com/scapelinked)<br>
-[nullptrException100](https://github.com/nullptrException100)<br>
 
 <hr>
   
