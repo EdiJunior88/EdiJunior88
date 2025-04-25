@@ -182,8 +182,7 @@ ASTRO
 </td>
 
 <td>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-edijunior88.vercel.app?user=EdiJunior88&theme=neon-palenight&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-</td>
+[![GitHub Streak](https://github-readme-streak-stats-edijunior88.vercel.app?user=EdiJunior88&theme=neon-palenight&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)</td>
 </tr>
  
 <tr align="center">
