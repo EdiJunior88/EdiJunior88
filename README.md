@@ -2,7 +2,6 @@
 
 <p align="center">
 <h1><i>Olá, meu nome é Edivaldo Junior</i></h1> 
-<img src="https://i.imgur.com/uzszOEy.gif" width="60px">
 </p>
 
 <img alt="Front-End-Junior" src="https://img.shields.io/badge/FRONT--END-Web-brightgreen">
@@ -33,6 +32,9 @@
 <td align="center">
 <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="64" height="64">
 </td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/52addcaa18dfecb4df77f3ee0753dca6b98187ad/logos/astro-icon.svg" width="64" height="64">
+</td>
 </tr>
 
 <tr>
@@ -54,6 +56,9 @@ VUE.JS
 <td align="center">
 NUXT.JS
 </td>
+<td align="center">
+ASTRO
+</td>
 </tr>
 </table>
 
@@ -74,11 +79,11 @@ NUXT.JS
 
 <div align="left">
 
-- [EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes](https://github.com/EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes) - Front End, HTML, Tags, Acessibilidade, CSS, Grid Layout, Flexbox, Media Queries, Responsivo, VS Code e mais. (1 day ago / ⭐8)
-- [EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado](https://github.com/EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado) - Neste curso irá descobrir o jeito mais moderno de desenvolver aplicações web e sistemas web, você vai aprender a criar aplicações completas do extremo zero e entendendo na prática a usar todo poder e recurso do ReactJS e NextJS. (1 day ago / ⭐0)
-- [EdiJunior88/Origamid_TypeScript_Para_Iniciantes](https://github.com/EdiJunior88/Origamid_TypeScript_Para_Iniciantes) - O foco do curso é no TypeScript puro e ao final dele você sairá sabendo muito mais como o JavaScript funciona. (1 day ago / ⭐0)
-- [EdiJunior88/React_Documentacao](https://github.com/EdiJunior88/React_Documentacao) - Bem-vindo à documentação do React! Esta página fornecerá uma introdução aos 80% dos conceitos do React que você usará diariamente. (2 days ago / ⭐0)
-- [EdiJunior88/Portfolio_v2](https://github.com/EdiJunior88/Portfolio_v2) - 📚 Versão (v2.0) em VueJS/TypeScript do meu portfólio contendo as minhas informações e expeeriências (2 days ago / ⭐0)
+- [EdiJunior88/contador-de-views](https://github.com/EdiJunior88/contador-de-views) - ⏰ Contador de views do perfil do GitHub &#43; Repositórios (today / ⭐1)
+- [EdiJunior88/NewTab_Academy_Projetos](https://github.com/EdiJunior88/NewTab_Academy_Projetos) - Vamos simular experiências comuns do dia a dia da profissão, onde você irá construir projetos baseados nas demandas do mercado, terá o acompanhamento de profissionais experientes na área e desenvolverá as principais habilidades técnicas e comportamentais necessárias para iniciar sua carreira. (2 months ago / ⭐6)
+- [EdiJunior88/ONE_Alura_Logica_Programacao_Javasccript](https://github.com/EdiJunior88/ONE_Alura_Logica_Programacao_Javasccript) -  (2 months ago / ⭐0)
+- [EdiJunior88/Balta.io_Comecando_com_Angular](https://github.com/EdiJunior88/Balta.io_Comecando_com_Angular) - O curso aborda todos os conceitos fundamentais do Angular e, aprendendo os conceitos fundamentais, você poderá utilizá-los em todas as versões mais recentes do Framework. (2 months ago / ⭐1)
+- [EdiJunior88/NewTab_Academy_Angular](https://github.com/EdiJunior88/NewTab_Academy_Angular) - Esse módulo nos fornece uma visão do framework Angular através de conceitos e fundamentos que irão nos ajudar no desenvolvimento de aplicações front-end. (2 months ago / ⭐1)
 </div>
 
 <hr>
@@ -87,9 +92,11 @@ NUXT.JS
 
 <details>
 <summary>GitHub</summary> <br>
+<strong>Casa do Código - VUE</strong> - <a href="https://github.com/caioincau/todo-list/issues/2" target="_blank">https://github.com/caioincau/todo-list/issues/2</a> <br>
 <strong>World Portfolios</strong> - <a href="https://github.com/ln-dev7/world-portfolios" target="_blank">https://github.com/ln-dev7/world-portfolios</a> <br>
+<strong>TailWind CSS</strong> - <a href="https://github.com/tailwindlabs/tailwindcss/discussions/12459" target="_blank">https://github.com/tailwindlabs/tailwindcss/discussions/12459</a> <br>
 <strong>First Contributions</strong> - <a href="https://github.com/firstcontributions/first-contributions" target="_blank">https://github.com/firstcontributions/first-contributions</a> <br>
-<strong>Balta.io</strong> - <a href="https://github.com/balta-io/2804" target="_blank">https://github.com/balta-io/2804</a> <br>
+<strong>Balta.io</strong> - <a href="https://github.com/balta-io/2804/issues/4" target="_blank">https://github.com/balta-io/2804/issues/4</a> <br>
 </details>
 
 <hr>
@@ -97,15 +104,23 @@ NUXT.JS
 <h3>🗃️ Lista de Todos os Projetos</h3>
 
 <details>
+<summary>Astro</summary> <br>
+<strong>Cantinho do Bloguinho</strong> - <a href="https://cantinho-do-bloguinho.vercel.app/" target="_blank">https://cantinho-do-bloguinho.vercel.app/</a> <br>
+<strong>Astro Documentação</strong> - <a href="https://astro-blog-edijunior88.netlify.app/" target="_blank">https://astro-blog-edijunior88.netlify.app/</a> <br>
+</details>
+
+<details>
 <summary>Vuejs 3</summary> <br>
 <strong>Previsão do Tempo</strong> - <a href="https://previsao-do-tempo-nuxt.vercel.app/" target="_blank">https://previsao-do-tempo-nuxt.vercel.app/</a> <br>
+<strong>Microsoft Learn - Introducao ao Vue</strong> - <a href="https://microsoft-learn-introducao-ao-vue.onrender.com/" target="_blank">https://microsoft-learn-introducao-ao-vue.onrender.com/</a> <br>
 <strong>Casa do Código VueJS</strong> - <a href="https://casa-do-codigo-vuejs.netlify.app/" target="_blank">https://casa-do-codigo-vuejs.netlify.app/</a> <br>
-<strong>Cantinho do Bloguinho</strong> - <a href="https://cantinho-do-bloguinho.vercel.app/" target="_blank">https://cantinho-do-bloguinho.vercel.app/</a> <br>
 <strong>Portfólio v2</strong> - <a href="https://portfolio-v2-edijunior88.vercel.app/" target="_blank">https://portfolio-v2-edijunior88.vercel.app/</a> <br>
 </details>
 
 <details>
 <summary>React</summary> <br>
+<strong>Mini Shopping React + NextJS 14</strong> - <a href="https://mini-shopping-react-nextjs.vercel.app/" target="_blank">https://mini-shopping-react-nextjs.vercel.app/</a> <br>
+<strong>IGMA Teste Front-End</strong> - <a href="https://igma-teste-front-end.vercel.app/" target="_blank">https://igma-teste-front-end.vercel.app/</a> <br>
 <strong>MKS Challenge Front-End</strong> - <a href="https://mks-front-end-challenge-edijunior88.vercel.app/" target="_blank">https://mks-front-end-challenge-edijunior88.vercel.app/</a> <br>
 <strong>Favoritar Repositórios</strong> - <a href="https://projeto-favoritar-repositorios.vercel.app/" target="_blank">https://projeto-favoritar-repositorios.vercel.app/</a> <br>
 <strong>Dogs</strong> - <a href="https://dogsorigamid-edijunior88.netlify.app/" target="_blank">https://dogsorigamid-edijunior88.netlify.app/</a> <br>
@@ -167,11 +182,10 @@ NUXT.JS
 <tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=edijunior88&show_icons=true&theme=chartreuse-dark&bg_color=30,08003C,343300&locale=pt-br&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&disable_animations=true" >
-  
 </td>
-<td>
 
-<img src="https://github-readme-streak-stats-edijunior88.vercel.app/?user=EdiJunior88&theme=chartreuse-dark&locale=pt_BR&background=45%2C000B4D%2C504F04&disable_animations=true">
+<td>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-edijunior88.vercel.app?user=EdiJunior88&theme=neon-palenight&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </td>
 </tr>
  
@@ -189,11 +203,11 @@ NUXT.JS
 
 <h3>👯 Seguidores Recentes</h3>
 
-[warmice71](https://github.com/warmice71)<br>
-[stan8086](https://github.com/stan8086)<br>
-[whereasjovially](https://github.com/whereasjovially)<br>
-[AndriyPapirnyk](https://github.com/AndriyPapirnyk)<br>
-[dongwookkim3](https://github.com/dongwookkim3)<br>
+[okerun](https://github.com/okerun)<br>
+[Shubh2-0](https://github.com/Shubh2-0)<br>
+[0vm](https://github.com/0vm)<br>
+[nelbetancur](https://github.com/nelbetancur)<br>
+[Ballwictb](https://github.com/Ballwictb)<br>
 
 <hr>
   
