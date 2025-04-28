@@ -202,10 +202,10 @@ ASTRO
 <h3>👯 Seguidores Recentes</h3>
 
 [okerun](https://github.com/okerun)<br>
-[Shubh2-0](https://github.com/Shubh2-0)<br>
 [0vm](https://github.com/0vm)<br>
 [nelbetancur](https://github.com/nelbetancur)<br>
 [Ballwictb](https://github.com/Ballwictb)<br>
+[AttackOnMyFeelings](https://github.com/AttackOnMyFeelings)<br>
 
 <hr>
   
