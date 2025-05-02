@@ -79,7 +79,7 @@ ASTRO
 
 <div align="left">
 
-- [EdiJunior88/contador-de-views](https://github.com/EdiJunior88/contador-de-views) - ⏰ Contador de views do perfil do GitHub &#43; Repositórios (6 days ago / ⭐1)
+- [EdiJunior88/contador-de-views](https://github.com/EdiJunior88/contador-de-views) - ⏰ Contador de views do perfil do GitHub &#43; Repositórios (1 week ago / ⭐1)
 - [EdiJunior88/NewTab_Academy_Angular](https://github.com/EdiJunior88/NewTab_Academy_Angular) - Esse módulo nos fornece uma visão do framework Angular através de conceitos e fundamentos que irão nos ajudar no desenvolvimento de aplicações front-end. (2 months ago / ⭐1)
 - [EdiJunior88/NewTab_Academy_Projetos](https://github.com/EdiJunior88/NewTab_Academy_Projetos) - Vamos simular experiências comuns do dia a dia da profissão, onde você irá construir projetos baseados nas demandas do mercado, terá o acompanhamento de profissionais experientes na área e desenvolverá as principais habilidades técnicas e comportamentais necessárias para iniciar sua carreira. (2 months ago / ⭐6)
 - [EdiJunior88/ONE_Alura_Logica_Programacao_Javasccript](https://github.com/EdiJunior88/ONE_Alura_Logica_Programacao_Javasccript) -  (2 months ago / ⭐0)
