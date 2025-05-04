@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[alejyoo](https://github.com/alejyoo)<br>
 [okerun](https://github.com/okerun)<br>
 [0vm](https://github.com/0vm)<br>
 [nelbetancur](https://github.com/nelbetancur)<br>
 [Ballwictb](https://github.com/Ballwictb)<br>
-[AttackOnMyFeelings](https://github.com/AttackOnMyFeelings)<br>
 
 <hr>
   
