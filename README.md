@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[standardgalactic](https://github.com/standardgalactic)<br>
 [alejyoo](https://github.com/alejyoo)<br>
 [okerun](https://github.com/okerun)<br>
 [0vm](https://github.com/0vm)<br>
 [nelbetancur](https://github.com/nelbetancur)<br>
-[Ballwictb](https://github.com/Ballwictb)<br>
 
 <hr>
   
