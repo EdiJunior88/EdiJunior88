@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[marichu-kt](https://github.com/marichu-kt)<br>
 [devddine](https://github.com/devddine)<br>
 [AmirPeyravan](https://github.com/AmirPeyravan)<br>
 [vikram-singh9](https://github.com/vikram-singh9)<br>
 [standardgalactic](https://github.com/standardgalactic)<br>
-[okerun](https://github.com/okerun)<br>
 
 <hr>
   
