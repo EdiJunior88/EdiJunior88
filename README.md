@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[guevaraStian](https://github.com/guevaraStian)<br>
 [OnyedikaBenjamin](https://github.com/OnyedikaBenjamin)<br>
 [mbahomaid](https://github.com/mbahomaid)<br>
 [AmirPeyravan](https://github.com/AmirPeyravan)<br>
 [vikram-singh9](https://github.com/vikram-singh9)<br>
-[standardgalactic](https://github.com/standardgalactic)<br>
 
 <hr>
   
