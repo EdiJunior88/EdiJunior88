@@ -79,7 +79,7 @@ ASTRO
 
 <div align="left">
 
-- [EdiJunior88/Imersao_React_Alura](https://github.com/EdiJunior88/Imersao_React_Alura) - Serão 5 aulas gratuitas de programação de nível intermediário para você desenvolver o Aluratube, um projeto em React para adicionar ao seu portfólio. (2 weeks ago / ⭐3)
+- [EdiJunior88/Imersao_React_Alura](https://github.com/EdiJunior88/Imersao_React_Alura) - Serão 5 aulas gratuitas de programação de nível intermediário para você desenvolver o Aluratube, um projeto em React para adicionar ao seu portfólio. (2 weeks ago / ⭐2)
 - [EdiJunior88/contador-de-views](https://github.com/EdiJunior88/contador-de-views) - ⏰ Contador de views do perfil do GitHub &#43; Repositórios (1 month ago / ⭐1)
 - [EdiJunior88/ONE_Alura_Logica_Programacao_Javasccript](https://github.com/EdiJunior88/ONE_Alura_Logica_Programacao_Javasccript) -  (3 months ago / ⭐0)
 - [EdiJunior88/NewTab_Academy_Projetos](https://github.com/EdiJunior88/NewTab_Academy_Projetos) - Vamos simular experiências comuns do dia a dia da profissão, onde você irá construir projetos baseados nas demandas do mercado, terá o acompanhamento de profissionais experientes na área e desenvolverá as principais habilidades técnicas e comportamentais necessárias para iniciar sua carreira. (3 months ago / ⭐6)
