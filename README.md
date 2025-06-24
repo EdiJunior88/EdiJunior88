@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[farhan7reza7](https://github.com/farhan7reza7)<br>
 [nikhilpatidar01](https://github.com/nikhilpatidar01)<br>
 [rosem-coder](https://github.com/rosem-coder)<br>
 [buraksocial](https://github.com/buraksocial)<br>
 [Ravi-Dahiya-00](https://github.com/Ravi-Dahiya-00)<br>
-[guevaraStian](https://github.com/guevaraStian)<br>
 
 <hr>
   
