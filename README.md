@@ -79,7 +79,7 @@ ASTRO
 
 <div align="left">
 
-- [EdiJunior88/Imersao_React_Alura](https://github.com/EdiJunior88/Imersao_React_Alura) - Serão 5 aulas gratuitas de programação de nível intermediário para você desenvolver o Aluratube, um projeto em React para adicionar ao seu portfólio. (3 weeks ago / ⭐2)
+- [EdiJunior88/Imersao_React_Alura](https://github.com/EdiJunior88/Imersao_React_Alura) - Serão 5 aulas gratuitas de programação de nível intermediário para você desenvolver o Aluratube, um projeto em React para adicionar ao seu portfólio. (4 weeks ago / ⭐2)
 - [EdiJunior88/contador-de-views](https://github.com/EdiJunior88/contador-de-views) - ⏰ Contador de views do perfil do GitHub &#43; Repositórios (2 months ago / ⭐1)
 - [EdiJunior88/NewTab_Academy_Projetos](https://github.com/EdiJunior88/NewTab_Academy_Projetos) - Vamos simular experiências comuns do dia a dia da profissão, onde você irá construir projetos baseados nas demandas do mercado, terá o acompanhamento de profissionais experientes na área e desenvolverá as principais habilidades técnicas e comportamentais necessárias para iniciar sua carreira. (4 months ago / ⭐6)
 - [EdiJunior88/NewTab_Academy_Angular](https://github.com/EdiJunior88/NewTab_Academy_Angular) - Esse módulo nos fornece uma visão do framework Angular através de conceitos e fundamentos que irão nos ajudar no desenvolvimento de aplicações front-end. (4 months ago / ⭐1)
@@ -202,10 +202,10 @@ ASTRO
 <h3>👯 Seguidores Recentes</h3>
 
 [farhan7reza7](https://github.com/farhan7reza7)<br>
-[nikhilpatidar01](https://github.com/nikhilpatidar01)<br>
 [rosem-coder](https://github.com/rosem-coder)<br>
 [buraksocial](https://github.com/buraksocial)<br>
 [Ravi-Dahiya-00](https://github.com/Ravi-Dahiya-00)<br>
+[guevaraStian](https://github.com/guevaraStian)<br>
 
 <hr>
   
