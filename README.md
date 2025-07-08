@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[oluiscabral](https://github.com/oluiscabral)<br>
 [holasoymalva](https://github.com/holasoymalva)<br>
 [0joseDark](https://github.com/0joseDark)<br>
 [kyiroywops](https://github.com/kyiroywops)<br>
 [rosem-coder](https://github.com/rosem-coder)<br>
-[buraksocial](https://github.com/buraksocial)<br>
 
 <hr>
   
