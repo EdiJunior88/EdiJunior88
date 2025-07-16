@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[filedonkey](https://github.com/filedonkey)<br>
 [Lyne6666](https://github.com/Lyne6666)<br>
 [oluiscabral](https://github.com/oluiscabral)<br>
 [holasoymalva](https://github.com/holasoymalva)<br>
 [0joseDark](https://github.com/0joseDark)<br>
-[kyiroywops](https://github.com/kyiroywops)<br>
 
 <hr>
   
