@@ -204,8 +204,8 @@ ASTRO
 [nikhilpatidar01](https://github.com/nikhilpatidar01)<br>
 [filedonkey](https://github.com/filedonkey)<br>
 [Lyne6666](https://github.com/Lyne6666)<br>
-[oluiscabral](https://github.com/oluiscabral)<br>
 [0joseDark](https://github.com/0joseDark)<br>
+[kyiroywops](https://github.com/kyiroywops)<br>
 
 <hr>
   
