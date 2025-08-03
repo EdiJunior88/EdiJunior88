@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[gary111868](https://github.com/gary111868)<br>
 [ludo53](https://github.com/ludo53)<br>
 [Muramatsuu](https://github.com/Muramatsuu)<br>
 [leo-lem](https://github.com/leo-lem)<br>
 [onamfc](https://github.com/onamfc)<br>
-[thornebaker](https://github.com/thornebaker)<br>
 
 <hr>
   
