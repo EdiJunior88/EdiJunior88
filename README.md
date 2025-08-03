@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[xgek](https://github.com/xgek)<br>
 [AbdullahRashid133](https://github.com/AbdullahRashid133)<br>
 [gary111868](https://github.com/gary111868)<br>
 [ludo53](https://github.com/ludo53)<br>
 [Muramatsuu](https://github.com/Muramatsuu)<br>
-[leo-lem](https://github.com/leo-lem)<br>
 
 <hr>
   
