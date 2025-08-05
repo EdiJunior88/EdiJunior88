@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[uhsr](https://github.com/uhsr)<br>
 [syedbilalalam1](https://github.com/syedbilalalam1)<br>
 [C0381](https://github.com/C0381)<br>
 [xgek](https://github.com/xgek)<br>
 [AbdullahRashid133](https://github.com/AbdullahRashid133)<br>
-[gary111868](https://github.com/gary111868)<br>
 
 <hr>
   
