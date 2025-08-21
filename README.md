@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[seckinyasar](https://github.com/seckinyasar)<br>
 [meliksahyorulmazlar](https://github.com/meliksahyorulmazlar)<br>
 [narex-ai](https://github.com/narex-ai)<br>
 [samsorrahman](https://github.com/samsorrahman)<br>
 [akifgrape](https://github.com/akifgrape)<br>
-[holasoymalva](https://github.com/holasoymalva)<br>
 
 <hr>
   
