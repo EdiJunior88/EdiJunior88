@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
-[gugs881](https://github.com/gugs881)<br>
 [heracodes123](https://github.com/heracodes123)<br>
 [Prdsilva80](https://github.com/Prdsilva80)<br>
 [seckinyasar](https://github.com/seckinyasar)<br>
 [meliksahyorulmazlar](https://github.com/meliksahyorulmazlar)<br>
+[samsorrahman](https://github.com/samsorrahman)<br>
 
 <hr>
   
