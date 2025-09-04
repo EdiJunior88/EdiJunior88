@@ -205,7 +205,7 @@ ASTRO
 [Prdsilva80](https://github.com/Prdsilva80)<br>
 [seckinyasar](https://github.com/seckinyasar)<br>
 [meliksahyorulmazlar](https://github.com/meliksahyorulmazlar)<br>
-[samsorrahman](https://github.com/samsorrahman)<br>
+[uhsr](https://github.com/uhsr)<br>
 
 <hr>
   
