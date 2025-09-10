@@ -79,11 +79,11 @@ ASTRO
 
 <div align="left">
 
-- [EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes](https://github.com/EdiJunior88/Origamid_HTML_e_CSS_para_Iniciantes) - Front End, HTML, Tags, Acessibilidade, CSS, Grid Layout, Flexbox, Media Queries, Responsivo, VS Code e mais. (today / ⭐10)
-- [EdiJunior88/Origamid_React_Completo](https://github.com/EdiJunior88/Origamid_React_Completo) - O foco do curso é no entendimento completo do React, com isso praticamente tudo será criado do zero, sem a dependência de pacotes externos. (today / ⭐5)
-- [EdiJunior88/NewTab_Academy_Projeto_Individual_React](https://github.com/EdiJunior88/NewTab_Academy_Projeto_Individual_React) - O objetivo é construir uma aplicação que simula o envio de dinheiro para uma outra pessoa, via cartão de crédito. (today / ⭐2)
-- [EdiJunior88/Balta.io_Comecando_com_Angular](https://github.com/EdiJunior88/Balta.io_Comecando_com_Angular) - O curso aborda todos os conceitos fundamentais do Angular e, aprendendo os conceitos fundamentais, você poderá utilizá-los em todas as versões mais recentes do Framework. (today / ⭐1)
-- [EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado](https://github.com/EdiJunior88/Sujeito_Programador_NextJS_do_zero_ao_avancado) - Neste curso irá descobrir o jeito mais moderno de desenvolver aplicações web e sistemas web, você vai aprender a criar aplicações completas do extremo zero e entendendo na prática a usar todo poder e recurso do ReactJS e NextJS. (today / ⭐0)
+- [EdiJunior88/Imersao_React_Alura](https://github.com/EdiJunior88/Imersao_React_Alura) - Serão 5 aulas gratuitas de programação de nível intermediário para você desenvolver o Aluratube, um projeto em React para adicionar ao seu portfólio. (1 day ago / ⭐2)
+- [EdiJunior88/Origamid_React_Completo](https://github.com/EdiJunior88/Origamid_React_Completo) - O foco do curso é no entendimento completo do React, com isso praticamente tudo será criado do zero, sem a dependência de pacotes externos. (1 day ago / ⭐5)
+- [EdiJunior88/GitHub_Finder](https://github.com/EdiJunior88/GitHub_Finder) - Um projeto que utiliza a API do GitHub para buscar um usuário e mostrar os 5 melhores repositórios com mais estrelas (1 day ago / ⭐1)
+- [EdiJunior88/NewTab_Academy_Projeto_Individual_React](https://github.com/EdiJunior88/NewTab_Academy_Projeto_Individual_React) - O objetivo é construir uma aplicação que simula o envio de dinheiro para uma outra pessoa, via cartão de crédito. (1 day ago / ⭐2)
+- [EdiJunior88/Igma_Teste_FrontEnd](https://github.com/EdiJunior88/Igma_Teste_FrontEnd) - 📜Realizar a produção de uma página web de acordo com as especificações que a pessoa de design trouxe no Handoff. (1 day ago / ⭐0)
 </div>
 
 <hr>
