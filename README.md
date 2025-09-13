@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[emilycodestar](https://github.com/emilycodestar)<br>
 [marichu-kt](https://github.com/marichu-kt)<br>
 [XiaomingX](https://github.com/XiaomingX)<br>
 [heracodes123](https://github.com/heracodes123)<br>
 [Prdsilva80](https://github.com/Prdsilva80)<br>
-[seckinyasar](https://github.com/seckinyasar)<br>
 
 <hr>
   
