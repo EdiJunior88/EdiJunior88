@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[gaqx](https://github.com/gaqx)<br>
 [OnyedikaBenjamin](https://github.com/OnyedikaBenjamin)<br>
 [sphinxzerd](https://github.com/sphinxzerd)<br>
 [connect2abdulaziz](https://github.com/connect2abdulaziz)<br>
 [emilycodestar](https://github.com/emilycodestar)<br>
-[marichu-kt](https://github.com/marichu-kt)<br>
 
 <hr>
   
