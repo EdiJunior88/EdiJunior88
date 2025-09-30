@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[vimal0156](https://github.com/vimal0156)<br>
 [murapadev](https://github.com/murapadev)<br>
 [gaqx](https://github.com/gaqx)<br>
 [OnyedikaBenjamin](https://github.com/OnyedikaBenjamin)<br>
 [sphinxzerd](https://github.com/sphinxzerd)<br>
-[connect2abdulaziz](https://github.com/connect2abdulaziz)<br>
 
 <hr>
   
