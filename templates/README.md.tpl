@@ -186,7 +186,7 @@ ASTRO
  
 <tr align="center">
 <td>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=edijunior88&show_icons=true&langs_count=8&locale=pt-br&hide=dockerfile,php,shell,Classic%20ASP,c%23&disable_animations=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edijunior88&show_icons=true&langs_count=8&locale=pt-br&hide=dockerfile,php,shell,Classic%20ASP,c%23&disable_animations=true">
 </td>
 <td>
 <img src="https://github-trophies.vercel.app/?username=EdiJunior88&theme=juicyfresh&column=3&margin-w=15&margin-h=15&disable_animations=true">
