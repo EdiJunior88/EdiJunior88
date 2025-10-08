@@ -201,7 +201,7 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
-[ritesh-chauhan0x1](https://github.com/ritesh-chauhan0x1)<br>
+[xxspell](https://github.com/xxspell)<br>
 [giladfuchs](https://github.com/giladfuchs)<br>
 [vimal0156](https://github.com/vimal0156)<br>
 [gaqx](https://github.com/gaqx)<br>
