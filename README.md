@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[ankitkumarbarik](https://github.com/ankitkumarbarik)<br>
 [ChinmayKaitade](https://github.com/ChinmayKaitade)<br>
 [Prdsilva80](https://github.com/Prdsilva80)<br>
 [vimal0156](https://github.com/vimal0156)<br>
 [gaqx](https://github.com/gaqx)<br>
-[OnyedikaBenjamin](https://github.com/OnyedikaBenjamin)<br>
 
 <hr>
   
