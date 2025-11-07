@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
-[ivasik-k7](https://github.com/ivasik-k7)<br>
 [nfterrax](https://github.com/nfterrax)<br>
 [spence709](https://github.com/spence709)<br>
 [CelaDaniel](https://github.com/CelaDaniel)<br>
 [ChinmayKaitade](https://github.com/ChinmayKaitade)<br>
+[Prdsilva80](https://github.com/Prdsilva80)<br>
 
 <hr>
   
