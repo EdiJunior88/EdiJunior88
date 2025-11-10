@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[S4IL21](https://github.com/S4IL21)<br>
 [giladfuchs](https://github.com/giladfuchs)<br>
 [nfterrax](https://github.com/nfterrax)<br>
 [spence709](https://github.com/spence709)<br>
 [CelaDaniel](https://github.com/CelaDaniel)<br>
-[ChinmayKaitade](https://github.com/ChinmayKaitade)<br>
 
 <hr>
   
