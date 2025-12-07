@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[COUNTRY-HUMANS](https://github.com/COUNTRY-HUMANS)<br>
 [ivasik-k7](https://github.com/ivasik-k7)<br>
 [S4IL21](https://github.com/S4IL21)<br>
 [nfterrax](https://github.com/nfterrax)<br>
 [spence709](https://github.com/spence709)<br>
-[CelaDaniel](https://github.com/CelaDaniel)<br>
 
 <hr>
   
