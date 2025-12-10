@@ -204,8 +204,8 @@ ASTRO
 [iousuz](https://github.com/iousuz)<br>
 [BEPb](https://github.com/BEPb)<br>
 [COUNTRY-HUMANS](https://github.com/COUNTRY-HUMANS)<br>
-[ivasik-k7](https://github.com/ivasik-k7)<br>
 [S4IL21](https://github.com/S4IL21)<br>
+[nfterrax](https://github.com/nfterrax)<br>
 
 <hr>
   
