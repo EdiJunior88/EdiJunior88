@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[lorde-enigma](https://github.com/lorde-enigma)<br>
 [iousuz](https://github.com/iousuz)<br>
 [BEPb](https://github.com/BEPb)<br>
 [COUNTRY-HUMANS](https://github.com/COUNTRY-HUMANS)<br>
 [S4IL21](https://github.com/S4IL21)<br>
-[nfterrax](https://github.com/nfterrax)<br>
 
 <hr>
   
