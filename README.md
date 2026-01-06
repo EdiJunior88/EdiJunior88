@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[minouou](https://github.com/minouou)<br>
 [aertsimon90](https://github.com/aertsimon90)<br>
 [hexddine](https://github.com/hexddine)<br>
 [lorde-enigma](https://github.com/lorde-enigma)<br>
 [iousuz](https://github.com/iousuz)<br>
-[BEPb](https://github.com/BEPb)<br>
 
 <hr>
   
