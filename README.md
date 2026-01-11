@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[thomaaf69](https://github.com/thomaaf69)<br>
 [0Darkn](https://github.com/0Darkn)<br>
 [zynapsee](https://github.com/zynapsee)<br>
 [SamuraiJack96](https://github.com/SamuraiJack96)<br>
 [Marwannabil92](https://github.com/Marwannabil92)<br>
-[rasidi3112](https://github.com/rasidi3112)<br>
 
 <hr>
   
