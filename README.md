@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[tetref](https://github.com/tetref)<br>
 [OOLin](https://github.com/OOLin)<br>
 [0Darkn](https://github.com/0Darkn)<br>
 [rasidi3112](https://github.com/rasidi3112)<br>
 [minouou](https://github.com/minouou)<br>
-[hexddine](https://github.com/hexddine)<br>
 
 <hr>
   
