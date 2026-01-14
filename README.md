@@ -204,8 +204,8 @@ ASTRO
 [OOLin](https://github.com/OOLin)<br>
 [thomaaf69](https://github.com/thomaaf69)<br>
 [0Darkn](https://github.com/0Darkn)<br>
-[zynapsee](https://github.com/zynapsee)<br>
 [rasidi3112](https://github.com/rasidi3112)<br>
+[minouou](https://github.com/minouou)<br>
 
 <hr>
   
