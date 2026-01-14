@@ -202,10 +202,10 @@ ASTRO
 <h3>👯 Seguidores Recentes</h3>
 
 [OOLin](https://github.com/OOLin)<br>
-[thomaaf69](https://github.com/thomaaf69)<br>
 [0Darkn](https://github.com/0Darkn)<br>
 [rasidi3112](https://github.com/rasidi3112)<br>
 [minouou](https://github.com/minouou)<br>
+[hexddine](https://github.com/hexddine)<br>
 
 <hr>
   
