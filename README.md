@@ -205,7 +205,7 @@ ASTRO
 [OOLin](https://github.com/OOLin)<br>
 [0Darkn](https://github.com/0Darkn)<br>
 [minouou](https://github.com/minouou)<br>
-[hexddine](https://github.com/hexddine)<br>
+[lorde-enigma](https://github.com/lorde-enigma)<br>
 
 <hr>
   
