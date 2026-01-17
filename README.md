@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[lezer0208](https://github.com/lezer0208)<br>
 [Light00Side](https://github.com/Light00Side)<br>
 [xryutaro](https://github.com/xryutaro)<br>
 [0Darkn](https://github.com/0Darkn)<br>
 [minouou](https://github.com/minouou)<br>
-[lorde-enigma](https://github.com/lorde-enigma)<br>
 
 <hr>
   
