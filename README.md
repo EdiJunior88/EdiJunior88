@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[Lilbodo12](https://github.com/Lilbodo12)<br>
 [lezer0208](https://github.com/lezer0208)<br>
 [Light00Side](https://github.com/Light00Side)<br>
 [xryutaro](https://github.com/xryutaro)<br>
 [0Darkn](https://github.com/0Darkn)<br>
-[minouou](https://github.com/minouou)<br>
 
 <hr>
   
