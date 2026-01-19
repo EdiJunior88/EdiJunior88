@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[Ronaldo45rt](https://github.com/Ronaldo45rt)<br>
 [iagomourarabelo](https://github.com/iagomourarabelo)<br>
 [hasan4224](https://github.com/hasan4224)<br>
 [eagleeye410](https://github.com/eagleeye410)<br>
 [draifodil](https://github.com/draifodil)<br>
-[Lilbodo12](https://github.com/Lilbodo12)<br>
 
 <hr>
   
