@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[eGBang](https://github.com/eGBang)<br>
 [emilycodestar](https://github.com/emilycodestar)<br>
 [ZainJavaid](https://github.com/ZainJavaid)<br>
 [LustraI](https://github.com/LustraI)<br>
 [Ronaldo45rt](https://github.com/Ronaldo45rt)<br>
-[iagomourarabelo](https://github.com/iagomourarabelo)<br>
 
 <hr>
   
