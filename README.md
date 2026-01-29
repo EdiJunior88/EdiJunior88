@@ -202,10 +202,10 @@ ASTRO
 <h3>👯 Seguidores Recentes</h3>
 
 [5c0](https://github.com/5c0)<br>
-[eGBang](https://github.com/eGBang)<br>
 [emilycodestar](https://github.com/emilycodestar)<br>
-[ZainJavaid](https://github.com/ZainJavaid)<br>
 [LustraI](https://github.com/LustraI)<br>
+[0Darkn](https://github.com/0Darkn)<br>
+[minouou](https://github.com/minouou)<br>
 
 <hr>
   
