@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[juicetreacly](https://github.com/juicetreacly)<br>
 [5c0](https://github.com/5c0)<br>
 [emilycodestar](https://github.com/emilycodestar)<br>
 [LustraI](https://github.com/LustraI)<br>
 [0Darkn](https://github.com/0Darkn)<br>
-[minouou](https://github.com/minouou)<br>
 
 <hr>
   
