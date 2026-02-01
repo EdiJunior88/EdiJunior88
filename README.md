@@ -202,10 +202,10 @@ ASTRO
 <h3>👯 Seguidores Recentes</h3>
 
 [NitrixXero](https://github.com/NitrixXero)<br>
-[juicetreacly](https://github.com/juicetreacly)<br>
 [5c0](https://github.com/5c0)<br>
 [emilycodestar](https://github.com/emilycodestar)<br>
 [LustraI](https://github.com/LustraI)<br>
+[0Darkn](https://github.com/0Darkn)<br>
 
 <hr>
   
