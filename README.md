@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[syaharip005](https://github.com/syaharip005)<br>
 [NitrixXero](https://github.com/NitrixXero)<br>
 [5c0](https://github.com/5c0)<br>
 [emilycodestar](https://github.com/emilycodestar)<br>
 [LustraI](https://github.com/LustraI)<br>
-[0Darkn](https://github.com/0Darkn)<br>
 
 <hr>
   
