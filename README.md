@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[cleinvert](https://github.com/cleinvert)<br>
 [czerid](https://github.com/czerid)<br>
 [zeniofia](https://github.com/zeniofia)<br>
 [susiasa](https://github.com/susiasa)<br>
 [Blazt95](https://github.com/Blazt95)<br>
-[gagaguguk](https://github.com/gagaguguk)<br>
 
 <hr>
   
