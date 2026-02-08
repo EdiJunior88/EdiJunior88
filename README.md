@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[MENOT02](https://github.com/MENOT02)<br>
+[Azrorrrrr](https://github.com/Azrorrrrr)<br>
 [lycherys](https://github.com/lycherys)<br>
 [Seif-01](https://github.com/Seif-01)<br>
 [szenled](https://github.com/szenled)<br>
-[rynesix](https://github.com/rynesix)<br>
-[xedeline](https://github.com/xedeline)<br>
 
 <hr>
   
