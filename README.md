@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[revatiramanoffice](https://github.com/revatiramanoffice)<br>
 [nykoco](https://github.com/nykoco)<br>
 [kunwitch](https://github.com/kunwitch)<br>
 [zefflyn](https://github.com/zefflyn)<br>
 [yumeriu](https://github.com/yumeriu)<br>
-[sincostin](https://github.com/sincostin)<br>
 
 <hr>
   
