@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[nykoco](https://github.com/nykoco)<br>
 [kunwitch](https://github.com/kunwitch)<br>
 [zefflyn](https://github.com/zefflyn)<br>
 [yumeriu](https://github.com/yumeriu)<br>
 [sincostin](https://github.com/sincostin)<br>
-[lesterink](https://github.com/lesterink)<br>
 
 <hr>
   
