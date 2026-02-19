@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[RenanSS1](https://github.com/RenanSS1)<br>
 [revatiramanoffice](https://github.com/revatiramanoffice)<br>
 [nykoco](https://github.com/nykoco)<br>
 [sincostin](https://github.com/sincostin)<br>
 [lesterink](https://github.com/lesterink)<br>
-[erenjugs](https://github.com/erenjugs)<br>
 
 <hr>
   
