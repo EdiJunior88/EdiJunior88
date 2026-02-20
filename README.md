@@ -204,8 +204,8 @@ ASTRO
 [RenanSS1](https://github.com/RenanSS1)<br>
 [revatiramanoffice](https://github.com/revatiramanoffice)<br>
 [nykoco](https://github.com/nykoco)<br>
-[sincostin](https://github.com/sincostin)<br>
-[lesterink](https://github.com/lesterink)<br>
+[MENOT02](https://github.com/MENOT02)<br>
+[Seif-01](https://github.com/Seif-01)<br>
 
 <hr>
   
