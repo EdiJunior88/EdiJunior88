@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[dayanadandachy123](https://github.com/dayanadandachy123)<br>
 [RenanSS1](https://github.com/RenanSS1)<br>
 [revatiramanoffice](https://github.com/revatiramanoffice)<br>
 [nykoco](https://github.com/nykoco)<br>
 [Seif-01](https://github.com/Seif-01)<br>
-[syaharip005](https://github.com/syaharip005)<br>
 
 <hr>
   
