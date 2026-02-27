@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
-[arjtriv](https://github.com/arjtriv)<br>
-[chahe-dridi](https://github.com/chahe-dridi)<br>
-[kylemank](https://github.com/kylemank)<br>
-[dayanadandachy123](https://github.com/dayanadandachy123)<br>
-[RenanSS1](https://github.com/RenanSS1)<br>
+[weirdlone](https://github.com/weirdlone)<br>
+[panyster](https://github.com/panyster)<br>
+[pabwinner](https://github.com/pabwinner)<br>
+[nerywine](https://github.com/nerywine)<br>
+[loreius](https://github.com/loreius)<br>
 
 <hr>
   
