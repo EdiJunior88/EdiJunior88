@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[jaydev787748](https://github.com/jaydev787748)<br>
 [weirdlone](https://github.com/weirdlone)<br>
 [panyster](https://github.com/panyster)<br>
 [pabwinner](https://github.com/pabwinner)<br>
 [nerywine](https://github.com/nerywine)<br>
-[loreius](https://github.com/loreius)<br>
 
 <hr>
   
