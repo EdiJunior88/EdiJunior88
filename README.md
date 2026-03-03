@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[kanachiyu](https://github.com/kanachiyu)<br>
+[juleiyuh](https://github.com/juleiyuh)<br>
 [chahe-dridi](https://github.com/chahe-dridi)<br>
 [neyokata](https://github.com/neyokata)<br>
 [zucklys](https://github.com/zucklys)<br>
-[yakinosy](https://github.com/yakinosy)<br>
-[senoviens](https://github.com/senoviens)<br>
 
 <hr>
   
