@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[lukestoik](https://github.com/lukestoik)<br>
+[zorktys](https://github.com/zorktys)<br>
 [xaviersins](https://github.com/xaviersins)<br>
 [lokitore](https://github.com/lokitore)<br>
 [xenawitch](https://github.com/xenawitch)<br>
-[yuvisevia](https://github.com/yuvisevia)<br>
-[janemarks](https://github.com/janemarks)<br>
 
 <hr>
   
