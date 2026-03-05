@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[riseyuka](https://github.com/riseyuka)<br>
+[jeniflery](https://github.com/jeniflery)<br>
+[jeffyonk](https://github.com/jeffyonk)<br>
 [lukestoik](https://github.com/lukestoik)<br>
 [zorktys](https://github.com/zorktys)<br>
-[xaviersins](https://github.com/xaviersins)<br>
-[lokitore](https://github.com/lokitore)<br>
-[xenawitch](https://github.com/xenawitch)<br>
 
 <hr>
   
