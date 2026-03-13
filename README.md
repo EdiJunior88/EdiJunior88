@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[lxRbckl](https://github.com/lxRbckl)<br>
 [Fredhusne](https://github.com/Fredhusne)<br>
 [serhatbula](https://github.com/serhatbula)<br>
 [riseyuka](https://github.com/riseyuka)<br>
 [jeniflery](https://github.com/jeniflery)<br>
-[jeffyonk](https://github.com/jeffyonk)<br>
 
 <hr>
   
