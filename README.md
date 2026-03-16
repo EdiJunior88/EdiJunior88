@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[joebertcerezo](https://github.com/joebertcerezo)<br>
 [vineyuka](https://github.com/vineyuka)<br>
 [tenrukayaba](https://github.com/tenrukayaba)<br>
 [nueryn](https://github.com/nueryn)<br>
 [moereira](https://github.com/moereira)<br>
-[lunehorb](https://github.com/lunehorb)<br>
 
 <hr>
   
