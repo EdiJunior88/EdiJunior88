@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[ShRP69](https://github.com/ShRP69)<br>
 [alaevate](https://github.com/alaevate)<br>
 [joebertcerezo](https://github.com/joebertcerezo)<br>
 [vineyuka](https://github.com/vineyuka)<br>
 [tenrukayaba](https://github.com/tenrukayaba)<br>
-[nueryn](https://github.com/nueryn)<br>
 
 <hr>
   
