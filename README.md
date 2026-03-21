@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[murapadev](https://github.com/murapadev)<br>
 [ShRP69](https://github.com/ShRP69)<br>
 [alaevate](https://github.com/alaevate)<br>
 [vineyuka](https://github.com/vineyuka)<br>
 [tenrukayaba](https://github.com/tenrukayaba)<br>
-[nueryn](https://github.com/nueryn)<br>
 
 <hr>
   
