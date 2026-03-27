@@ -202,10 +202,10 @@ ASTRO
 <h3>👯 Seguidores Recentes</h3>
 
 [yumeaika](https://github.com/yumeaika)<br>
-[viviwister](https://github.com/viviwister)<br>
 [venyholte](https://github.com/venyholte)<br>
-[senamorde](https://github.com/senamorde)<br>
-[nuychen](https://github.com/nuychen)<br>
+[joehubers](https://github.com/joehubers)<br>
+[dionvolta](https://github.com/dionvolta)<br>
+[davidtoyle](https://github.com/davidtoyle)<br>
 
 <hr>
   
