@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[dbunt1tled](https://github.com/dbunt1tled)<br>
 [lxRbckl](https://github.com/lxRbckl)<br>
 [ShRP69](https://github.com/ShRP69)<br>
 [chahe-dridi](https://github.com/chahe-dridi)<br>
 [jayDevCodes](https://github.com/jayDevCodes)<br>
-[RenanSS1](https://github.com/RenanSS1)<br>
 
 <hr>
   
