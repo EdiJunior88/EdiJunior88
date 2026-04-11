@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[guevaraStian](https://github.com/guevaraStian)<br>
 [yutomiwana](https://github.com/yutomiwana)<br>
 [yukamanawa](https://github.com/yukamanawa)<br>
 [dbunt1tled](https://github.com/dbunt1tled)<br>
 [ShRP69](https://github.com/ShRP69)<br>
-[chahe-dridi](https://github.com/chahe-dridi)<br>
 
 <hr>
   
