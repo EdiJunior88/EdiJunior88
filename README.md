@@ -202,10 +202,10 @@ ASTRO
 <h3>👯 Seguidores Recentes</h3>
 
 [tpgusgh](https://github.com/tpgusgh)<br>
-[BEPb](https://github.com/BEPb)<br>
 [guevaraStian](https://github.com/guevaraStian)<br>
 [yutomiwana](https://github.com/yutomiwana)<br>
 [yukamanawa](https://github.com/yukamanawa)<br>
+[dbunt1tled](https://github.com/dbunt1tled)<br>
 
 <hr>
   
