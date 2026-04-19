@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[stellawinter](https://github.com/stellawinter)<br>
 [giewan](https://github.com/giewan)<br>
 [yulicwan](https://github.com/yulicwan)<br>
 [benalbano](https://github.com/benalbano)<br>
 [jackweirds](https://github.com/jackweirds)<br>
-[tpgusgh](https://github.com/tpgusgh)<br>
 
 <hr>
   
