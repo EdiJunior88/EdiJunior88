@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[murapadev](https://github.com/murapadev)<br>
 [stellawinter](https://github.com/stellawinter)<br>
 [giewan](https://github.com/giewan)<br>
 [yulicwan](https://github.com/yulicwan)<br>
 [benalbano](https://github.com/benalbano)<br>
-[jackweirds](https://github.com/jackweirds)<br>
 
 <hr>
   
