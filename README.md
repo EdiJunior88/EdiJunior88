@@ -201,9 +201,9 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[adornetejr](https://github.com/adornetejr)<br>
 [game-ale](https://github.com/game-ale)<br>
 [BEPb](https://github.com/BEPb)<br>
-[murapadev](https://github.com/murapadev)<br>
 [stellawinter](https://github.com/stellawinter)<br>
 [giewan](https://github.com/giewan)<br>
 
