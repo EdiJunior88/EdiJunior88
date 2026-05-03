@@ -204,8 +204,8 @@ ASTRO
 [adornetejr](https://github.com/adornetejr)<br>
 [game-ale](https://github.com/game-ale)<br>
 [BEPb](https://github.com/BEPb)<br>
-[yulicwan](https://github.com/yulicwan)<br>
-[benalbano](https://github.com/benalbano)<br>
+[guevaraStian](https://github.com/guevaraStian)<br>
+[dbunt1tled](https://github.com/dbunt1tled)<br>
 
 <hr>
   
