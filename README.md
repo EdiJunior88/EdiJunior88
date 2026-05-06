@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[humble-wolf](https://github.com/humble-wolf)<br>
 [adornetejr](https://github.com/adornetejr)<br>
 [game-ale](https://github.com/game-ale)<br>
 [BEPb](https://github.com/BEPb)<br>
 [guevaraStian](https://github.com/guevaraStian)<br>
-[dbunt1tled](https://github.com/dbunt1tled)<br>
 
 <hr>
   
