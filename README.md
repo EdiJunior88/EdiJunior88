@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
-[rob0pup](https://github.com/rob0pup)<br>
-[vierystein](https://github.com/vierystein)<br>
-[mariwatts](https://github.com/mariwatts)<br>
-[lynewinter](https://github.com/lynewinter)<br>
-[kylehyne](https://github.com/kylehyne)<br>
+[zunelyat](https://github.com/zunelyat)<br>
+[zowilyhter](https://github.com/zowilyhter)<br>
+[yupyanyo](https://github.com/yupyanyo)<br>
+[yolenatch](https://github.com/yolenatch)<br>
+[viraweitse](https://github.com/viraweitse)<br>
 
 <hr>
   
