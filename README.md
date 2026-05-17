@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[aza-ali](https://github.com/aza-ali)<br>
 [abdulrdeveloper](https://github.com/abdulrdeveloper)<br>
 [zunelyat](https://github.com/zunelyat)<br>
 [zowilyhter](https://github.com/zowilyhter)<br>
 [yupyanyo](https://github.com/yupyanyo)<br>
-[yolenatch](https://github.com/yolenatch)<br>
 
 <hr>
   
