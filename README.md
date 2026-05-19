@@ -203,9 +203,9 @@ ASTRO
 
 [aza-ali](https://github.com/aza-ali)<br>
 [abdulrdeveloper](https://github.com/abdulrdeveloper)<br>
-[zunelyat](https://github.com/zunelyat)<br>
-[zowilyhter](https://github.com/zowilyhter)<br>
-[yupyanyo](https://github.com/yupyanyo)<br>
+[rob0pup](https://github.com/rob0pup)<br>
+[vierystein](https://github.com/vierystein)<br>
+[mariwatts](https://github.com/mariwatts)<br>
 
 <hr>
   
