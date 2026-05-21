@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[rogeragostinho](https://github.com/rogeragostinho)<br>
 [abdulrdeveloper](https://github.com/abdulrdeveloper)<br>
 [rob0pup](https://github.com/rob0pup)<br>
 [vierystein](https://github.com/vierystein)<br>
 [mariwatts](https://github.com/mariwatts)<br>
-[lynewinter](https://github.com/lynewinter)<br>
 
 <hr>
   
