@@ -204,8 +204,8 @@ ASTRO
 [rogeragostinho](https://github.com/rogeragostinho)<br>
 [abdulrdeveloper](https://github.com/abdulrdeveloper)<br>
 [rob0pup](https://github.com/rob0pup)<br>
-[vierystein](https://github.com/vierystein)<br>
-[mariwatts](https://github.com/mariwatts)<br>
+[N012025](https://github.com/N012025)<br>
+[humble-wolf](https://github.com/humble-wolf)<br>
 
 <hr>
   
