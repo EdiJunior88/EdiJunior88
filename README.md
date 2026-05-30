@@ -203,9 +203,9 @@ ASTRO
 
 [pwnedroot](https://github.com/pwnedroot)<br>
 [rogeragostinho](https://github.com/rogeragostinho)<br>
-[abdulrdeveloper](https://github.com/abdulrdeveloper)<br>
 [rob0pup](https://github.com/rob0pup)<br>
 [N012025](https://github.com/N012025)<br>
+[humble-wolf](https://github.com/humble-wolf)<br>
 
 <hr>
   
