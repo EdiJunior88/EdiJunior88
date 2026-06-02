@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[juliano-alexandre-eufrosino](https://github.com/juliano-alexandre-eufrosino)<br>
 [pwnedroot](https://github.com/pwnedroot)<br>
 [rogeragostinho](https://github.com/rogeragostinho)<br>
 [rob0pup](https://github.com/rob0pup)<br>
 [N012025](https://github.com/N012025)<br>
-[humble-wolf](https://github.com/humble-wolf)<br>
 
 <hr>
   
