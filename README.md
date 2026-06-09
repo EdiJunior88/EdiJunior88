@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[dollar25k](https://github.com/dollar25k)<br>
 [jorgemunozl](https://github.com/jorgemunozl)<br>
 [Nai64](https://github.com/Nai64)<br>
 [BEPb](https://github.com/BEPb)<br>
 [juliano-alexandre-eufrosino](https://github.com/juliano-alexandre-eufrosino)<br>
-[rogeragostinho](https://github.com/rogeragostinho)<br>
 
 <hr>
   
