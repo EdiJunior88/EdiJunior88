@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[lokiwyler](https://github.com/lokiwyler)<br>
+[furendyna](https://github.com/furendyna)<br>
+[frenwinter](https://github.com/frenwinter)<br>
+[jokeyhter](https://github.com/jokeyhter)<br>
 [dollar25k](https://github.com/dollar25k)<br>
-[jorgemunozl](https://github.com/jorgemunozl)<br>
-[Nai64](https://github.com/Nai64)<br>
-[BEPb](https://github.com/BEPb)<br>
-[juliano-alexandre-eufrosino](https://github.com/juliano-alexandre-eufrosino)<br>
 
 <hr>
   
