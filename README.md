@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
-[rasidi3112](https://github.com/rasidi3112)<br>
 [blegdor](https://github.com/blegdor)<br>
 [devycyan](https://github.com/devycyan)<br>
 [hyuntayo](https://github.com/hyuntayo)<br>
 [kerryjanes](https://github.com/kerryjanes)<br>
+[annaveth](https://github.com/annaveth)<br>
 
 <hr>
   
