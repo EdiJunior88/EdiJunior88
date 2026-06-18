@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[gaplopez1991](https://github.com/gaplopez1991)<br>
 [MarkoJovanovic261183](https://github.com/MarkoJovanovic261183)<br>
 [Michel66](https://github.com/Michel66)<br>
 [jkdevcode](https://github.com/jkdevcode)<br>
 [blegdor](https://github.com/blegdor)<br>
-[devycyan](https://github.com/devycyan)<br>
 
 <hr>
   
