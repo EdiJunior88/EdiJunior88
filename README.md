@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[furendyna](https://github.com/furendyna)<br>
+[frenwinter](https://github.com/frenwinter)<br>
+[lokiwyler](https://github.com/lokiwyler)<br>
 [jokeyhter](https://github.com/jokeyhter)<br>
 [gaplopez1991](https://github.com/gaplopez1991)<br>
-[MarkoJovanovic261183](https://github.com/MarkoJovanovic261183)<br>
-[Michel66](https://github.com/Michel66)<br>
-[jkdevcode](https://github.com/jkdevcode)<br>
 
 <hr>
   
