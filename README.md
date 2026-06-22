@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[chrisipanaque](https://github.com/chrisipanaque)<br>
 [furendyna](https://github.com/furendyna)<br>
 [frenwinter](https://github.com/frenwinter)<br>
 [lokiwyler](https://github.com/lokiwyler)<br>
 [jokeyhter](https://github.com/jokeyhter)<br>
-[gaplopez1991](https://github.com/gaplopez1991)<br>
 
 <hr>
   
