@@ -202,10 +202,10 @@ ASTRO
 <h3>👯 Seguidores Recentes</h3>
 
 [aza-ali](https://github.com/aza-ali)<br>
-[mirainiki](https://github.com/mirainiki)<br>
 [otosmane](https://github.com/otosmane)<br>
 [Wenyveo](https://github.com/Wenyveo)<br>
 [lynechic](https://github.com/lynechic)<br>
+[filzehoka](https://github.com/filzehoka)<br>
 
 <hr>
   
