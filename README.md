@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
-[aza-ali](https://github.com/aza-ali)<br>
-[chrisipanaque](https://github.com/chrisipanaque)<br>
-[jorgemunozl](https://github.com/jorgemunozl)<br>
-[Nai64](https://github.com/Nai64)<br>
-[juliano-alexandre-eufrosino](https://github.com/juliano-alexandre-eufrosino)<br>
+[glesmyno](https://github.com/glesmyno)<br>
+[neuslobe](https://github.com/neuslobe)<br>
+[uwuncyan](https://github.com/uwuncyan)<br>
+[dokejaker](https://github.com/dokejaker)<br>
+[yoshican](https://github.com/yoshican)<br>
 
 <hr>
   
