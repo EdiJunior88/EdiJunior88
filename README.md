@@ -202,10 +202,10 @@ ASTRO
 <h3>👯 Seguidores Recentes</h3>
 
 [aza-ali](https://github.com/aza-ali)<br>
-[otosmane](https://github.com/otosmane)<br>
-[Wenyveo](https://github.com/Wenyveo)<br>
-[lynechic](https://github.com/lynechic)<br>
-[filzehoka](https://github.com/filzehoka)<br>
+[chrisipanaque](https://github.com/chrisipanaque)<br>
+[jorgemunozl](https://github.com/jorgemunozl)<br>
+[Nai64](https://github.com/Nai64)<br>
+[juliano-alexandre-eufrosino](https://github.com/juliano-alexandre-eufrosino)<br>
 
 <hr>
   
