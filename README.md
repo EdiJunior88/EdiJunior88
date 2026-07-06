@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[raviwijerathna1](https://github.com/raviwijerathna1)<br>
 [aza-ali](https://github.com/aza-ali)<br>
 [kaiserkernel](https://github.com/kaiserkernel)<br>
 [glesmyno](https://github.com/glesmyno)<br>
 [neuslobe](https://github.com/neuslobe)<br>
-[uwuncyan](https://github.com/uwuncyan)<br>
 
 <hr>
   
