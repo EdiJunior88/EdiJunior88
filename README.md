@@ -203,9 +203,9 @@ ASTRO
 
 [Ali-hey-0](https://github.com/Ali-hey-0)<br>
 [pwnedroot](https://github.com/pwnedroot)<br>
-[manman4](https://github.com/manman4)<br>
 [raviwijerathna1](https://github.com/raviwijerathna1)<br>
 [chrisipanaque](https://github.com/chrisipanaque)<br>
+[jorgemunozl](https://github.com/jorgemunozl)<br>
 
 <hr>
   
