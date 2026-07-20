@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[BEPb](https://github.com/BEPb)<br>
 [Ali-hey-0](https://github.com/Ali-hey-0)<br>
 [pwnedroot](https://github.com/pwnedroot)<br>
 [raviwijerathna1](https://github.com/raviwijerathna1)<br>
 [chrisipanaque](https://github.com/chrisipanaque)<br>
-[jorgemunozl](https://github.com/jorgemunozl)<br>
 
 <hr>
   
