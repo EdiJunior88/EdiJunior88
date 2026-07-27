@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
-[aza-ali](https://github.com/aza-ali)<br>
-[BEPb](https://github.com/BEPb)<br>
-[Ali-hey-0](https://github.com/Ali-hey-0)<br>
-[pwnedroot](https://github.com/pwnedroot)<br>
-[raviwijerathna1](https://github.com/raviwijerathna1)<br>
+[satonakamura](https://github.com/satonakamura)<br>
+[sauerfriedrich](https://github.com/sauerfriedrich)<br>
+[eeteollpsq](https://github.com/eeteollpsq)<br>
+[wesselkuijper](https://github.com/wesselkuijper)<br>
+[sverkelund](https://github.com/sverkelund)<br>
 
 <hr>
   
