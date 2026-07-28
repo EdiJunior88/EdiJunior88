@@ -204,8 +204,8 @@ ASTRO
 [Andrzej43](https://github.com/Andrzej43)<br>
 [inolog](https://github.com/inolog)<br>
 [averywinston](https://github.com/averywinston)<br>
-[aza-ali](https://github.com/aza-ali)<br>
 [Ali-hey-0](https://github.com/Ali-hey-0)<br>
+[pwnedroot](https://github.com/pwnedroot)<br>
 
 <hr>
   
