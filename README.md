@@ -201,10 +201,10 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[giladfuchs](https://github.com/giladfuchs)<br>
 [Andrzej43](https://github.com/Andrzej43)<br>
 [inolog](https://github.com/inolog)<br>
 [averywinston](https://github.com/averywinston)<br>
-[Ali-hey-0](https://github.com/Ali-hey-0)<br>
 [pwnedroot](https://github.com/pwnedroot)<br>
 
 <hr>
