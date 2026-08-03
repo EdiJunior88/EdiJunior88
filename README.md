@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[harrietbrooke](https://github.com/harrietbrooke)<br>
+[alishamari](https://github.com/alishamari)<br>
+[sanjanvandijk](https://github.com/sanjanvandijk)<br>
 [jayamurka](https://github.com/jayamurka)<br>
 [cryptoku39](https://github.com/cryptoku39)<br>
-[ardaltunel](https://github.com/ardaltunel)<br>
-[giladfuchs](https://github.com/giladfuchs)<br>
-[Andrzej43](https://github.com/Andrzej43)<br>
 
 <hr>
   
