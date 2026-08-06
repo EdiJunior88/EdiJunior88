@@ -204,8 +204,8 @@ ASTRO
 [harrietbrooke](https://github.com/harrietbrooke)<br>
 [alishamari](https://github.com/alishamari)<br>
 [sanjanvandijk](https://github.com/sanjanvandijk)<br>
-[jayamurka](https://github.com/jayamurka)<br>
-[cryptoku39](https://github.com/cryptoku39)<br>
+[ardaltunel](https://github.com/ardaltunel)<br>
+[pwnedroot](https://github.com/pwnedroot)<br>
 
 <hr>
   
