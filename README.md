@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[9Michael-Cooley](https://github.com/9Michael-Cooley)<br>
 [KevinWong455](https://github.com/KevinWong455)<br>
 [RashidSaeedAlMazrouei18](https://github.com/RashidSaeedAlMazrouei18)<br>
 [badiranssen](https://github.com/badiranssen)<br>
 [ardaltunel](https://github.com/ardaltunel)<br>
-[pwnedroot](https://github.com/pwnedroot)<br>
 
 <hr>
   
