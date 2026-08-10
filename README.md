@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
-[harrietbrooke](https://github.com/harrietbrooke)<br>
-[alishamari](https://github.com/alishamari)<br>
 [ardaltunel](https://github.com/ardaltunel)<br>
 [pwnedroot](https://github.com/pwnedroot)<br>
 [raviwijerathna1](https://github.com/raviwijerathna1)<br>
+[chrisipanaque](https://github.com/chrisipanaque)<br>
+[jorgemunozl](https://github.com/jorgemunozl)<br>
 
 <hr>
   
