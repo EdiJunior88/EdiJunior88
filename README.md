@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
-[Mftrferdinand](https://github.com/Mftrferdinand)<br>
 [azkaabds](https://github.com/azkaabds)<br>
 [Nisyalz01](https://github.com/Nisyalz01)<br>
 [Seo-yeonLee](https://github.com/Seo-yeonLee)<br>
 [ElvinHasanov3d](https://github.com/ElvinHasanov3d)<br>
+[9Michael-Cooley](https://github.com/9Michael-Cooley)<br>
 
 <hr>
   
