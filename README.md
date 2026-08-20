@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
-[cambot86](https://github.com/cambot86)<br>
-[nordestediego](https://github.com/nordestediego)<br>
-[laloloco89](https://github.com/laloloco89)<br>
-[Endo1933](https://github.com/Endo1933)<br>
 [Sanghyun-0h](https://github.com/Sanghyun-0h)<br>
+[pwnedroot](https://github.com/pwnedroot)<br>
+[raviwijerathna1](https://github.com/raviwijerathna1)<br>
+[jorgemunozl](https://github.com/jorgemunozl)<br>
+[Nai64](https://github.com/Nai64)<br>
 
 <hr>
   
