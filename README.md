@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
-[Sanghyun-0h](https://github.com/Sanghyun-0h)<br>
 [pwnedroot](https://github.com/pwnedroot)<br>
 [raviwijerathna1](https://github.com/raviwijerathna1)<br>
 [jorgemunozl](https://github.com/jorgemunozl)<br>
 [Nai64](https://github.com/Nai64)<br>
+[juliano-alexandre-eufrosino](https://github.com/juliano-alexandre-eufrosino)<br>
 
 <hr>
   
