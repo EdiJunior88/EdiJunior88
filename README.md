@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[journaltraces](https://github.com/journaltraces)<br>
 [aza-ali](https://github.com/aza-ali)<br>
 [pwnedroot](https://github.com/pwnedroot)<br>
 [raviwijerathna1](https://github.com/raviwijerathna1)<br>
 [jorgemunozl](https://github.com/jorgemunozl)<br>
-[Nai64](https://github.com/Nai64)<br>
 
 <hr>
   
