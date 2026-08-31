@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[Joao-Enrique-al](https://github.com/Joao-Enrique-al)<br>
 [devlewicki](https://github.com/devlewicki)<br>
 [aza-ali](https://github.com/aza-ali)<br>
 [pwnedroot](https://github.com/pwnedroot)<br>
 [raviwijerathna1](https://github.com/raviwijerathna1)<br>
-[jorgemunozl](https://github.com/jorgemunozl)<br>
 
 <hr>
   
