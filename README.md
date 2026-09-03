@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[HalfFriedPotato](https://github.com/HalfFriedPotato)<br>
 [Joao-Enrique-al](https://github.com/Joao-Enrique-al)<br>
 [devlewicki](https://github.com/devlewicki)<br>
 [pwnedroot](https://github.com/pwnedroot)<br>
 [raviwijerathna1](https://github.com/raviwijerathna1)<br>
-[jorgemunozl](https://github.com/jorgemunozl)<br>
 
 <hr>
   
