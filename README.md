@@ -203,9 +203,9 @@ ASTRO
 
 [BEPb](https://github.com/BEPb)<br>
 [aza-ali](https://github.com/aza-ali)<br>
-[ShekibHaidari](https://github.com/ShekibHaidari)<br>
 [abdulrdeveloper](https://github.com/abdulrdeveloper)<br>
 [HalfFriedPotato](https://github.com/HalfFriedPotato)<br>
+[Joao-Enrique-al](https://github.com/Joao-Enrique-al)<br>
 
 <hr>
   
