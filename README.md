@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
-[rasidi3112](https://github.com/rasidi3112)<br>
 [BEPb](https://github.com/BEPb)<br>
 [aza-ali](https://github.com/aza-ali)<br>
 [abdulrdeveloper](https://github.com/abdulrdeveloper)<br>
 [HalfFriedPotato](https://github.com/HalfFriedPotato)<br>
+[Joao-Enrique-al](https://github.com/Joao-Enrique-al)<br>
 
 <hr>
   
