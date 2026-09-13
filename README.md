@@ -202,10 +202,10 @@ ASTRO
 <h3>👯 Seguidores Recentes</h3>
 
 [BEPb](https://github.com/BEPb)<br>
-[aza-ali](https://github.com/aza-ali)<br>
 [HalfFriedPotato](https://github.com/HalfFriedPotato)<br>
 [Joao-Enrique-al](https://github.com/Joao-Enrique-al)<br>
 [pwnedroot](https://github.com/pwnedroot)<br>
+[raviwijerathna1](https://github.com/raviwijerathna1)<br>
 
 <hr>
   
