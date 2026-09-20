@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[jkdevcode](https://github.com/jkdevcode)<br>
 [aza-ali](https://github.com/aza-ali)<br>
 [BEPb](https://github.com/BEPb)<br>
 [HalfFriedPotato](https://github.com/HalfFriedPotato)<br>
 [Joao-Enrique-al](https://github.com/Joao-Enrique-al)<br>
-[pwnedroot](https://github.com/pwnedroot)<br>
 
 <hr>
   
