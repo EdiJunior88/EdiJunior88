@@ -201,11 +201,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[Ali-hey-0](https://github.com/Ali-hey-0)<br>
 [chahe-dridi](https://github.com/chahe-dridi)<br>
 [BEPb](https://github.com/BEPb)<br>
 [HalfFriedPotato](https://github.com/HalfFriedPotato)<br>
 [Joao-Enrique-al](https://github.com/Joao-Enrique-al)<br>
-[pwnedroot](https://github.com/pwnedroot)<br>
 
 <hr>
   
