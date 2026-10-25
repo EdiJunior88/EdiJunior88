@@ -196,11 +196,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[aixisstudio](https://github.com/aixisstudio)<br>
 [AhmadJeddi](https://github.com/AhmadJeddi)<br>
 [0vm](https://github.com/0vm)<br>
 [chahe-dridi](https://github.com/chahe-dridi)<br>
 [BEPb](https://github.com/BEPb)<br>
-[HalfFriedPotato](https://github.com/HalfFriedPotato)<br>
 
 <hr>
   
