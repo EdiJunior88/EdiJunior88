@@ -196,11 +196,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[Git-FED](https://github.com/Git-FED)<br>
 [thiagonddev](https://github.com/thiagonddev)<br>
 [shahidazam2020-oss](https://github.com/shahidazam2020-oss)<br>
 [bahattinyunus](https://github.com/bahattinyunus)<br>
 [aza-ali](https://github.com/aza-ali)<br>
-[AhmadJeddi](https://github.com/AhmadJeddi)<br>
 
 <hr>
   
