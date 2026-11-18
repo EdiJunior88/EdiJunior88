@@ -196,11 +196,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
+[Sadra138456](https://github.com/Sadra138456)<br>
 [aza-ali](https://github.com/aza-ali)<br>
 [niltoncezarramones-cmd](https://github.com/niltoncezarramones-cmd)<br>
 [Git-FED](https://github.com/Git-FED)<br>
 [thiagonddev](https://github.com/thiagonddev)<br>
-[shahidazam2020-oss](https://github.com/shahidazam2020-oss)<br>
 
 <hr>
   
