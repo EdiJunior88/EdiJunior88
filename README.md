@@ -196,11 +196,11 @@ ASTRO
 
 <h3>👯 Seguidores Recentes</h3>
 
-[dogukan-cengiz](https://github.com/dogukan-cengiz)<br>
-[milksense](https://github.com/milksense)<br>
 [Sadra138456](https://github.com/Sadra138456)<br>
 [niltoncezarramones-cmd](https://github.com/niltoncezarramones-cmd)<br>
 [thiagonddev](https://github.com/thiagonddev)<br>
+[shahidazam2020-oss](https://github.com/shahidazam2020-oss)<br>
+[AhmadJeddi](https://github.com/AhmadJeddi)<br>
 
 <hr>
   
